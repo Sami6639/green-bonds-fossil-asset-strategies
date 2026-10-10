@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Preserve exact archived bytes so repository files match the SHA-256 manifests.
+* -text

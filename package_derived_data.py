@@ -79,7 +79,7 @@ for folder in folders+['main_exhibits']:
   if not f.is_file() or any(x in f.parts for x in ['sources','source_cells','excluded_sources','visual_qa','__pycache__','local_sources']):continue
   if f.suffix.lower() in ['.csv','.py','.json','.txt'] or (folder in ['main_exhibits','joint_strategy'] and f.suffix.lower() in ['.png','.svg','.xlsx']):files.append(f)
 for f in P.iterdir():
- if f.is_file() and (f.suffix.lower() in ['.py','.txt','.json'] or f.name=='README.md') and f.name not in ['PACKAGE_MANIFEST.csv','CODE_MANIFEST.csv']:files.append(f)
+ if f.is_file() and (f.suffix.lower() in ['.py','.txt','.json'] or f.name in ['README.md','.gitattributes']) and f.name not in ['PACKAGE_MANIFEST.csv','CODE_MANIFEST.csv']:files.append(f)
 files=sorted(set(files))
 code=[f for f in files if f.suffix=='.py'];pd.DataFrame([record(f) for f in code]).to_csv(P/'CODE_MANIFEST.csv',index=False,lineterminator='\n');files.append(P/'CODE_MANIFEST.csv')
 files=sorted(set(files));pd.DataFrame([record(f) for f in files]).to_csv(P/'PACKAGE_MANIFEST.csv',index=False,lineterminator='\n');files.append(P/'PACKAGE_MANIFEST.csv')
