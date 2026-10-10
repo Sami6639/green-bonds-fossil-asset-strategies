@@ -1,0 +1,6 @@
+report_year,evidence_date_or_period,maturity_class,allocation_stock_gbp_m,gb5_allocation_total_gbp_m,project_ids,allocation_stock_share_pct
+2023,2023-03-31,Construction; no generation,166.0,543.9,SSE_VIKING,30.52031623460195
+2023,2023-03-31,Full operation,37.2,543.9,SSE_GORDONBUSH_EXT,6.839492553778269
+2023,2023-03-31,Construction with generation,340.7,543.9,SSE_SEAGREEN1,62.640191211619786
+2024,2024-03-31,Construction; no generation,166.0,543.9,SSE_VIKING,30.52031623460195
+2024,2024-03-31,Full operation,377.9,543.9,SSE_GORDONBUSH_EXT; SSE_SEAGREEN1,69.47968376539805

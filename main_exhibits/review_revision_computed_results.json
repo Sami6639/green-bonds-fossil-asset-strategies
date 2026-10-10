@@ -1,0 +1,98 @@
+{
+  "sse_gb5": [
+    {
+      "report_year": 2023,
+      "evidence_date_or_period": "2023-03-31",
+      "maturity_class": "Construction; no generation",
+      "allocation_stock_gbp_m": 166.0,
+      "gb5_allocation_total_gbp_m": 543.9,
+      "project_ids": "SSE_VIKING",
+      "allocation_stock_share_pct": 30.52031623460195
+    },
+    {
+      "report_year": 2023,
+      "evidence_date_or_period": "2023-03-31",
+      "maturity_class": "Full operation",
+      "allocation_stock_gbp_m": 37.2,
+      "gb5_allocation_total_gbp_m": 543.9,
+      "project_ids": "SSE_GORDONBUSH_EXT",
+      "allocation_stock_share_pct": 6.839492553778269
+    },
+    {
+      "report_year": 2023,
+      "evidence_date_or_period": "2023-03-31",
+      "maturity_class": "Construction with generation",
+      "allocation_stock_gbp_m": 340.7,
+      "gb5_allocation_total_gbp_m": 543.9,
+      "project_ids": "SSE_SEAGREEN1",
+      "allocation_stock_share_pct": 62.640191211619786
+    },
+    {
+      "report_year": 2024,
+      "evidence_date_or_period": "2024-03-31",
+      "maturity_class": "Construction; no generation",
+      "allocation_stock_gbp_m": 166.0,
+      "gb5_allocation_total_gbp_m": 543.9,
+      "project_ids": "SSE_VIKING",
+      "allocation_stock_share_pct": 30.52031623460195
+    },
+    {
+      "report_year": 2024,
+      "evidence_date_or_period": "2024-03-31",
+      "maturity_class": "Full operation",
+      "allocation_stock_gbp_m": 377.9,
+      "gb5_allocation_total_gbp_m": 543.9,
+      "project_ids": "SSE_GORDONBUSH_EXT; SSE_SEAGREEN1",
+      "allocation_stock_share_pct": 69.47968376539805
+    }
+  ],
+  "sse_capacity_sensitivity": [
+    {
+      "boundary": "Reported Thermal total",
+      "opening_mw": 6765.0,
+      "closing_mw": 6210.0,
+      "net_change_mw": -555.0,
+      "net_change_pct": -8.203991130820398
+    },
+    {
+      "boundary": "Thermal fossil categories; multifuel excluded",
+      "opening_mw": 6731.0,
+      "closing_mw": 6210.0,
+      "net_change_mw": -521.0,
+      "net_change_pct": -7.740306046649829
+    },
+    {
+      "boundary": "Gas/oil within Thermal",
+      "opening_mw": 5221.0,
+      "closing_mw": 6210.0,
+      "net_change_mw": 989.0,
+      "net_change_pct": 18.94273127753304
+    }
+  ],
+  "enel_2019_reallocation_eur_m": 156.86,
+  "enel_2018_companion_eur_m": 72.74,
+  "enel_2021_source_chain": {
+    "source_code": "EN-G21",
+    "title": "Enel Green Bond Report 2021",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2021/green-bond-report-2021_en.pdf",
+    "pdf_page_1_based": 13,
+    "printed_page": 13,
+    "panel_file": "enel/green_2019_issue_full_annual_panel.csv",
+    "present_report_entries": 15,
+    "rounded_allocation_row_sum_eur_m": 986.0,
+    "panel_source_id": "green_bond_2021",
+    "source_pdf_sha256": "8c64c2f0d26002c80a50ef592b2a7411047627c24e4c5a6721644a68f3183d77",
+    "affected_comparisons": [
+      "2020–2021",
+      "2021–2022"
+    ],
+    "required_visible_locations": [
+      "Appendix A",
+      "Appendix pool-continuity source note",
+      "Table 2 source note where annual identity history is referenced"
+    ],
+    "audit_scope": "Existing source page and panel source IDs; report vintage does not establish original public disclosure day."
+  },
+  "no_regression": true,
+  "new_analyses_use_existing_csvs": true
+}

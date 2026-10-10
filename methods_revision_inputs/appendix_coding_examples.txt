@@ -1,0 +1,29 @@
+Supplementary Appendix B Worked coding examples
+
+Scope and source decisions
+
+Each example begins with an observed record, identifies the additional evidence required, and states the resulting claim and unresolved fields. Evidence priority follows the claim being tested: the relevant allocation report governs the reported financial assignment, an achieved-milestone record governs operation, and transaction or accounting records govern ownership and control. A later publication does not automatically supersede an earlier observation. Both versions remain in the register when their measurement bases or identities cannot be reconciled. Numerical reproducibility is distinct from independent human recoding; no interrater study is claimed.
+
+B1 Reporting identity and true replacement
+
+Starting record: Enel's 2019-issue allocation tables retain an approximately EUR 986 million aggregate but show different project entries over time. Required fields are instrument identifier, normalized project name, location/technology, source vintage, entry/exit status, allocation amount and any explicit substitution explanation. Normalize formatting only; treat different names as aliases only when location, entity or source-explicit identity evidence establishes the same project. Do not merge plants because their allocations or capacities are similar.
+
+Application: the 2020 note explicitly transfers approximately EUR 7 million from Girgarre to already-present Amistad IV. The 2023 note identifies Cohuna/Kafireas removal and Alta Farms II/Seven Cowboy replacement, with EUR 156.86 million for the selected 2019 issue. These are source-explicit assignment changes, not inferred renamings. One continuing entry groups eight unnamed Italian hydro plants and remains one reporting identity; its internal physical membership is unresolved. The resulting claim is documented pool replacement. Plant closure, cancellation or new commissioning in the entry year is not established; the receiving 2023 projects report operation in 2022. The companion 2018-issue reassignment remains a separate EUR 72.74 million observation. [EN-G19; EN-G20; EN-G21; EN-G22; EN-G23; EN-G24]
+
+B2 Ownership and financial perimeter
+
+Starting record: the 2023 Enel report attributes Cohuna and Kafireas pool removal to deconsolidation. Required fields are the parent/subsidiary crosswalk, transaction scope, effective date, stake/control before and after, and the financing document's own explanation. Parent-level ownership changes must not be represented as direct sales of identical percentages of each plant.
+
+Application: the annual report records sales of 50% of the Australian renewables holding entities in September 2023 and of Enel Green Power Hellas in December, retaining joint control. Kafireas's earlier commissioning announcement identifies the Hellas relationship. Taken together, the documents support a connection between subsidiary control restructuring and allocation replacement while an economic interest remains. They do not establish full economic exit, physical closure or a financing link to coal retirements. The stated stewardship rationale is an issuer attribution. Exact within-year allocation decision dates remain unresolved. [EN-G23; EN-AR23; EN-KAF19]
+
+B3 Physical maturity, zero production and conflicting capacity
+
+Starting record: SSE classifies GB5 allocations as refinancing, while Table 6 reports construction/operating information and output. Required fields are the physical cutoff, construction status, achieved full-operation milestone, production period/value and qualifying ownership basis. Nonproducing construction requires a reported zero or explicit pre-production evidence; an empty generation field is unresolved. Construction is compatible with positive output.
+
+Application: Seagreen reports 345.3 GWh while construction continues at 31 March 2023, so it is partially producing, followed by full operation announced on 17 October 2023. Viking reports zero at both March cutoffs and is subsequently announced fully operational on 29 August 2024; that later event cannot be backfilled. Its allocation-report capacity is 443 MW and completion-announcement capacity 434 MW. No documented reconciliation of those quantities is available, so both remain, with an unresolved discrepancy flag. For the reported allocation-table total, 443 MW is retained as the source's observation, without claiming verified delivered capacity. Seagreen's reported 49% SSE interest governs its qualifying output/capacity scope; monetary allocation weights do not convert those quantities into bond-attributable production. Physical quantities repeated across financing links are deduplicated. [SS-G23; SS-G24; SS-SEAGREEN; SS-VIKING]
+
+B4 Continuing identities and a confirmed unchanged observation
+
+Starting record: Iberdrola repeatedly assigns EUR 800 million to East Anglia ONE and Wikinger; SSE reports Gordonbush Extension in both fiscal snapshots. Required fields are separate project amounts where disclosed, reported capacity basis, achieved operation and ownership share. Continued names alone cannot resolve monetary composition.
+
+Application: Iberdrola's two identities persist across six vintages, but project-specific financial weights remain undisclosed. Both stable and changing weights are compatible with this aggregate record; the claim is name continuity with unresolved composition, not financial instability. In contrast, Gordonbush's GBP 37.2 million assignment, 38 MW qualifying capacity, full-operation status and reported 100% SSE share match at both cutoffs. Those four fields are confirmed unchanged. Generation is not one of the unchanged fields: the two reports give 64.3 and 51.3 GWh. Thus a bounded unchanged result is supported without assuming constant operating conditions. [IB-GREEN; IB-F21; SS-G23; SS-G24]

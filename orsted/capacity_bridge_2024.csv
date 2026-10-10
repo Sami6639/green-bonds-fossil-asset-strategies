@@ -1,0 +1,7 @@
+﻿component_id,year,asset_or_scope,measure_kind,value_mw,value_basis,event_class,source_id,source_page,note
+opening_thermal_capacity,2023,Ørsted thermal electricity capacity,stock,2800,reported,opening_stock,OR_AR_2024,99,Financially consolidated generation capacity; primary fuel mix; standby/conservation excluded.
+esbjerg_closure,2024,Esbjerg Power Station,change,-373,reported capacity removed; signed negative for bridge,closure,OR_AR_2024,99,Source attributes thermal reduction mainly to closure of the 373 MW station.
+kyndby_out_of_operation,2024,Kyndby 260 MW oil unit,change,-260,reported capacity removed; signed negative for bridge,taken_out_of_operation,OR_AR_2024,99,Not established as permanent retirement.
+remaining_net_change_unresolved,2024,Unresolved remainder of issuer thermal capacity change,change,-70,derived residual: 2097 - 2800 - (-373) - (-260),unresolved_net_capacity_change,OR_AR_2024,99,"Narrative mentions part of gas-based Avedøre capacity taken out of operation, without assigning a MW amount. Do not equate this residual to Avedøre or fossil retirement."
+closing_thermal_capacity,2024,Ørsted thermal electricity capacity,stock,2097,reported,closing_stock,OR_AR_2024,99,Includes biomass; not a unique fossil-capacity stock.
+total_change,2024,Ørsted thermal electricity capacity,reported_total_change_not_additional_component,-703,reported and independently verified: 2097 - 2800,total_net_change,OR_AR_2024,99,Do not add this total to bridge components.

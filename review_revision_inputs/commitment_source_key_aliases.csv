@@ -1,0 +1,12 @@
+﻿original_commitment_key,manuscript_source_key,status,source_url,locator
+IB-SPO19,IB-SPO19,Verified source alias,https://www.iberdrola.com/documents/20125/42166/Second_Party_Opinion_VF_20190205.pdf/53fbe6f7-da72-6853-7900-7f8cd664c073?t=1630654962801,"PDF/printed pp1–2,5–7,10"
+IB-FW23-EXCLUDED,IB-FW23-EXCLUDED,Excluded later framework; not a source of 2019 promises,https://www.iberdrola.com/documents/20125/42166/Iberdrola_Framework_for_Green_Financing.pdf,printed p6 / PDF p7
+IB-GR19,IB-GREEN,Verified source alias,https://www.iberdrola.com/documents/20125/42169/Informe_retornos_financiacion_verde_2019.pdf,selected bond: printed19/PDF20; separate March 2018 issue: printed16/PDF17 footnote13
+IB-COAL17,IB-COAL,Verified source alias,https://www.iberdrola.com/documents/20125/668426/l3bj0vvk_qaw.pdf,PDF pp1–2
+SS-FW21,SS-FW21,Verified source alias,https://www.sse.com/media/qcmiagvl/green-bonds-framework.pdf,"PDF/printed pp2–4,7,9–10"
+SS-SPO22,SS-SPO22,Verified source alias,https://www.sse.com/media/ispikvej/sse-green-bond-eligibility-assessment-2022-23-jul-2022.pdf,"PDF pp1–4,12–13"
+SS-CR24,SS-CR24,Verified source alias,https://www.sse.com/media/515gfsh0/sse-green-bond-criteria-document-2024-v4.pdf,printed pp2–4 / PDF pp3–5
+EN-FW18,EN-FW18,Verified source alias,https://www.enel.com/content/dam/enel-com/documenti/investitori/investire-in-enel/programmi-principali/green-bond/green-bond-framework_november2018.pdf,"PDF/printed pp1–2,4–6"
+EN-GB23,EN-G23,Verified source alias,https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2023/green-bond-report-2023_en.pdf,PDF/printed p4 and footnotes1–2; p5 reporting method
+EN-AR23,EN-AR23,Verified source alias,https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2023/annuali/en/integrated-annual-report_2023.pdf,"PDF/printed pp6,235,237,355,483"
+EN-KAF19,EN-KAF19,Verified source alias,https://www.enel.com/media/explore/search-press-releases/press/2019/10/enel-inaugurates-kafireas-the-largest-wind-facility-in-greece,Opening paragraph of dated issuer release

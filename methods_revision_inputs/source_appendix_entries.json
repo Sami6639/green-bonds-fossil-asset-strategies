@@ -1,0 +1,634 @@
+[
+  {
+    "source_key": "EN-G19",
+    "issuer": "Enel",
+    "display_title": "Green Bond Report 2019",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2019/green-bond-report-2019_en.pdf",
+    "display_locator": "PDF pp. 6 (printed p. 4) and 13",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-G20",
+    "issuer": "Enel",
+    "display_title": "Green Bond Report 2020",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2020/green-bond-report-2020_en.pdf",
+    "display_locator": "PDF p. 13 (printed p. 11), Table A and footnote 1",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-G21",
+    "issuer": "Enel",
+    "display_title": "Green Bond Report 2021",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2021/green-bond-report-2021_en.pdf",
+    "display_locator": "PDF p. 13, Table A (2019 issue)",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-G22",
+    "issuer": "Enel",
+    "display_title": "Green Bond Report 2022",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2022/green-bond-report-2022_en.pdf",
+    "display_locator": "PDF p. 13, Table A",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-G23",
+    "issuer": "Enel",
+    "display_title": "Green Bond Report 2023",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2023/green-bond-report-2023_en.pdf",
+    "display_locator": "PDF pp. 4 and 13",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-G24",
+    "issuer": "Enel",
+    "display_title": "Green Bond Report 2024",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2024/green-bond-report-2024_en.pdf",
+    "display_locator": "PDF p. 7, Table A",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-GREEN",
+    "issuer": "Iberdrola",
+    "display_title": "Green financing returns 2019",
+    "source_url": "https://www.iberdrola.com/documents/20125/42169/Informe_retornos_financiacion_verde_2019.pdf",
+    "display_locator": "PDF p. 20; printed p. 19; PDF p. 3 / printed p. 2 (inventory date)",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-GREEN",
+    "issuer": "Iberdrola",
+    "display_title": "Green financing returns 2020",
+    "source_url": "https://www.iberdrola.com/documents/20125/42169/Green_financing_returns_report_2020.pdf",
+    "display_locator": "PDF p. 22; printed p. 21",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-GREEN",
+    "issuer": "Iberdrola",
+    "display_title": "Green financing returns 2021",
+    "source_url": "https://www.iberdrola.com/documents/20125/42169/Green_financing_returns_report_2021.pdf",
+    "display_locator": "PDF p. 23; printed p. 22",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-GREEN",
+    "issuer": "Iberdrola",
+    "display_title": "Green financing returns 2022",
+    "source_url": "https://www.iberdrola.com/documents/20125/42169/Green_financing_returns_report_2022.pdf",
+    "display_locator": "PDF p. 26; printed p. 26",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-GREEN",
+    "issuer": "Iberdrola",
+    "display_title": "Green financing returns 2023",
+    "source_url": "https://www.iberdrola.com/documents/20125/42169/green-financing-returns-report-2023.pdf",
+    "display_locator": "PDF p. 27; printed p. 27",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-GREEN",
+    "issuer": "Iberdrola",
+    "display_title": "Green financing returns 2024",
+    "source_url": "https://www.iberdrola.com/documents/20125/42169/green-financing-returns-report-2024.pdf",
+    "display_locator": "PDF p. 31; printed p. 31",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-AR20",
+    "issuer": "Iberdrola",
+    "display_title": "Annual Financial Report 2020",
+    "source_url": "https://www.iberdrola.com/documents/20125/42397/gsm21_FinancialStatements_AuditorsReport_Consolidated.pdf",
+    "display_locator": "PDF pp. 243–245 (printed pp. 231–233); p. 63 for acquisition control",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-AR21",
+    "issuer": "Iberdrola",
+    "display_title": "Annual Financial Report 2021",
+    "source_url": "https://www.iberdrola.com/documents/20125/1606413/gsm22_FinancialStatements_AuditorsReport_Consolidated2021.pdf",
+    "display_locator": "PDF pp. 254 and 256 (printed pp. 243 and 245)",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-AR22",
+    "issuer": "Iberdrola",
+    "display_title": "Annual Financial Report 2022",
+    "source_url": "https://www.iberdrola.com/documents/20125/2931678/gsm23_FinancialStatements_AuditorsReport_Consolidated2022.pdf",
+    "display_locator": "PDF pp. 258 and 265 (printed pp. 247 and 254)",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-AR23",
+    "issuer": "Iberdrola",
+    "display_title": "Annual Financial Report 2023",
+    "source_url": "https://www.iberdrola.com/documents/20125/3643974/gsm24-annual-accounts-consolidated-2023.pdf",
+    "display_locator": "PDF pp. 102 and 257 (printed pp. 91 and 254)",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-AR24",
+    "issuer": "Iberdrola",
+    "display_title": "Annual Financial Report 2024",
+    "source_url": "https://www.iberdrola.com/documents/20125/4778712/gsm25-annual-accounts-consolidated-2024.pdf",
+    "display_locator": "PDF pp.182,288,291,297–298 (printed pp.171,277,280,286–287); printed p. 320 / PDF p. 329 (post-sale four-plant PPAs); printed pp. 46–47 (transaction note)",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-F21",
+    "issuer": "Iberdrola",
+    "display_title": "Factbook 2021",
+    "source_url": "https://www.iberdrola.com/documents/20125/41740/Factbook_2021_EN.pdf",
+    "display_locator": "PDF pp. 91 and 115",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-COAL",
+    "issuer": "Iberdrola",
+    "display_title": "Announcement requesting closure authorization for Lada and Velilla",
+    "source_url": "https://www.iberdrola.com/documents/20125/668426/l3bj0vvk_qaw.pdf",
+    "display_locator": "PDF p. 1",
+    "display_date": "2017-11-10"
+  },
+  {
+    "source_key": "SS-G23",
+    "issuer": "SSE",
+    "display_title": "Green Bond Report to March 2023",
+    "source_url": "https://www.sse.com/media/axfpchcj/sse-s-green-bond-report-to-march-2023-green-bonds-1-2-3-4-and-5.pdf",
+    "display_locator": "Table 6, Green Bond 5 project allocation and impact table; 31 March 2023 cutoff",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-G24",
+    "issuer": "SSE",
+    "display_title": "Green Bond Report to March 2024",
+    "source_url": "https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf",
+    "display_locator": "Table 1 (settlement dates); Table 6, PDF p. 10 (project assignments and output); refinancing statement",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-DEC",
+    "issuer": "SSE",
+    "display_title": "Viking investment decision",
+    "source_url": "https://www.sserenewables.com/news-and-views/2020/06/viking-approval-secures-580m-green-recovery-investment-for-shetland/",
+    "display_locator": "Dated announcement, 17 June 2020",
+    "display_date": "2020-06-17"
+  },
+  {
+    "source_key": "SS-DEC",
+    "issuer": "SSE",
+    "display_title": "Gordonbush investment decision",
+    "source_url": "https://www.sse.com/media/jqcamklf/sse-32693-annual-report-2020-web-1.pdf",
+    "display_locator": "Annual Report 2020, printed p. 20",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-DEC",
+    "issuer": "SSE",
+    "display_title": "Seagreen project history",
+    "source_url": "https://www.sserenewables.com/offshore-wind/operational-wind-farms/seagreen/",
+    "display_locator": "Project history; retrospective decision date",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-VIKING",
+    "issuer": "SSE",
+    "display_title": "Viking full-operation announcement",
+    "source_url": "https://www.sserenewables.com/news-and-views/2024/08/landmark-moment-as-sse-powers-up-viking-wind-farm-on-shetland/",
+    "display_locator": "Dated announcement body",
+    "display_date": "2024-08-29"
+  },
+  {
+    "source_key": "SS-SEAGREEN",
+    "issuer": "TotalEnergies",
+    "display_title": "Seagreen full-operation announcement",
+    "source_url": "https://totalenergies.com/newsroom/scotland-totalenergies-commissions-its-biggest-offshore-wind-farm/?lang=eng",
+    "display_locator": "Dated announcement body",
+    "display_date": "2023-10-17"
+  },
+  {
+    "source_key": "SS-AR20",
+    "issuer": "SSE",
+    "display_title": "Annual Report 2020",
+    "source_url": "https://www.sse.com/media/jqcamklf/sse-32693-annual-report-2020-web-1.pdf",
+    "display_locator": "p 68 note 3; p 68 note 4; p 68 note 5",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-AR21",
+    "issuer": "SSE",
+    "display_title": "Annual Report 2021",
+    "source_url": "https://www.sse.com/media/rwhbww02/sse-annual-report-2021.pdf",
+    "display_locator": "p 86 note 4; p 86 note 5",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-AR22",
+    "issuer": "SSE",
+    "display_title": "Annual Report 2022",
+    "source_url": "https://www.sse.com/media/blhnuywb/sse-full-annual-report.pdf",
+    "display_locator": "p 103 note 4",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-AR23",
+    "issuer": "SSE",
+    "display_title": "Annual Report 2023",
+    "source_url": "https://www.sse.com/media/dncdjrcw/sse-annual-report-2023-web-final.pdf",
+    "display_locator": "Thermal KPI note 1;capacity contract table; Thermal KPI note 3;capacity contract table",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-AR24",
+    "issuer": "SSE",
+    "display_title": "Annual Report 2024",
+    "source_url": "https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf",
+    "display_locator": "p 78 note 2",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-THERMAL",
+    "issuer": "SSE / Siemens",
+    "display_title": "Triton acquisition",
+    "source_url": "https://www.ssethermal.com/news-and-views/2022/09/sse-thermal-and-equinor-complete-triton-power-acquisition/",
+    "display_locator": "Dated announcement, 1 September 2022",
+    "display_date": "2022-09-01"
+  },
+  {
+    "source_key": "SS-THERMAL",
+    "issuer": "SSE / Siemens",
+    "display_title": "Keadby 2 operation",
+    "source_url": "https://www.ssethermal.com/news-and-views/2023/03/europe-s-most-efficient-power-station-enters-commercial-operation-in-the-humber/",
+    "display_locator": "Announcement, 15 March 2023; retrospective August 2018 construction date",
+    "display_date": "2023-03-15"
+  },
+  {
+    "source_key": "SS-THERMAL",
+    "issuer": "SSE / Siemens",
+    "display_title": "Keadby 2 groundbreaking",
+    "source_url": "https://news.siemens.co.uk/news/sse-and-siemens-break-ground-at-keadby-2",
+    "display_locator": "Siemens announcement, 6 November 2018",
+    "display_date": "2018-11-06"
+  },
+  {
+    "source_key": "EN-CAP",
+    "issuer": "Enel",
+    "display_title": "Operating data 2019",
+    "source_url": "https://www.enel.com/content/dam/enel-common/press/en/2020-March/Quarterly%20Bulletin%20FY%202019_EN.pdf",
+    "display_locator": "PDF pp. 5",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-CAP",
+    "issuer": "Enel",
+    "display_title": "Operating data 2020",
+    "source_url": "https://www.enel.com/content/dam/enel-common/press/en/2021-March/Bulletin%20operating%20data%2031.12.2020%20ENG.pdf",
+    "display_locator": "PDF pp. 5;6;7;8;9",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-CAP",
+    "issuer": "Enel",
+    "display_title": "Operating data 2021",
+    "source_url": "https://www.enel.com/content/dam/enel-common/press/en/2022-march/Enel%20Quarterly%20Bulletin%20FY%202021%20-%20EN.pdf",
+    "display_locator": "PDF pp. 5;6;7;8",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-CAP",
+    "issuer": "Enel",
+    "display_title": "Operating data 2022",
+    "source_url": "https://www.enel.com/content/dam/enel-common/press/en/2023-march/PR%20Enel%20Quarterly%20Bulletin%20FY%202022.pdf",
+    "display_locator": "PDF pp. 5;6;7;8",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-CAP",
+    "issuer": "Enel",
+    "display_title": "Operating data 2023",
+    "source_url": "https://www.enel.com/content/dam/enel-common/press/en/2024-march/Enel%20Quarterly%20Bulletin%20FY%202023%20-%20EN.pdf",
+    "display_locator": "PDF pp. 9;10;11;12",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-CAP",
+    "issuer": "Enel",
+    "display_title": "Integrated annual report 2024",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2024/annuali/en/integrated-annual-report_2024.pdf",
+    "display_locator": "PDF pp. 178",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-CLOSURES",
+    "issuer": "Enel / Endesa",
+    "display_title": "Endesa annual report 2020",
+    "source_url": "https://www.endesa.com/content/dam/enel-es/endesa-en/home/investors/corporategovernance/shareholdersmeeting/documents/junta-general-2021/005-annual-report-2020-cac-eng-v-cnmv-consolidated.pdf",
+    "display_locator": "PDF p. 181",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-CLOSURES",
+    "issuer": "Enel / Endesa",
+    "display_title": "Sustainability report 2022",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2022/sustainability-report_2022.pdf",
+    "display_locator": "PDF p. 202",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-CLOSURES",
+    "issuer": "Enel / Endesa",
+    "display_title": "Integrated annual report 2023",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2023/annuali/en/integrated-annual-report_2023.pdf",
+    "display_locator": "PDF p. 164",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-AR24",
+    "issuer": "Enel",
+    "display_title": "Integrated Annual Report 2024",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2024/annuali/en/integrated-annual-report_2024.pdf",
+    "display_locator": "PDF pp. 177–178",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-REFT",
+    "issuer": "Enel / Enel Russia",
+    "display_title": "Half-year report 2019",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2019/interim/en/half-year-financial-report_30june2019.pdf",
+    "display_locator": "PDF p. 62",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-REFT",
+    "issuer": "Enel / Enel Russia",
+    "display_title": "Annual report 2019",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2019/annuali/en/annual-report_2019.pdf",
+    "display_locator": "PDF pp. 118 and 149",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-REFT",
+    "issuer": "Enel / Enel Russia",
+    "display_title": "Enel Russia annual report 2020",
+    "source_url": "https://www.el5-energo.ru/upload/iblock/1ad/gtrdgspym3gl2u1vl7vk0g9yrexcfgdg/Annual_report_2020.pdf",
+    "display_locator": "PDF p. 38",
+    "display_date": ""
+  },
+  {
+    "source_key": "CLP-CAP",
+    "issuer": "CLP",
+    "display_title": "Equity coal indicators 2019",
+    "source_url": "https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-3-financial-reports/2023/e_2023E113.pdf.coredownload.pdf",
+    "display_locator": "Printed p. 289 (PDF p. 90)",
+    "display_date": ""
+  },
+  {
+    "source_key": "CLP-CAP",
+    "issuer": "CLP",
+    "display_title": "Equity coal indicators 2024",
+    "source_url": "https://sustainability.clpgroup.com/en/2024/esg-data-hub",
+    "display_locator": "ESG data hub, equity generation capacity, coal row",
+    "display_date": ""
+  },
+  {
+    "source_key": "CLP-CAP",
+    "issuer": "CLP",
+    "display_title": "Annual results 2020",
+    "source_url": "https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-2-results---presentations/1/e_2020%20Annual%20Results%20Announcement_final.pdf.coredownload.pdf",
+    "display_locator": "p. 21, Mount Piper upgrade",
+    "display_date": ""
+  },
+  {
+    "source_key": "CLP-CAP",
+    "issuer": "CLP",
+    "display_title": "Reporting scope 2022",
+    "source_url": "https://sustainability.clpgroup.com/en/2022/about-this-report/reporting-scope-and-data-verification",
+    "display_locator": "Shiheng, Fangchenggang and Apraava ownership/contract exits; capacity corroboration in full register",
+    "display_date": ""
+  },
+  {
+    "source_key": "CLP-CAP",
+    "issuer": "CLP",
+    "display_title": "Annual report 2024",
+    "source_url": "https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-3-financial-reports/2024/e_2024%20Annual%20Report.pdf.coredownload.pdf",
+    "display_locator": "Printed p. 297, note 15",
+    "display_date": ""
+  },
+  {
+    "source_key": "CLP-RESERVE",
+    "issuer": "CLP",
+    "display_title": "Asset book 2023",
+    "source_url": "https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-3-financial-reports/2023/e_2023E114.pdf.coredownload.pdf",
+    "display_locator": "Printed p. 294 (PDF p. 1), note 2",
+    "display_date": ""
+  },
+  {
+    "source_key": "CLP-RESERVE",
+    "issuer": "CLP",
+    "display_title": "Reporting scope 2024",
+    "source_url": "https://sustainability.clpgroup.com/en/2024/about-this-report/reporting-scope-and-data-verification",
+    "display_locator": "Castle Peak A 1–A 3 retirement",
+    "display_date": ""
+  },
+  {
+    "source_key": "CLP-WENT",
+    "issuer": "CLP",
+    "display_title": "Climate action finance report 2024",
+    "source_url": "https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/2024_CA_Finance_Report_en.pdf.coredownload.pdf",
+    "display_locator": "pp. 5, 7, 11",
+    "display_date": ""
+  },
+  {
+    "source_key": "OR-AR24",
+    "issuer": "Ørsted",
+    "display_title": "Ørsted Annual Report 2024",
+    "source_url": "https://cdn.orsted.com/-/media/annual2024/orsted-annual-report-2024.pdf?hash=A05D897FF6CA71315480487832E17FA2&rev=02bde37dc8424c8eb8e4e9f3b65cc833",
+    "display_locator": "pp. 99 and 101",
+    "display_date": ""
+  },
+  {
+    "source_key": "IB-SPO19",
+    "issuer": "Iberdrola",
+    "display_title": "Second-party opinion for February 2019 green hybrid",
+    "source_url": "https://www.iberdrola.com/documents/20125/42166/Second_Party_Opinion_VF_20190205.pdf/53fbe6f7-da72-6853-7900-7f8cd664c073?t=1630654962801",
+    "display_locator": "PDF/printed pp. 1–2, 5–7, 10; signed 4 February 2019",
+    "display_date": "2019-02-04"
+  },
+  {
+    "source_key": "SS-FW21",
+    "issuer": "SSE",
+    "display_title": "Green Bonds Framework 2021",
+    "source_url": "https://www.sse.com/media/qcmiagvl/green-bonds-framework.pdf",
+    "display_locator": "PDF/printed pp. 2–4, 7, 9–10",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-SPO22",
+    "issuer": "SSE",
+    "display_title": "DNV green bond eligibility assessment 2022",
+    "source_url": "https://www.sse.com/media/ispikvej/sse-green-bond-eligibility-assessment-2022-23-jul-2022.pdf",
+    "display_locator": "PDF pp. 1–4, 12–13; 23 July 2022",
+    "display_date": "2022-07-23"
+  },
+  {
+    "source_key": "SS-CR24",
+    "issuer": "SSE",
+    "display_title": "Green bond reporting criteria 2024",
+    "source_url": "https://www.sse.com/media/515gfsh0/sse-green-bond-criteria-document-2024-v4.pdf",
+    "display_locator": "Printed pp. 2–4 (PDF pp. 3–5)",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-FW18",
+    "issuer": "Enel",
+    "display_title": "Green Bond Framework November 2018",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/investire-in-enel/programmi-principali/green-bond/green-bond-framework_november2018.pdf",
+    "display_locator": "PDF/printed pp. 1–2, 4–6",
+    "display_date": "2018-11"
+  },
+  {
+    "source_key": "EN-AR23",
+    "issuer": "Enel",
+    "display_title": "Integrated annual report 2023",
+    "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2023/annuali/en/integrated-annual-report_2023.pdf",
+    "display_locator": "PDF/printed pp. 6, 235, 237, 355, 483",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-KAF19",
+    "issuer": "Enel",
+    "display_title": "Kafireas commissioning announcement",
+    "source_url": "https://www.enel.com/media/explore/search-press-releases/press/2019/10/enel-inaugurates-kafireas-the-largest-wind-facility-in-greece",
+    "display_locator": "Dated release, 15 October 2019; project–Hellas linkage",
+    "display_date": "2019-10-15"
+  },
+  {
+    "source_key": "IB-MX23-MOU",
+    "issuer": "Iberdrola",
+    "display_title": "Iberdrola signs an agreement to sell more than 8,400 MW of combined cycle gas in Mexico for $6 billion",
+    "source_url": "https://www.iberdrola.com/documents/20125/3091655/230404-iberdrola-signs-an-agreement-to-sell-more-than-8400-mw-of-combined-cycle-gas-in-mexico-for-6-billion-usd.pdf",
+    "display_locator": "PDF/printed p1",
+    "display_date": "2023-04-04"
+  },
+  {
+    "source_key": "IB-MX23-STRATEGY",
+    "issuer": "Iberdrola",
+    "display_title": "The New Iberdrola Mexico",
+    "source_url": "https://www.iberdrola.com/documents/20125/3092884/230405-OIR-02-EN.pdf",
+    "display_locator": "PDF/printed pp2–4; p5 forecast assumptions; p6 commercial continuity",
+    "display_date": "2023-04-05"
+  },
+  {
+    "source_key": "IB-MX23-AGREE",
+    "issuer": "Iberdrola",
+    "display_title": "Signed binding agreement to sell 55% of Mexico business for US$6 billion",
+    "source_url": "https://www.iberdrola.com/press-room/news/detail/iberdrola-signs-binding-agreement-to-sell-55-percent-of-its-mexican-business-for-usd-6-billion",
+    "display_locator": "Dated announcement; opening paragraph and transaction description",
+    "display_date": "2023-06-12"
+  },
+  {
+    "source_key": "IB-MX24-CLOSE",
+    "issuer": "Iberdrola",
+    "display_title": "Iberdrola closes the sale of 55% of its business in Mexico for $6.2 billion",
+    "source_url": "https://www.iberdrola.com/press-room/news/detail/iberdrola-closes-the-sale-of-55-of-its-business-in-mexico-for-6-2-billion-dollars",
+    "display_locator": "Opening transaction paragraphs; final paragraph before Commitment to the country’s decarbonization",
+    "display_date": "2024-02-26"
+  },
+  {
+    "source_key": "SS-TRITON22-AGREE",
+    "issuer": "SSE",
+    "display_title": "SSE Thermal and Equinor to acquire Triton Power in acceleration of low-carbon ambitions",
+    "source_url": "https://www.ssethermal.com/news-and-views/2022/06/sse-thermal-and-equinor-to-acquire-triton-power-in-acceleration-of-low-carbon-ambitions/",
+    "display_locator": "Opening paragraphs; expected-completion paragraph; SSE’s emissions pathways",
+    "display_date": "2022-06-28"
+  },
+  {
+    "source_key": "SS-TRITON22-CLOSE",
+    "issuer": "SSE",
+    "display_title": "SSE Thermal and Equinor complete Triton Power acquisition",
+    "source_url": "https://www.ssethermal.com/news-and-views/2022/09/sse-thermal-and-equinor-complete-triton-power-acquisition/",
+    "display_locator": "Opening paragraphs and prospective decarbonisation paragraphs",
+    "display_date": "2022-09-01"
+  },
+  {
+    "source_key": "EQ-TRITON22",
+    "issuer": "Equinor",
+    "display_title": "Equinor and SSE Thermal acquire Triton Power and prepare for transition to hydrogen",
+    "source_url": "https://www.equinor.com/news/20220628-acquire-triton-power-prepare-transition-hydrogen",
+    "display_locator": "Completion update; Saltend natural-gas description; consideration and 50:50 ownership paragraph; date status: 2022-06-28; explicitly updated 2022-09-01",
+    "display_date": ""
+  },
+  {
+    "source_key": "SS-KEADBY18-DECISION",
+    "issuer": "SSE",
+    "display_title": "Financial results to 31 March 2018 and business update: Presentation script part 2",
+    "source_url": "https://www.sse.com/media/3mpby3lb/sse-results-and-business-update-afternoon-session-script.pdf",
+    "display_locator": "PDF/printed p26, Slide 56; p22, Slide 47 for contextual market alternatives",
+    "display_date": "2018-05-25"
+  },
+  {
+    "source_key": "SI-KEADBY18",
+    "issuer": "Siemens",
+    "display_title": "Siemens will deliver one of the world’s most efficient combined cycle power plants to UK",
+    "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-will-deliver-one-worlds-most-efficient-combined-cycle-power-plants-uk",
+    "display_locator": "Dated announcement; construction/schedule paragraph and SSE executive statement",
+    "display_date": "2018-06-05"
+  },
+  {
+    "source_key": "SS-KEADBY23-COD",
+    "issuer": "SSE",
+    "display_title": "Europe’s most-efficient power station enters commercial operation in the Humber",
+    "source_url": "https://www.ssethermal.com/news-and-views/2023/03/europe-s-most-efficient-power-station-enters-commercial-operation-in-the-humber/",
+    "display_locator": "Opening and 893MW/construction/commissioning paragraphs",
+    "display_date": "2023-03-15"
+  },
+  {
+    "source_key": "SS-TARBERT23-PRIOR",
+    "issuer": "SSE",
+    "display_title": "SSE Thermal is charting a path for low-carbon flexible generation in Ireland",
+    "source_url": "https://www.sse.com/news-and-views/2023/02/sse-thermal-is-charting-a-path-for-low-carbon-flexible-generation-in-ireland/",
+    "display_locator": "Existing Tarbert closure paragraph; new-station development and final-investment-decision paragraph",
+    "display_date": "2023-02-28"
+  },
+  {
+    "source_key": "SS-PROSPECTUS24",
+    "issuer": "SSE",
+    "display_title": "Euro Medium Term Note Programme prospectus",
+    "source_url": "https://www.sse.com/media/ej5l4w14/sse-plc_prospectus-2024_final-version.pdf",
+    "display_locator": "PDF/printed p105 operating review and p106 capacity-contract footnote",
+    "display_date": "2024-08-23"
+  },
+  {
+    "source_key": "SS-TARBERT-SITE",
+    "issuer": "SSE",
+    "display_title": "Tarbert",
+    "source_url": "https://www.ssethermal.com/flexible-generation/decommissioned/tarbert/",
+    "display_locator": "Opening paragraph; date status: Undated current page; read 2026-10-10",
+    "display_date": ""
+  },
+  {
+    "source_key": "EN-AU23-AGREE",
+    "issuer": "Enel",
+    "display_title": "Enel signs deal to sell 50% of Enel Green Power Australia to INPEX Corporation",
+    "source_url": "https://www.enel.com/content/dam/enel-common/press/en/2023-july/PR%20EGPA.pdf",
+    "display_locator": "PDF p1: strategy, joint control, financial effects and conditions",
+    "display_date": "2023-07-13"
+  },
+  {
+    "source_key": "EN-GR23-AGREE",
+    "issuer": "Enel",
+    "display_title": "Enel sells 50% of Enel Green Power Hellas to Macquarie Asset Management",
+    "source_url": "https://www.enel.com/content/dam/enel-common/press/en/2023-july/PR%20EGP%20Hellas.pdf",
+    "display_locator": "PDF p1: joint control, expected completion and antitrust condition",
+    "display_date": "2023-07-26"
+  },
+  {
+    "source_key": "IB-OC19",
+    "issuer": "Iberdrola",
+    "display_title": "Offering Circular: EUR 800 million Undated Deeply Subordinated Reset Rate Guaranteed Securities",
+    "source_url": "https://www.iberdrola.com/documents/20125/41881/Offering_Circular_190205.pdf/061be875-ea3f-68c9-92f3-7ba099f18eae?t=1629963856493",
+    "display_locator": "PDF/printed pp. 6, 47 and 64 (Issue Date); pp. 12 and 98 (ISIN)",
+    "display_date": "6 February 2019"
+  }
+]

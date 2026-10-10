@@ -1,0 +1,3 @@
+CANONICAL MAIN EXHIBITS: STRATEGY REVISION
+
+The exact four-table/three-figure contract is canonical_manuscript_exhibits.json. Table 1: selection; Table 2: matched finance/fossil sequences; Table 3: decision chains; Table 4: longer-period boundary-specific bridges. Figure 1: source-defined windows; Figure 2: complete adjacent-interval sequences; Figure 3: boundary bridges. Superseded claim/maturity tables and allocation-replacement figure are clearly named supplements in joint_strategy. Read joint_strategy/METHOD_AND_COVERAGE.txt for temporal and interpretation rules. Run python run_analysis.py at package root before packaging.

@@ -1,0 +1,7 @@
+check,value,status
+capacity_unique_keys,0,PASS
+capacity_has_provenance,0,PASS
+events_unique_keys,0,PASS
+events_has_provenance,0,PASS
+finance_unique_keys,0,PASS
+finance_has_provenance,0,PASS

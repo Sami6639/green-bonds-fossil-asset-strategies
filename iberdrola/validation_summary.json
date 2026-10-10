@@ -1,0 +1,26 @@
+{
+  "issuer_year_technology_rows": 216,
+  "instrument_fact_rows": 116,
+  "project_allocation_rows": 45,
+  "new2024_isins": 8,
+  "new2024_project_rows": 36,
+  "longitudinal_case_rows": 9,
+  "validation_checks": 132,
+  "nonzero_arithmetic_differences": [
+    {
+      "check": "instrument_project_capacity_sum",
+      "year": 2024,
+      "metric": "attributable_capacity_mw",
+      "scope": "XS2748213290",
+      "group": "all_projects",
+      "calculated": 514,
+      "reported": 512,
+      "difference": 2,
+      "status": "rounding_or_source_discrepancy"
+    }
+  ],
+  "primary_keys_unique": true,
+  "all_observed_facts_have_url_page_table_row_field": true,
+  "ccgt_bridge_final_net_residual_mw": 0,
+  "quality_issue_count": 12
+}

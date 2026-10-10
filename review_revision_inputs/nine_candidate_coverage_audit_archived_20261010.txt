@@ -1,0 +1,84 @@
+Nine-candidate evidence and eligibility audit
+10 October 2026 | Public sources inspected, not a completed nine-firm panel
+
+Selection disclosure
+This is a retrospective, exploratory, purposive screen. Several2024 examples were known before the candidate frame was fixed. The candidate list is not a preregistered random sample, and the availability of detailed disclosure affects selection. Eligibility, analytical branch and extraction depth are distinct. An unextracted firm is not ineligible. No case is excluded because its outcome is inconvenient.
+
+1. Iberdrola
+Observed: named green-bond projects, ISINs, allocation amounts, actual/expected output and commissioning fields; reports2022–2024 inspected. Consolidated-EBITDA CCGT capacity2023–2024 reconciles16,131−8,494 sale+17 modernization=7,654MW. Multiple ownership columns exist and must not be combined. The Mexico sale is not physical retirement. Status: focal finance-to-project and bounded CCGT-strategy case;2019–2024 history being extended. Missing for stronger claims: complete annual project cohort, all-fossil asset event inventory, post-sale physical operation, and consistent historical ownership. Source examples:
+https://www.iberdrola.com/documents/20125/42169/green-financing-returns-report-2024.pdf
+https://www.iberdrola.com/documents/20125/4778712/gsm25-annual-accounts-consolidated-2024.pdf
+Extraction provenance: /workspace/shared/bse_utility_pilot_20261010/iberdrola/source_manifest.csv and README_quality_note.txt.
+
+2. SSE
+Observed: green-bond groups and named projects, attributed capacity, actual/projected operation, generation and refinancing labels.2019–2024 Thermal capacity/event series now extracted. Thermal boundary includes contractual and segment conventions; earlier multifuel capacity is separate. Verified events include Fiddlers Ferry and Tarbert closures, new Keadby2 capacity, Triton acquisition and internal transfers. Net bridges close, but omitted offsetting gross events are not established zero. Status: focal longitudinal bounded-Thermal strategy case. Missing: harmonized whole-company fossil ownership, complete project-year cohorts and evidence of all gross movements. Refinancing construction spending does not mean no new capacity. Official sources:
+https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf
+https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf
+https://www.sse.com/media/ej5l4w14/sse-plc_prospectus-2024_final-version.pdf
+Detailed2019–2024 provenance: /workspace/shared/bse_utility_pilot_20261010/sse/EXTENSION_2019_2024_README.txt.
+
+3. Enel
+Observed: qualifying2017/2018/2019 use-of-proceeds issues, named project allocation reports and2019–2024 group fuel capacity/output. The2019 issue cohort and replacement projects are tracked at selected vintages; full annual project panel is incomplete.2023 allocations were reassigned after project deconsolidation. Later sustainability-linked debt is excluded. Status: focal longitudinal finance/portfolio case. Missing: exhaustive physical event bridge, post-sale asset status and reconciliation of some cumulative project output. Flat2023–2024 coal year-endMW with lowerGWh is an operational lead, not proof of an unchanged physical asset set. Official archives and sampled source:
+https://www.enel.com/investors/investing/sustainable-finance/green-bonds
+https://www.enel.com/investors/sustainability
+https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2023/green-bond-report-2023_en.pdf
+https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2024/annuali/en/integrated-annual-report_2024.pdf
+Detailed provenance: /workspace/shared/bse_utility_pilot_20261010/enel/source_manifest.csv and READ_ME_BOUNDARIES.txt.
+
+4. Ørsted
+Observed: named projects, ISINs, annual and cumulative allocations, full-projectMW/GWh, and separately ownership-adjusted allocation.2024 operational report has named thermal closures/status changes. Thermal includes biomass; fuel percentages combine heat and electricity. Status: complementary capacity/status-boundary case; potentially focal capacity case after event classification. Missing: consistent fossil-only electricity, unique non-overlapping fossil-capableMW, permanent retirement versus reserve treatment, and historical ownership/event coverage. Neither thermalGWh nor total CHP fuel shares solve those gaps. Official sources:
+https://cdn.orsted.com/-/media/annual2024/green-finance-impact-report-2024.pdf?rev=d3c45ba7d27c4a338683f88839964b2b
+https://cdn.orsted.com/-/media/annual2024/orsted-annual-report-2024.pdf?hash=A05D897FF6CA71315480487832E17FA2&rev=02bde37dc8424c8eb8e4e9f3b65cc833
+Pilot folder: /workspace/shared/bse_utility_pilot_20261010/orsted/.
+
+5. CLP
+Observed:2022–2024 bond cohorts and equity portfolio data; WENT landfill-gas output43/46/42GWh with unchanged cumulativeHKD170m allocation.2024 equity coal bridge8,486−735 physical retirement−529 ownership exit=7,222MW. Finance report includes gas/LNG and smart-meter instruments; WENT is the narrow renewable-electricity linkage. Coal output is asset-type output including biomass co-firing. Status: complementary renewable-taxonomy/ownership case, not a wind/solar-core proxy. Missing: longer comparable allocation history, fossil asset events and sold-asset follow-through. No reason to exclude its physical accounting, but its instrument mix prevents describing it as equivalent to large wind/solar financing portfolios.
+https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/2024_CA_Finance_Report_en.pdf.coredownload.pdf
+https://sustainability.clpgroup.com/en/2024/esg-data-hub
+https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-3-financial-reports/2024/e_2024E113.pdf.coredownload.pdf
+Detailed provenance: /workspace/shared/bse_utility_pilot_20261010/clp/quality_note.txt and cell_provenance.csv.
+
+6. EDF
+Observed:2024 URD printedpp647–650 directly maps named renewable projects, country,MW and expected/in-service status to bond identifiers. Bond-level allocations and financing shares are disclosed, with nuclear/grid tranches separately identifiable. The2024 Facts & Figures p25 explicitly uses ownership-share capacity including associates/JVs: gas11,587MW and coal/fuel-oil5,767MW. The2019 Facts & Figures p57 has the same stated ownership concept; intermediate years remain unextracted. Status: priority additional focal candidate, not excluded. Missing: actual commissioning verification, named-project monetary splits where absent,2019–2024 ownership/event reconciliation. The source's generic “in service” project cells require independent verification; do not accept every such status mechanically.
+https://www.edf.fr/sites/groupe/files/2025-05/edf-urd-annual-financial-report-2024-en-accessible.pdf
+https://www.edf.fr/sites/groupe/files/2025-04/annual-results-2024-facts-and-figures-en-2025-04-09.pdf
+https://www.edf.fr/sites/default/files/contrib/groupe-edf/espaces-dedies/espace-finance-en/financial-information/publications/facts-figures/facts-and-figures-2019.pdf
+https://www.edf.fr/groupe-edf/espaces-dedies/investisseurs/dette/finance-durable
+Local downloaded URD and facts files are under screen_sources;2024 capacity slide visually checked. Current website tables are2025 vintage and cannot substitute for2024 allocation observations.
+
+7. ENGIE
+Observed:2023–2024 issue page lists senior/hybrid bonds, named projects/countries, and technology-by-bond allocation totals. It includes miscellaneous pools; amounts are not individually assigned to every listed plant.2024 URD p34 gives central gas and coal capacity at100%; p20 documents a2024 renewable-capacity methodology change.2020H1 databook p4 includes2019 closing capacity and separate disposal/closure/other movements on gross and consolidation-share bases. Status: viable additional core candidate, with group-linked projects and substantial boundary work; not ineligible. Missing: complete2019–2024 cohorts, project-specific allocation splits, consistent capacity definitions and dated fossil events.2024 ESG workbook's energy consumption is not electricity generation.
+https://www.engie.com/en/investors/fixed-income/green-bonds/green-bonds-issued-between-september-2023-and-june-2024/
+https://www.engie.com/app/uploads/2026/05/ENGIE_DEU_2024_US__PDF_MEL_v3.pdf
+https://www.engie.com/app/uploads/2026/03/ENGIE-DATABOOK-H1-2020-VDEFFF.pdf
+https://www.engie.com/app/uploads/2026/03/ENGIE_2024_ESG_databook_-_Environment.xlsx
+Local allocation table images visually inspected; a list of names beneath a category total is not a per-project monetary crosswalk.
+
+8. EDP
+Observed: green senior/hybrid issuances with ISINs;2019,2023,2024 green reports inspected and2018–2024 archive listed.2024 Annex7 printedpp462–469 separates bonds/loans and financing to new/existing assets/acquisitions, but reports portfolio/cohort counts, geographical shares andMW/GWh rather than named projects.2020 operational report gives2019–2020 fuel capacity;2024 results give revenue-contributing capacity and separate attributable-capacity qualifications. The2023 operating report discloses Aboño deconsolidation. Status: eligible issuer, portfolio-level reporting comparator; named-project branch not established from inspected sources. Missing: project identities linked to instruments, consistent six-year ownership basis and event ledger. Not excluded for environmental results.
+https://edp.com/pt/investidores/divida-financeira/financiamento-sustentavel
+https://edp.com/sites/default/files/document/2025-05/Integrated%20Annual%20Report%202024%20%28Annex%207%29.pdf
+https://edp.com/sites/default/files/document/2025-05/Green%20Report%202019.pdf
+https://edp.com/sites/default/files/document/2025-04/Green%20Report%202023.pdf
+https://www.edp.com/sites/default/files/document/2025-04/YE20%2520Operating%2520Data%2520Preview_EN.pdf
+https://edp.com/sites/default/files/document/2025-10/2024_ResultsReport.pdf
+https://www.edp.com/sites/default/files/2024-01/YE23%20Operating%20Data%20Preview_EN_0.pdf
+Downloaded green reports retained in screen_sources.2024 allocation table has a2023 column heading despite aDecember2024 portfolio date; record as source-label inconsistency pending clarification, not silently amend.
+
+9. RWE
+Observed:2024 green report p6 listsISINs and allocations; p10 explicitly uses technology portfolios instead of individual projects, with2019–2022 eligible capex and2023 capex backing2024 issuance. First green issueJune2021 is stated.2024 annual report p43 provides IFRS-consolidated fuel capacity and restated comparator;2019 annual report pp52–53 provides fuel history and includes temporarily offline/security-standby capacity. Status: eligible issuer and strong fossil-capacity comparator, but strict named bond-project branch fails on inspected green report. Missing: direct named-project crosswalk and a harmonized event history; third-party asset data cannot invent the missing financial link. This is a reporting-resolution reason, not outcome exclusion.
+https://www.rwe.com/-/media/RWE/documents/05-investor-relations/anleihen-und-rating/rwe-green-bond-report-2024.pdf
+https://www.rwe.com/en/rwe-annual-report-2024
+https://www.rwe.com/-/media/RWE/documents/Shortcuts/rwe-annual-report-2019pdf/RWE-annual-report-2019.pdf
+https://www.rwe.com/en/investor-relations/financial-calendar-and-publications/reporting/
+
+Recommended bounded next decision
+Three deepest focal histories now: Iberdrola, SSE, Enel. Add EDF as the first new core case if named-project actual-status and historical capacity bridges can be completed. ENGIE is next, not disqualified; grouped monetary allocation may permit a transparent group-linked design. Ørsted and CLP remain substantive complementary boundary cases unless their unresolved core definitions can be resolved. EDP/RWE remain in the full nine-row coverage audit and can support a portfolio-level comparison, but cannot be made named-project cases by assuming links.
+
+Do not require exactly five cases. A four-core/two-complementary structure can be scientifically clearer than a forced five-company pooled dataset. Capacity outcomes must be described at their actual fuel/segment/group boundaries. Number of countries or companies does not establish global representativeness.
+
+Minimum missing evidence before full-article commitment
+For each central implementation claim: a qualifying bond/project or explicitly grouped linkage, a dated prior strategic decision, a physical or ownership event withMW and basis, and sufficient post-event evidence to distinguish a completed action from an announcement. For an overall capacity-decline attribution: complete component coverage or honest partial-attribution bounds. For sold-asset continuation: evidence from the later owner/operator. For a full financing-to-delivery claim: actual commissioning/operation independent of an unverified expected status. A complete annual project panel is necessary only for annual project estimates; selected episodes cannot be labeled complete-cohort outcomes.
+
+Scientific stopping gate
+After the next extraction cycle, decide claim by claim, not by a quality score. Continue to a BSE-oriented full comparative article only if the evidence establishes an analytically useful contrast between financed project delivery and physically versus ownership-mediated portfolio change, beyond examples already shown by Alova/Pichler and green-bond studies. If the evidence amounts to recent anecdotes plus general corporate narratives, deliver a reproducible pilot/research note and identify the unresolved research requirement. More polished prose cannot turn that into a tested strategic mechanism.

@@ -1,0 +1,55 @@
+{
+  "projects": 22,
+  "bonds": 23,
+  "annual_allocation_rows": 26,
+  "historical_matrix_cells": 374,
+  "positive_historical_allocation_cells": 54,
+  "issuer_observations": 89,
+  "provenance_cells": 1051,
+  "events": 7,
+  "checks": 113,
+  "failed_checks": [
+    {
+      "check": "P8 distinct projects",
+      "actual": 13,
+      "expected": 14,
+      "status": "FAIL",
+      "notes": "Report prose says 14 and includes Old 300; 13 positive allocation projects appear in p6 and p8 data rows."
+    },
+    {
+      "check": "P7 annual bond rows sum",
+      "actual": 14358,
+      "expected": 14268,
+      "status": "FAIL",
+      "notes": "90 DKKm above printed total."
+    },
+    {
+      "check": "Annual summary = bond detail: XS2531570112",
+      "actual": 2105,
+      "expected": 2015,
+      "status": "FAIL",
+      "notes": ""
+    },
+    {
+      "check": "2024 total capacity p97 vs p99",
+      "actual": 12900,
+      "expected": 12899,
+      "status": "FAIL",
+      "notes": "Both observations retained; p99 used in preferred detailed view."
+    },
+    {
+      "check": "2024 offshore capacity p97 vs p99",
+      "actual": 5261,
+      "expected": 5260,
+      "status": "FAIL",
+      "notes": "Germany 800 MW in p97 versus 799 MW in p99."
+    },
+    {
+      "check": "Badger technology conflicting detail rows",
+      "actual": 3,
+      "expected": 0,
+      "status": "FAIL",
+      "notes": ""
+    }
+  ]
+}

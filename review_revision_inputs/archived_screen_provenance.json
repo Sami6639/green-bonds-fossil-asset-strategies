@@ -1,0 +1,17 @@
+{
+  "review_date": "2026-10-10",
+  "source_file": "/workspace/shared/manuscript_upgrade_20261010/utility_transition_design/nine_candidate_coverage_audit.txt",
+  "archived_copy": "nine_candidate_coverage_audit_archived_20261010.txt",
+  "sha256": "2b332a4aa210d4171619be80fd387b0c06e5a229a6812b1818ec17dd80d88b91",
+  "copy_policy": "Unchanged archival copy, including historical wording and spacing.",
+  "review_method": "Local review of the archived nine-candidate audit, current source-linked derived CSVs, and the specified evidence extracts. No new nine-issuer source collection was undertaken.",
+  "screening_basis": "Retrospective, exploratory, purposive, disclosure-conditioned screen. Eligibility, named-project resolution and extraction depth are distinct; no outcome-based exclusion is assigned.",
+  "superseded_extraction_descriptions": [
+    "Enel: complete 2019–2024 financial-table extraction for the 2019 issue is now present (108 union-project/year records; 91 present source-table rows). The earlier selected generation extraction remains partial.",
+    "Iberdrola: six matched 2019–2024 hybrid snapshots and source-linked group gas/cogeneration/coal history are completed; project money remains undisclosed.",
+    "CLP: six-year CAFF bond-cohort and WENT histories, equity capacity series and endpoint coal bridge are now present.",
+    "EDF: separate six-year ownership-share capacity table is completed; fixed project cohort and event reconciliation remain incomplete."
+  ],
+  "instrument_source_verification": "Three instrument-commitment rows use document/page verification recorded on 2026-10-10. These are separately marked in the evidence matrix; the source PDFs were not independently re-fetched during this screening review.",
+  "paths_policy": "All paths are local research provenance, not intended as public document links."
+}

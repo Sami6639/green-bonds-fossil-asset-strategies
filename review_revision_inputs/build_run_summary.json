@@ -1,0 +1,47 @@
+{
+  "screen_rows": 9,
+  "unique_screen_issuers": 9,
+  "matrix_rows": 31,
+  "matrix_rows_by_issuer": {
+    "Enel": 10,
+    "Iberdrola": 10,
+    "SSE": 11
+  },
+  "matrix_status_counts": {
+    "supported": 22,
+    "contradicted": 4,
+    "unidentified": 5
+  },
+  "required_dimensions": [
+    "Allocation total",
+    "Project names and identities",
+    "Monetary weights",
+    "Physical maturity",
+    "Ownership",
+    "Prior decision",
+    "Disclosure date"
+  ],
+  "all_core_dimensions_present": true,
+  "all_matrix_rows_have_source_urls": true,
+  "table1_shape": [
+    9,
+    3
+  ],
+  "table2_shape": [
+    3,
+    4
+  ],
+  "archived_audit_hash_matches_source": true,
+  "enel_union_panel_records": 108,
+  "enel_present_table_rows": 91,
+  "enel_vintages": [
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "unknown_not_classified_as_contradicted": true,
+  "source_pdfs_retrieved_in_this_pass": false
+}

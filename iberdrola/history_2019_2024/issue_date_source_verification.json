@@ -1,0 +1,40 @@
+{
+  "verified_date_utc": "2026-10-10",
+  "instrument_isin": "XS1890845875",
+  "contractual_issue_date": "2019-02-12",
+  "allocation_inventory_date": "2019-02-05",
+  "offering_circular_document_date": "2019-02-06",
+  "no_pricing_date_inference": true,
+  "annual_findings_change": "none",
+  "sources": [
+    {
+      "source_id": "green2019",
+      "url": "https://www.iberdrola.com/documents/20125/42169/Informe_retornos_financiacion_verde_2019.pdf",
+      "sha256": "d6d03a5cad02a4ef448f6aa99834f9daede911292ac6542d529bf3c6c89f3554",
+      "bytes": 2587446,
+      "pages_checked": [
+        3
+      ],
+      "visual_pages_checked": [
+        3
+      ]
+    },
+    {
+      "source_id": "offering_circular_2019",
+      "url": "https://www.iberdrola.com/documents/20125/41881/Offering_Circular_190205.pdf/061be875-ea3f-68c9-92f3-7ba099f18eae?t=1629963856493",
+      "sha256": "4822f4c0df773e32e4862c63ecdc84aa562ea37923d6bdb58090d68e9aac77fa",
+      "bytes": 705691,
+      "pages_checked": [
+        1,
+        6,
+        12,
+        47,
+        64,
+        98
+      ],
+      "visual_pages_checked": [
+        6
+      ]
+    }
+  ]
+}

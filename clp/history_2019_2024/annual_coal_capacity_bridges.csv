@@ -1,0 +1,6 @@
+issuer,year,scope,opening_mw,closing_mw,net_change_mw,identified_net_event_change_mw,identified_events,unexplained_residual_mw,status
+CLP,2020,equity_coal,10765.0,10765.0,0.0,,full gross event set not established,,unresolved_or_no_net_change; do not infer noevents
+CLP,2021,equity_coal,10765.0,10795.0,30.0,,full gross event set not established,,unresolved_or_no_net_change; do not infer noevents
+CLP,2022,equity_coal,10795.0,8486.0,-2309.0,-2308,sale/BOT handback/partial equity sale,-1.0,rounding_scale_residual_minus1MW
+CLP,2023,equity_coal,8486.0,8486.0,0.0,,full gross event set not established,,unresolved_or_no_net_change; do not infer noevents
+CLP,2024,equity_coal,8486.0,7222.0,-1264.0,-1264,physical closure735MW + ownershipexit529MW,0.0,reconciled_net

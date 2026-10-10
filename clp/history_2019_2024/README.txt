@@ -1,0 +1,7 @@
+CLP historical extension,2019–2024.120 issuer-year cells (2 reported NA storage cells in2019). Equity-basis technology capacity and plant-type net energy sent out. Source2023p289 gives2019–2023 retrospective values;2024 source supplies2022–2024. No before2019 generation fabricated.
+
+Coal capacity falls10765→7222MW. Identified ownership/contract exits total2837equityMW, physical closures735MW, and documented MountPiper upgrade adds30MW, leaving−1MW residual at integer reporting precision. Exit share among gross identified removals is79.42%; it is not a share of emissions reduction or a financing effect.
+
+The late2020 upgrade narrative and2021 capacity-stock increase do not align exactly. Preserve annual recognition ambiguity; do not repair it by redating the event. The endpoint2019–2024 calculation spans both dates.2020 and2023 zero net coal capacity changes are not proof of zero gross changes. Full gas/others bridges and post-transfer plant output remain unverified. Financing boundary remains CLP CAFF taxonomy, with landfill-gas separated from gas/LNG and smartmeters.
+
+The full CAFF bond report cohorts2019–2024 are now recorded:2/3/5/5/6/7 bonds,28 bond-year rows. Earlier finance/refinance chart splits remainunextracted. WENT cumulativeallocation110/164/170/170/170/170mHKD is one financing stock history, not six independent financingflows. Actualfullproject output22/38/43/46/42GWh in2020–2024;2019 expectation68GWh is retained separately. ProjectcommissioningMarch2020 verified in2020report.

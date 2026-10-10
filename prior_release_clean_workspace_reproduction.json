@@ -1,0 +1,227 @@
+{
+  "schema_version": "review_revision_20261010",
+  "command": "python run_analysis.py",
+  "return_code": 0,
+  "fresh_archive_extraction": true,
+  "network_access": "Blocked during rebuild by inherited sitecustomize socket connect guard",
+  "network_guard": "socket.socket.connect/connect_ex and socket.create_connection raise errors",
+  "external_source_downloads": false,
+  "byte_identical_archive_rebuild": true,
+  "all_final_main_outputs_byte_identical": true,
+  "main_output_count": 35,
+  "canonical_main_table_count": 4,
+  "figure_count": 3,
+  "outputs": [
+    {
+      "file": "main_exhibits/FIGURE_CAPTIONS.txt",
+      "matches": true,
+      "expected_sha256": "36f2a4e48709617bcc0d1407bb0a2452bb234cf0e8b756611371cfe87879aab7",
+      "reproduced_sha256": "36f2a4e48709617bcc0d1407bb0a2452bb234cf0e8b756611371cfe87879aab7"
+    },
+    {
+      "file": "main_exhibits/POOL_CONTINUITY_METHOD.txt",
+      "matches": true,
+      "expected_sha256": "022f0ce4c75ad91ed96f908d2c0c6ff771ac353b55cb5caac767742044e67a14",
+      "reproduced_sha256": "022f0ce4c75ad91ed96f908d2c0c6ff771ac353b55cb5caac767742044e67a14"
+    },
+    {
+      "file": "main_exhibits/README.txt",
+      "matches": true,
+      "expected_sha256": "fc737ce72caaa8b573afee1793179ef164932c53c0d2085c6743d67d05ff2510",
+      "reproduced_sha256": "fc737ce72caaa8b573afee1793179ef164932c53c0d2085c6743d67d05ff2510"
+    },
+    {
+      "file": "main_exhibits/appendix_capacity_bridge_components.csv",
+      "matches": true,
+      "expected_sha256": "4e8c4d19868e62b1cecbf946e730b9a88b1384a531bbc7df0977717176cac60f",
+      "reproduced_sha256": "4e8c4d19868e62b1cecbf946e730b9a88b1384a531bbc7df0977717176cac60f"
+    },
+    {
+      "file": "main_exhibits/appendix_pool_continuity.csv",
+      "matches": true,
+      "expected_sha256": "bf4ce3f59844cb0dfaba21d09befc6c665d1fb444599335f79c0c2c9d26e4be9",
+      "reproduced_sha256": "bf4ce3f59844cb0dfaba21d09befc6c665d1fb444599335f79c0c2c9d26e4be9"
+    },
+    {
+      "file": "main_exhibits/canonical_manuscript_exhibits.json",
+      "matches": true,
+      "expected_sha256": "18b52e37c2d67f32d516c16003ba2885e98c28698c80b5869dfa448b9e7a188d",
+      "reproduced_sha256": "18b52e37c2d67f32d516c16003ba2885e98c28698c80b5869dfa448b9e7a188d"
+    },
+    {
+      "file": "main_exhibits/data_dictionary.csv",
+      "matches": true,
+      "expected_sha256": "6f7cf7ea9f3ba77feb8bf434a3976c52d5351309447fa9e9067e0de72645dde4",
+      "reproduced_sha256": "6f7cf7ea9f3ba77feb8bf434a3976c52d5351309447fa9e9067e0de72645dde4"
+    },
+    {
+      "file": "main_exhibits/derived_manifest.csv",
+      "matches": true,
+      "expected_sha256": "2e6a13a652c49ffffa26713503906f783fd0f69e337b010ab4f10070235dcbd4",
+      "reproduced_sha256": "2e6a13a652c49ffffa26713503906f783fd0f69e337b010ab4f10070235dcbd4"
+    },
+    {
+      "file": "main_exhibits/enel_2021_source_chain_audit.json",
+      "matches": true,
+      "expected_sha256": "9de8100d7bda6c6795a5c3c7511e83a8e9fef78b85319d40ec6dba0e5a8ee75d",
+      "reproduced_sha256": "9de8100d7bda6c6795a5c3c7511e83a8e9fef78b85319d40ec6dba0e5a8ee75d"
+    },
+    {
+      "file": "main_exhibits/enel_reallocation_by_issue_companion.csv",
+      "matches": true,
+      "expected_sha256": "ba7187b3d48b449c1e6e5c28b7d1d6873407be91e997df1b87662c27ad2f8d52",
+      "reproduced_sha256": "ba7187b3d48b449c1e6e5c28b7d1d6873407be91e997df1b87662c27ad2f8d52"
+    },
+    {
+      "file": "main_exhibits/figure1_selected_timelines.png",
+      "matches": true,
+      "expected_sha256": "485ea072443e165d18ff3f1eb09cdbd514ef187ee769e0fd7db56b99acc7048e",
+      "reproduced_sha256": "485ea072443e165d18ff3f1eb09cdbd514ef187ee769e0fd7db56b99acc7048e"
+    },
+    {
+      "file": "main_exhibits/figure1_selected_timelines.svg",
+      "matches": true,
+      "expected_sha256": "d34dadcc6eaceada0ee4def5f013d043afb2e35b5531ae15cf8190aac687b662",
+      "reproduced_sha256": "d34dadcc6eaceada0ee4def5f013d043afb2e35b5531ae15cf8190aac687b662"
+    },
+    {
+      "file": "main_exhibits/figure1_timeline_source_rows.csv",
+      "matches": true,
+      "expected_sha256": "56926f1fdcd291e537cb82b8b5f01b1d295ccde480fdfade93d67575f6d3a4ab",
+      "reproduced_sha256": "56926f1fdcd291e537cb82b8b5f01b1d295ccde480fdfade93d67575f6d3a4ab"
+    },
+    {
+      "file": "main_exhibits/figure2_allocation_replacement.png",
+      "matches": true,
+      "expected_sha256": "b9fac39092bc96ced3ce8ddb6cbd062dff6e68ff8906f620ad4668183e99d61e",
+      "reproduced_sha256": "b9fac39092bc96ced3ce8ddb6cbd062dff6e68ff8906f620ad4668183e99d61e"
+    },
+    {
+      "file": "main_exhibits/figure2_allocation_replacement.svg",
+      "matches": true,
+      "expected_sha256": "7e1a8955cab4d90e0c17463010679d88f32d118bddc40b51f7b79651bac57d67",
+      "reproduced_sha256": "7e1a8955cab4d90e0c17463010679d88f32d118bddc40b51f7b79651bac57d67"
+    },
+    {
+      "file": "main_exhibits/figure2_allocation_replacement_source_rows.csv",
+      "matches": true,
+      "expected_sha256": "4d9b8680433e8b630a627f0abadccfe96af65cffbc9d89da9f1f8fb0700393a0",
+      "reproduced_sha256": "4d9b8680433e8b630a627f0abadccfe96af65cffbc9d89da9f1f8fb0700393a0"
+    },
+    {
+      "file": "main_exhibits/figure3_capacity_bridges.png",
+      "matches": true,
+      "expected_sha256": "34e8d4e2e6daf0f08dfe002f082fa755295bd962cc937295108ed2c3621c46d8",
+      "reproduced_sha256": "34e8d4e2e6daf0f08dfe002f082fa755295bd962cc937295108ed2c3621c46d8"
+    },
+    {
+      "file": "main_exhibits/figure3_capacity_bridges.svg",
+      "matches": true,
+      "expected_sha256": "67fb95940f549da789b374fd2b2153a1630b00d7adf8c04ba9c3601d6747dcac",
+      "reproduced_sha256": "67fb95940f549da789b374fd2b2153a1630b00d7adf8c04ba9c3601d6747dcac"
+    },
+    {
+      "file": "main_exhibits/new_analysis_validation.json",
+      "matches": true,
+      "expected_sha256": "6f239797f6979f91081df29b6c6dc150a81f2e71865a140fad932396088d5a95",
+      "reproduced_sha256": "6f239797f6979f91081df29b6c6dc150a81f2e71865a140fad932396088d5a95"
+    },
+    {
+      "file": "main_exhibits/pool_continuity_validation.json",
+      "matches": true,
+      "expected_sha256": "d621fcaf6d89cde6bccc4a7c04177731109d631d0d1c8b7775949df7d26a63bd",
+      "reproduced_sha256": "d621fcaf6d89cde6bccc4a7c04177731109d631d0d1c8b7775949df7d26a63bd"
+    },
+    {
+      "file": "main_exhibits/review_revision_computed_results.json",
+      "matches": true,
+      "expected_sha256": "1aad39bf6c3b2ef5147cde682c587d24aa14ff3dcc3fd314b0b1c0b89072081c",
+      "reproduced_sha256": "1aad39bf6c3b2ef5147cde682c587d24aa14ff3dcc3fd314b0b1c0b89072081c"
+    },
+    {
+      "file": "main_exhibits/source_derived_input_manifest.csv",
+      "matches": true,
+      "expected_sha256": "faa31b71d5d444db3f4d85468e23fd681f52841d864100d4062622b97975a93e",
+      "reproduced_sha256": "faa31b71d5d444db3f4d85468e23fd681f52841d864100d4062622b97975a93e"
+    },
+    {
+      "file": "main_exhibits/sse_capacity_boundary_sensitivity.csv",
+      "matches": true,
+      "expected_sha256": "761194507d5a8642b558a22f1d5b1807adcfabbc9bdc29e51af6de0777d1c65e",
+      "reproduced_sha256": "761194507d5a8642b558a22f1d5b1807adcfabbc9bdc29e51af6de0777d1c65e"
+    },
+    {
+      "file": "main_exhibits/sse_fossil_only_event_contributions.csv",
+      "matches": true,
+      "expected_sha256": "253a0046005e36baf85b05b73ed5c024a4c3a7e69d8deb09e79efb40d9430e78",
+      "reproduced_sha256": "253a0046005e36baf85b05b73ed5c024a4c3a7e69d8deb09e79efb40d9430e78"
+    },
+    {
+      "file": "main_exhibits/sse_gas_oil_event_contributions.csv",
+      "matches": true,
+      "expected_sha256": "d55b2255ac34a91a289bc18667d4850c1ea90bc673e53e98014f21e1bc5f48a5",
+      "reproduced_sha256": "d55b2255ac34a91a289bc18667d4850c1ea90bc673e53e98014f21e1bc5f48a5"
+    },
+    {
+      "file": "main_exhibits/sse_gb5_maturity_project_weights.csv",
+      "matches": true,
+      "expected_sha256": "a33ede40da1b9dd75f7d9f410bb86374bbc30bfbfebdcc524a474eee1b77ff89",
+      "reproduced_sha256": "a33ede40da1b9dd75f7d9f410bb86374bbc30bfbfebdcc524a474eee1b77ff89"
+    },
+    {
+      "file": "main_exhibits/sse_gb5_maturity_stock_analysis.csv",
+      "matches": true,
+      "expected_sha256": "865b69cecd790950fdd3c8bce7fa287d8e5b4ad410c270180778e80503029710",
+      "reproduced_sha256": "865b69cecd790950fdd3c8bce7fa287d8e5b4ad410c270180778e80503029710"
+    },
+    {
+      "file": "main_exhibits/sse_gordonbush_endpoint_consistency.csv",
+      "matches": true,
+      "expected_sha256": "5331cd4b366996166ed744b36b50b5e73b15e750db5b86f9c569435696bf01de",
+      "reproduced_sha256": "5331cd4b366996166ed744b36b50b5e73b15e750db5b86f9c569435696bf01de"
+    },
+    {
+      "file": "main_exhibits/table1_case_coverage.csv",
+      "matches": true,
+      "expected_sha256": "f2fac1905e1e8860b7a4c8c4fc6bfbdc73c3e7cae533bf451a450f1a6e3ac44d",
+      "reproduced_sha256": "f2fac1905e1e8860b7a4c8c4fc6bfbdc73c3e7cae533bf451a450f1a6e3ac44d"
+    },
+    {
+      "file": "main_exhibits/table2_claim_evidence_synthesis.csv",
+      "matches": true,
+      "expected_sha256": "72cfe1c7903900f321d3b23b235e03a56377fff0d3c522110f308079ddf3930d",
+      "reproduced_sha256": "72cfe1c7903900f321d3b23b235e03a56377fff0d3c522110f308079ddf3930d"
+    },
+    {
+      "file": "main_exhibits/table3_finance_delivery_comparison.csv",
+      "matches": true,
+      "expected_sha256": "2cf993a41e77224a7286b2f2a1ecf46935f57b4b0cfbbe4daac6c53b24d84417",
+      "reproduced_sha256": "2cf993a41e77224a7286b2f2a1ecf46935f57b4b0cfbbe4daac6c53b24d84417"
+    },
+    {
+      "file": "main_exhibits/table4_capacity_bridge_summary.csv",
+      "matches": true,
+      "expected_sha256": "0ae7dda38c07aa457587b3ffb713cb22215374ae1500deeef5f1cb86bb9b4568",
+      "reproduced_sha256": "0ae7dda38c07aa457587b3ffb713cb22215374ae1500deeef5f1cb86bb9b4568"
+    },
+    {
+      "file": "main_exhibits/three_core_evidence_matrix.csv",
+      "matches": true,
+      "expected_sha256": "6d56b35769d86b884557f0a27bca74156a198a911059d90f3bbf9e43f709306e",
+      "reproduced_sha256": "6d56b35769d86b884557f0a27bca74156a198a911059d90f3bbf9e43f709306e"
+    },
+    {
+      "file": "main_exhibits/utility_transition_evidence.xlsx",
+      "matches": true,
+      "expected_sha256": "9a5f3faaa5367c7d2ececfdefb60291151fd04ca3ddc50aae70d724c7c4c8648",
+      "reproduced_sha256": "9a5f3faaa5367c7d2ececfdefb60291151fd04ca3ddc50aae70d724c7c4c8648"
+    },
+    {
+      "file": "main_exhibits/validation_checks.csv",
+      "matches": true,
+      "expected_sha256": "2b752157c329984b7502b536f10b728e960710108f0f60bacd344280a78fd385",
+      "reproduced_sha256": "2b752157c329984b7502b536f10b728e960710108f0f60bacd344280a78fd385"
+    }
+  ],
+  "proof_scope": "All final main_exhibits files including four canonical tables, workbook, figures, source/caption contract, notes and manifests; fresh rebuilt archive also byte-identical. This report is not an independent source retranscription."
+}

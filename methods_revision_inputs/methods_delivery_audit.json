@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "verified_date_utc": "2026-10-10",
+  "checks": {
+    "all_original_empirical_source_keys_preserved": true,
+    "IB_OC19_contractual_source_added": true,
+    "appendix_keys_registered": true,
+    "one_additional_contractual_source_row": true,
+    "circular_document_date_verified_separately": true,
+    "source_register_contains_12_february": true,
+    "report_inventory_date_retained": true,
+    "scholarly_register_31_unique_keys": true,
+    "scholarly_register_30_academic": true
+  },
+  "source_rows": 82,
+  "source_keys": 56,
+  "claim_rows": 50,
+  "scope": "Current package source-register and date-provenance audit only. The prior manuscript-fragment audit is preserved separately as historical evidence; its prose counts and hashes are not represented as a fresh check of the final Word manuscript. Final assembled-manuscript checks belong to the release audit. Scholarly metadata are a frozen copy of the writer\u2019s verified final register; assembled-document two-way citation validation remains separate.",
+  "prior_fragment_audit": "prior_strategy_methods_delivery_audit.json",
+  "file_sha256": {
+    "empirical_source_register.csv": "ca03f16cfbb41feb5834c64e4b12cfa9a60a47d92f19ec0139a4c7856e9109b6",
+    "source_appendix_entries.json": "0e3f95ce7ab1cdca88005396d53a5bd8b3339fb861e4b3c67a9a56c680f3f33c",
+    "appendix_primary_sources.txt": "83512504fce918b064eff65af7c33d987f097fdb0cb09cbbc67f6e8df6a9dcb5",
+    "methods_results_claim_ledger.csv": "4211ebf3737e892de6a18e95624bddb51333abf463a9e59f4711c7182b51deda",
+    "appendix_coding_examples.txt": "d08f751156104c0a2a3da9a1c651e7029cf67451732865c7ad3163e90247d8f0",
+    "scholarly_reference_verification.csv": "f87469a56b58e92c790d132765dcd84c973aa800a21c8e5a114b750dccad6afb",
+    "scholarly_reference_verification.json": "ddaddf3a333070c14f9d459c196d26abb3f1832735c84dd1d11d32eb92d9412b"
+  },
+  "scholarly_reference_rows": 31
+}

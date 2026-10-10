@@ -1,0 +1,27 @@
+EDF FOURTH-CORE FEASIBILITY: VERIFIED MINIMUM AND STOPPING DECISION
+10 October 2026
+
+Decision: conditional, not an additional deep core at this freeze. Six-year ownership-share capacity history is available and inspected; full fossil event accounting and project implementation linkage remain incomplete. EDF is useful as an independently verified reporting-boundary example. It should not displace a better documented case merely to enlarge the sample.
+
+Verified capacity evidence
+edf_verified_capacity_2019_2024.csv contains six visually inspected Facts & Figures tables. Basis is net capacity at EDF ownership share, including associates and joint ventures. Gas includes cogeneration; coal/fuel oil is a combined category. Capacity is not equivalent to operational-only fossil stock without asset-status checks. The table distinguishes source-reported totals from component sums: 2022 differs by +1MW, 2023 by −1MW, 2024 by +36MW. Preserve these discrepancies; the 2024 total124640 must not silently be overwritten by the component sum124604. They do not prevent reporting the separately printed gas and coal/oil values, but make a forced all-category reconciliation inappropriate.
+
+Official Facts & Figures sources and printed capacity pages
+2019 p57: https://www.edf.fr/sites/default/files/contrib/groupe-edf/espaces-dedies/espace-finance-en/financial-information/publications/facts-figures/facts-and-figures-2019.pdf
+2020 p59: https://www.edf.fr/sites/groupe/files/contrib/groupe-edf/espaces-dedies/espace-finance-en/financial-information/publications/facts-figures/facts-and-figures-2020.pdf
+2021 p61: https://www.edf.fr/sites/groupe/files/2022-05/edf-facts-and-figures-2021-vdef.pdf
+2022 p31: https://www.edf.fr/sites/groupe/files/2023-05/annual-results-2022-facts-and-figures-en-2023-05-16.pdf
+2023 p31: https://www.edf.fr/sites/groupe/files/2024-04/annual-results-2023-facts-and-figures-en-2024-04-23.pdf
+2024 p25: https://www.edf.fr/sites/groupe/files/2025-04/annual-results-2024-facts-and-figures-en-2025-04-09.pdf
+All six PDFs and rendered capacity pages retained with hashes. The combined gas plus coal/oil endpoint is22237MW in2019 and17354MW in2024; this is a reported-category change, not a retirement total.
+
+Fixed named cohort feasibility
+GB5, issued September2020, is a feasible bounded cohort, rather than all EDF green financing. The 2021 universal registration document pp523–527 identifies named GB5 projects, lookback tags, issue-level renewable allocation and financing share, while shared GB3/4/5 projects require deduplication. The 2024 document pp647–650 again provides named assignments. Luxel is a portfolio rather than a fully enumerated plant; Atlantic Offshore is described as up to2.3GW, not a unique operating plant census. Per-project allocation amounts and annual actual generation are not generally present. The minimum verified cohort comparison is two reporting snapshots, not an uninterrupted2020–2024 series. GB6 was unallocated at31December2021 and is less suitable for an initial six-year history.
+2021 source: https://www.edf.fr/sites/groupe/files/2022-03/edf-urd-rapport-financier-annuel-2021-fr-v2.pdf
+2024 source: https://www.edf.fr/sites/groupe/files/2025-05/edf-urd-annual-financial-report-2024-en-accessible.pdf
+
+Material source conflict requiring preservation
+Both the2021 GB5 project table and2024 table label NnG450MW 'in service'. The2024 annual-report business narrative instead dates first electricity and first-part commissioning240MW to lateOctober2024, out of total450MW. Therefore the allocation-table status cannot establish full operational450MW at either reporting cutoff. The same allocation table labels Atlantic Offshore up to2.3GW 'in service', while the business narrative discusses development rights and PPAs. The latter is a conflict flag requiring project-specific verification, not a corrected numerical estimate. The NnG same-document contradiction is directly established; do not infer EDF intent or deceptive reporting. Preserve separate disclosure-status and independently verified physical-status fields.
+
+Missing for fourth-core promotion
+Intermediate selected-cohort reporting vintages; complete unique-project eligibility list with portfolio-level items separately retained; verified commissioning and ownership histories for central projects; dated fossil disposal/retirement events reconciled to the same ownership-share capacity basis; and documented prior strategic decisions. The six-year fuel table alone does not supply these. Collecting them is possible public-source work but exceeds the present bounded expansion pass. EDF can be retained in the nine-candidate audit and, if useful, a clearly bounded status-conflict appendix without calling it a fourth full longitudinal case.

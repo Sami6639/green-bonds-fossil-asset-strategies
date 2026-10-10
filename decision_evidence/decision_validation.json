@@ -1,0 +1,12 @@
+{
+  "all_claim_sources_resolve": true,
+  "missing_source_keys": [],
+  "unique_claim_ids": true,
+  "all_chain_fields_nonempty": true,
+  "chain_count": 5,
+  "table3_case_count": 3,
+  "has_explicit_enel_instrument_link": true,
+  "no_causal_cash_flow_inferred": true,
+  "independent_human_double_coding_performed": false,
+  "raw_source_files_excluded_from_derived_manifest": true
+}

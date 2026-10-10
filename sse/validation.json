@@ -1,0 +1,20 @@
+[
+  {
+    "year": 2022,
+    "thermal_sum_matches": true,
+    "renewable_components_match": true,
+    "headline_constraints_match": true
+  },
+  {
+    "year": 2023,
+    "thermal_sum_matches": true,
+    "renewable_components_match": true,
+    "headline_constraints_match": true
+  },
+  {
+    "year": 2024,
+    "thermal_sum_matches": true,
+    "renewable_components_match": true,
+    "headline_constraints_match": true
+  }
+]

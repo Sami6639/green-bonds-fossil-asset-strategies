@@ -1,0 +1,27 @@
+{
+  "normalized_issuer_cells": 431,
+  "source_tables": 54,
+  "unique_source_urls": 53,
+  "regressions_run": false,
+  "pooled_panel_constructed": false,
+  "checks": [
+    {
+      "check": "normalized observation key uniqueness",
+      "status": "PASS",
+      "n": 0,
+      "interpretation": "Alternative ownership scopes and component/subtotal rows are not cross-summed."
+    },
+    {
+      "check": "nonblank numeric observations have source URL and locator",
+      "status": "PASS",
+      "n": 0,
+      "interpretation": "Provenance completeness does not establish cross-issuer comparability."
+    },
+    {
+      "check": "explicit missing values retained",
+      "status": "DESCRIPTIVE",
+      "n": 7,
+      "interpretation": "Never zero-filled. Additional absent constructs are recorded in the coverage matrix."
+    }
+  ]
+}

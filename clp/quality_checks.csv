@@ -1,0 +1,8 @@
+check_id,status,value,expected,notes
+CLP_2024_generation_sum,PASS_rounding,-3,absolute residual <=5 integer units (9 rounded components plus total),"Reported total minus sum of categories; tolerance is conservative rounding bound, not an error correction."
+CLP_2024_capacity_sum,PASS_rounding,-1,absolute residual <=5 integer units (9 rounded components plus total),"Reported total minus sum of categories; tolerance is conservative rounding bound, not an error correction."
+CLP_2023_generation_sum,PASS_rounding,1,absolute residual <=5 integer units (9 rounded components plus total),"Reported total minus sum of categories; tolerance is conservative rounding bound, not an error correction."
+CLP_2023_capacity_sum,PASS_rounding,0,absolute residual <=5 integer units (9 rounded components plus total),"Reported total minus sum of categories; tolerance is conservative rounding bound, not an error correction."
+CLP_2022_generation_sum,PASS_rounding,2,absolute residual <=5 integer units (9 rounded components plus total),"Reported total minus sum of categories; tolerance is conservative rounding bound, not an error correction."
+CLP_2022_capacity_sum,PASS_rounding,0,absolute residual <=5 integer units (9 rounded components plus total),"Reported total minus sum of categories; tolerance is conservative rounding bound, not an error correction."
+CLP_2024_coal_bridge,PASS,0,zero at reported integer MW,735MW equity physical closure plus529MW ownership exit; no inference of generation causality.

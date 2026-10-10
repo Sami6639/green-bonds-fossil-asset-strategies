@@ -1,0 +1,6 @@
+project_stage,qualifying_output_gwh,expected,actual,status
+construction,,Maturity unresolved,Maturity unresolved,PASS
+construction,,Maturity unresolved,Maturity unresolved,PASS
+construction,0,Construction; no generation,Construction; no generation,PASS
+construction,1,Construction with generation,Construction with generation,PASS
+construction_with_generation,0,Maturity unresolved,Maturity unresolved,PASS

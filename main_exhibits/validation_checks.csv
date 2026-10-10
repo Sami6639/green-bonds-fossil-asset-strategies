@@ -1,0 +1,6 @@
+check,difference,status
+CLP_bridge_identity,0.0,PASS
+Iberdrola_bridge_identity,0.0,PASS
+SSE_bridge_identity,0.0,PASS
+Enel_2018_allocation_balance,0.0,PASS
+Enel_2019_allocation_balance,-7.105427357601002e-15,PASS

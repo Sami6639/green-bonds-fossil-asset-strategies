@@ -1,0 +1,53 @@
+{
+  "scope": {
+    "matched_intervals": 11,
+    "by_issuer": {
+      "Enel": 5,
+      "Iberdrola": 5,
+      "SSE": 1
+    },
+    "source_package_sha256": "545c7ba597d3466126679c1f388a42780662a161a47714044ebe7d09430e9b33"
+  },
+  "iberdrola_2020": {
+    "closure_mw": -874,
+    "installation_pre_COD_mw": 779,
+    "acquisition_or_rights_mw": 243,
+    "net_change_mw": 148
+  },
+  "iberdrola_2024": {
+    "disposal_mw": -8494,
+    "uprating_mw": 17,
+    "unresolved_mw": -29,
+    "net_change_mw": -8506
+  },
+  "iberdrola_unresolved_2021_mw": -6,
+  "unchanged_stock_intervals": [
+    "ENEL_2023_2024",
+    "IBERDROLA_2022_2023"
+  ],
+  "enel_annual_coal_changes_mw": [
+    -2792,
+    -1993,
+    -320,
+    -1963,
+    0
+  ],
+  "enel_substitution_report_years": [
+    2020,
+    2023
+  ],
+  "enel_no_observed_substitution_but_coal_decline_years": [
+    2021,
+    2022
+  ],
+  "sse": {
+    "interval": "(2023-03-31,2024-03-31]",
+    "full_operation_share_open_pct": 6.839492553778269,
+    "full_operation_share_close_pct": 69.47968376539805,
+    "closure_mw": -620,
+    "preopening_excluded_gas_commissioning_mw": 893,
+    "preopening_excluded_acquisition_mw": 670
+  },
+  "causal_effect_estimated": false,
+  "pooled_mw_or_issuer_ranking": false
+}

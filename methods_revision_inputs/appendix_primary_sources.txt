@@ -1,0 +1,241 @@
+Appendix A Primary data source register
+
+Years denote reporting periods unless a dated announcement or framework version is specified. PDF and printed pages are distinguished. The complete register and decision-chain corpus preserve claim-level locators, access depth, unresolved source differences and event/publication dates. Supporting counterparty records corroborate announcements rather than independently identify motives or impacts.
+
+EN-G19  Enel. Green Bond Report 2019. PDF pp. 6 (printed p. 4) and 13.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2019/green-bond-report-2019_en.pdf
+
+EN-G20  Enel. Green Bond Report 2020. PDF p. 13 (printed p. 11), Table A and footnote 1.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2020/green-bond-report-2020_en.pdf
+
+EN-G21  Enel. Green Bond Report 2021. PDF p. 13, Table A (2019 issue).
+https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2021/green-bond-report-2021_en.pdf
+
+EN-G22  Enel. Green Bond Report 2022. PDF p. 13, Table A.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2022/green-bond-report-2022_en.pdf
+
+EN-G23  Enel. Green Bond Report 2023. PDF pp. 4 and 13.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2023/green-bond-report-2023_en.pdf
+
+EN-G24  Enel. Green Bond Report 2024. PDF p. 7, Table A.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2024/green-bond-report-2024_en.pdf
+
+IB-GREEN  Iberdrola. Green financing returns 2019. PDF p. 20; printed p. 19; inventory PDF p. 3 / printed p. 2 (reported date 05-Feb-19).
+https://www.iberdrola.com/documents/20125/42169/Informe_retornos_financiacion_verde_2019.pdf
+
+IB-GREEN  Iberdrola. Green financing returns 2020. PDF p. 22; printed p. 21.
+https://www.iberdrola.com/documents/20125/42169/Green_financing_returns_report_2020.pdf
+
+IB-GREEN  Iberdrola. Green financing returns 2021. PDF p. 23; printed p. 22.
+https://www.iberdrola.com/documents/20125/42169/Green_financing_returns_report_2021.pdf
+
+IB-GREEN  Iberdrola. Green financing returns 2022. PDF p. 26; printed p. 26.
+https://www.iberdrola.com/documents/20125/42169/Green_financing_returns_report_2022.pdf
+
+IB-GREEN  Iberdrola. Green financing returns 2023. PDF p. 27; printed p. 27.
+https://www.iberdrola.com/documents/20125/42169/green-financing-returns-report-2023.pdf
+
+IB-GREEN  Iberdrola. Green financing returns 2024. PDF p. 31; printed p. 31.
+https://www.iberdrola.com/documents/20125/42169/green-financing-returns-report-2024.pdf
+
+IB-AR20  Iberdrola. Annual Financial Report 2020. PDF pp. 243–245 (printed pp. 231–233); p. 63 for acquisition control.
+https://www.iberdrola.com/documents/20125/42397/gsm21_FinancialStatements_AuditorsReport_Consolidated.pdf
+
+IB-AR21  Iberdrola. Annual Financial Report 2021. PDF pp. 254 and 256 (printed pp. 243 and 245).
+https://www.iberdrola.com/documents/20125/1606413/gsm22_FinancialStatements_AuditorsReport_Consolidated2021.pdf
+
+IB-AR22  Iberdrola. Annual Financial Report 2022. PDF pp. 258 and 265 (printed pp. 247 and 254).
+https://www.iberdrola.com/documents/20125/2931678/gsm23_FinancialStatements_AuditorsReport_Consolidated2022.pdf
+
+IB-AR23  Iberdrola. Annual Financial Report 2023. PDF pp. 102 and 257 (printed pp. 91 and 254).
+https://www.iberdrola.com/documents/20125/3643974/gsm24-annual-accounts-consolidated-2023.pdf
+
+IB-AR24  Iberdrola. Annual Financial Report 2024. PDF pp.182,288,291,297–298 (printed pp.171,277,280,286–287); printed p. 320 / PDF p. 329 (post-sale four-plant PPAs); printed pp. 46–47 (transaction note).
+https://www.iberdrola.com/documents/20125/4778712/gsm25-annual-accounts-consolidated-2024.pdf
+
+IB-F21  Iberdrola. Factbook 2021. PDF pp. 91 and 115.
+https://www.iberdrola.com/documents/20125/41740/Factbook_2021_EN.pdf
+
+IB-COAL  Iberdrola. Announcement requesting closure authorization for Lada and Velilla (2017-11-10). PDF p. 1.
+https://www.iberdrola.com/documents/20125/668426/l3bj0vvk_qaw.pdf
+
+SS-G23  SSE. Green Bond Report to March 2023. Table 6, Green Bond 5 project allocation and impact table; 31 March 2023 cutoff.
+https://www.sse.com/media/axfpchcj/sse-s-green-bond-report-to-march-2023-green-bonds-1-2-3-4-and-5.pdf
+
+SS-G24  SSE. Green Bond Report to March 2024. Table 1 (settlement dates); Table 6, PDF p. 10 (project assignments and output); refinancing statement.
+https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf
+
+SS-DEC  SSE. Viking investment decision (2020-06-17). Dated announcement, 17 June 2020.
+https://www.sserenewables.com/news-and-views/2020/06/viking-approval-secures-580m-green-recovery-investment-for-shetland/
+
+SS-DEC  SSE. Gordonbush investment decision. Annual Report 2020, printed p. 20.
+https://www.sse.com/media/jqcamklf/sse-32693-annual-report-2020-web-1.pdf
+
+SS-DEC  SSE. Seagreen project history. Project history; retrospective decision date.
+https://www.sserenewables.com/offshore-wind/operational-wind-farms/seagreen/
+
+SS-VIKING  SSE. Viking full-operation announcement (2024-08-29). Dated announcement body.
+https://www.sserenewables.com/news-and-views/2024/08/landmark-moment-as-sse-powers-up-viking-wind-farm-on-shetland/
+
+SS-SEAGREEN  TotalEnergies. Seagreen full-operation announcement (2023-10-17). Dated announcement body.
+https://totalenergies.com/newsroom/scotland-totalenergies-commissions-its-biggest-offshore-wind-farm/?lang=eng
+
+SS-AR20  SSE. Annual Report 2020. p 68 note 3; p 68 note 4; p 68 note 5.
+https://www.sse.com/media/jqcamklf/sse-32693-annual-report-2020-web-1.pdf
+
+SS-AR21  SSE. Annual Report 2021. p 86 note 4; p 86 note 5.
+https://www.sse.com/media/rwhbww02/sse-annual-report-2021.pdf
+
+SS-AR22  SSE. Annual Report 2022. p 103 note 4.
+https://www.sse.com/media/blhnuywb/sse-full-annual-report.pdf
+
+SS-AR23  SSE. Annual Report 2023. Thermal KPI note 1;capacity contract table; Thermal KPI note 3;capacity contract table.
+https://www.sse.com/media/dncdjrcw/sse-annual-report-2023-web-final.pdf
+
+SS-AR24  SSE. Annual Report 2024. p 78 note 2.
+https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf
+
+SS-THERMAL  SSE / Siemens. Triton acquisition (2022-09-01). Dated announcement, 1 September 2022.
+https://www.ssethermal.com/news-and-views/2022/09/sse-thermal-and-equinor-complete-triton-power-acquisition/
+
+SS-THERMAL  SSE / Siemens. Keadby 2 operation (2023-03-15). Announcement, 15 March 2023; retrospective August 2018 construction date.
+https://www.ssethermal.com/news-and-views/2023/03/europe-s-most-efficient-power-station-enters-commercial-operation-in-the-humber/
+
+SS-THERMAL  SSE / Siemens. Keadby 2 groundbreaking (2018-11-06). Siemens announcement, 6 November 2018.
+https://news.siemens.co.uk/news/sse-and-siemens-break-ground-at-keadby-2
+
+EN-CAP  Enel. Operating data 2019. PDF pp. 5.
+https://www.enel.com/content/dam/enel-common/press/en/2020-March/Quarterly%20Bulletin%20FY%202019_EN.pdf
+
+EN-CAP  Enel. Operating data 2020. PDF pp. 5;6;7;8;9.
+https://www.enel.com/content/dam/enel-common/press/en/2021-March/Bulletin%20operating%20data%2031.12.2020%20ENG.pdf
+
+EN-CAP  Enel. Operating data 2021. PDF pp. 5;6;7;8.
+https://www.enel.com/content/dam/enel-common/press/en/2022-march/Enel%20Quarterly%20Bulletin%20FY%202021%20-%20EN.pdf
+
+EN-CAP  Enel. Operating data 2022. PDF pp. 5;6;7;8.
+https://www.enel.com/content/dam/enel-common/press/en/2023-march/PR%20Enel%20Quarterly%20Bulletin%20FY%202022.pdf
+
+EN-CAP  Enel. Operating data 2023. PDF pp. 9;10;11;12.
+https://www.enel.com/content/dam/enel-common/press/en/2024-march/Enel%20Quarterly%20Bulletin%20FY%202023%20-%20EN.pdf
+
+EN-CAP  Enel. Integrated annual report 2024. PDF pp. 178.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2024/annuali/en/integrated-annual-report_2024.pdf
+
+EN-CLOSURES  Enel / Endesa. Endesa annual report 2020. PDF p. 181.
+https://www.endesa.com/content/dam/enel-es/endesa-en/home/investors/corporategovernance/shareholdersmeeting/documents/junta-general-2021/005-annual-report-2020-cac-eng-v-cnmv-consolidated.pdf
+
+EN-CLOSURES  Enel / Endesa. Sustainability report 2022. PDF p. 202.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2022/sustainability-report_2022.pdf
+
+EN-CLOSURES  Enel / Endesa. Integrated annual report 2023. PDF p. 164.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2023/annuali/en/integrated-annual-report_2023.pdf
+
+EN-AR24  Enel. Integrated Annual Report 2024. PDF pp. 177–178.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2024/annuali/en/integrated-annual-report_2024.pdf
+
+EN-REFT  Enel / Enel Russia. Half-year report 2019. PDF p. 62.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2019/interim/en/half-year-financial-report_30june2019.pdf
+
+EN-REFT  Enel / Enel Russia. Annual report 2019. PDF pp. 118 and 149.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2019/annuali/en/annual-report_2019.pdf
+
+EN-REFT  Enel / Enel Russia. Enel Russia annual report 2020. PDF p. 38.
+https://www.el5-energo.ru/upload/iblock/1ad/gtrdgspym3gl2u1vl7vk0g9yrexcfgdg/Annual_report_2020.pdf
+
+CLP-CAP  CLP. Equity coal indicators 2019. Printed p. 289 (PDF p. 90).
+https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-3-financial-reports/2023/e_2023E113.pdf.coredownload.pdf
+
+CLP-CAP  CLP. Equity coal indicators 2024. ESG data hub, equity generation capacity, coal row.
+https://sustainability.clpgroup.com/en/2024/esg-data-hub
+
+CLP-CAP  CLP. Annual results 2020. p. 21, Mount Piper upgrade.
+https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-2-results---presentations/1/e_2020%20Annual%20Results%20Announcement_final.pdf.coredownload.pdf
+
+CLP-CAP  CLP. Reporting scope 2022. Shiheng, Fangchenggang and Apraava ownership/contract exits; capacity corroboration in full register.
+https://sustainability.clpgroup.com/en/2022/about-this-report/reporting-scope-and-data-verification
+
+CLP-CAP  CLP. Annual report 2024. Printed p. 297, note 15.
+https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-3-financial-reports/2024/e_2024%20Annual%20Report.pdf.coredownload.pdf
+
+CLP-RESERVE  CLP. Asset book 2023. Printed p. 294 (PDF p. 1), note 2.
+https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/3-3-financial-reports/2023/e_2023E114.pdf.coredownload.pdf
+
+CLP-RESERVE  CLP. Reporting scope 2024. Castle Peak A 1–A 3 retirement.
+https://sustainability.clpgroup.com/en/2024/about-this-report/reporting-scope-and-data-verification
+
+CLP-WENT  CLP. Climate action finance report 2024. pp. 5, 7, 11.
+https://www.clpgroup.com/content/dam/clp-group/channels/investor/document/2024_CA_Finance_Report_en.pdf.coredownload.pdf
+
+OR-AR24  Ørsted. Ørsted Annual Report 2024. pp. 99 and 101.
+https://cdn.orsted.com/-/media/annual2024/orsted-annual-report-2024.pdf?hash=A05D897FF6CA71315480487832E17FA2&rev=02bde37dc8424c8eb8e4e9f3b65cc833
+
+IB-SPO19  Iberdrola. Second-party opinion for February 2019 green hybrid (2019-02-04). PDF/printed pp. 1–2, 5–7, 10; signed 4 February 2019.
+https://www.iberdrola.com/documents/20125/42166/Second_Party_Opinion_VF_20190205.pdf/53fbe6f7-da72-6853-7900-7f8cd664c073?t=1630654962801
+
+SS-FW21  SSE. Green Bonds Framework 2021. PDF/printed pp. 2–4, 7, 9–10.
+https://www.sse.com/media/qcmiagvl/green-bonds-framework.pdf
+
+SS-SPO22  SSE. DNV green bond eligibility assessment 2022 (2022-07-23). PDF pp. 1–4, 12–13; 23 July 2022.
+https://www.sse.com/media/ispikvej/sse-green-bond-eligibility-assessment-2022-23-jul-2022.pdf
+
+SS-CR24  SSE. Green bond reporting criteria 2024. Printed pp. 2–4 (PDF pp. 3–5).
+https://www.sse.com/media/515gfsh0/sse-green-bond-criteria-document-2024-v4.pdf
+
+EN-FW18  Enel. Green Bond Framework November 2018 (2018-11). PDF/printed pp. 1–2, 4–6.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/investire-in-enel/programmi-principali/green-bond/green-bond-framework_november2018.pdf
+
+EN-AR23  Enel. Integrated annual report 2023. PDF/printed pp. 6, 235, 237, 355, 483.
+https://www.enel.com/content/dam/enel-com/documenti/investitori/informazioni-finanziarie/2023/annuali/en/integrated-annual-report_2023.pdf
+
+EN-KAF19  Enel. Kafireas commissioning announcement (2019-10-15). Dated release, 15 October 2019; project–Hellas linkage.
+https://www.enel.com/media/explore/search-press-releases/press/2019/10/enel-inaugurates-kafireas-the-largest-wind-facility-in-greece
+
+IB-MX23-MOU  Iberdrola. Iberdrola signs an agreement to sell more than 8,400 MW of combined cycle gas in Mexico for $6 billion (2023-04-04). PDF/printed p1.
+https://www.iberdrola.com/documents/20125/3091655/230404-iberdrola-signs-an-agreement-to-sell-more-than-8400-mw-of-combined-cycle-gas-in-mexico-for-6-billion-usd.pdf
+
+IB-MX23-STRATEGY  Iberdrola. The New Iberdrola Mexico (2023-04-05). PDF/printed pp2–4; p5 forecast assumptions; p6 commercial continuity.
+https://www.iberdrola.com/documents/20125/3092884/230405-OIR-02-EN.pdf
+
+IB-MX23-AGREE  Iberdrola. Signed binding agreement to sell 55% of Mexico business for US$6 billion (2023-06-12). Dated announcement; opening paragraph and transaction description.
+https://www.iberdrola.com/press-room/news/detail/iberdrola-signs-binding-agreement-to-sell-55-percent-of-its-mexican-business-for-usd-6-billion
+
+IB-MX24-CLOSE  Iberdrola. Iberdrola closes the sale of 55% of its business in Mexico for $6.2 billion (2024-02-26). Opening transaction paragraphs; final paragraph before Commitment to the country’s decarbonization.
+https://www.iberdrola.com/press-room/news/detail/iberdrola-closes-the-sale-of-55-of-its-business-in-mexico-for-6-2-billion-dollars
+
+SS-TRITON22-AGREE  SSE. SSE Thermal and Equinor to acquire Triton Power in acceleration of low-carbon ambitions (2022-06-28). Opening paragraphs; expected-completion paragraph; SSE’s emissions pathways.
+https://www.ssethermal.com/news-and-views/2022/06/sse-thermal-and-equinor-to-acquire-triton-power-in-acceleration-of-low-carbon-ambitions/
+
+SS-TRITON22-CLOSE  SSE. SSE Thermal and Equinor complete Triton Power acquisition (2022-09-01). Opening paragraphs and prospective decarbonisation paragraphs.
+https://www.ssethermal.com/news-and-views/2022/09/sse-thermal-and-equinor-complete-triton-power-acquisition/
+
+EQ-TRITON22  Equinor. Equinor and SSE Thermal acquire Triton Power and prepare for transition to hydrogen. Completion update; Saltend natural-gas description; consideration and 50:50 ownership paragraph; date status: 2022-06-28; explicitly updated 2022-09-01.
+https://www.equinor.com/news/20220628-acquire-triton-power-prepare-transition-hydrogen
+
+SS-KEADBY18-DECISION  SSE. Financial results to 31 March 2018 and business update: Presentation script part 2 (2018-05-25). PDF/printed p26, Slide 56; p22, Slide 47 for contextual market alternatives.
+https://www.sse.com/media/3mpby3lb/sse-results-and-business-update-afternoon-session-script.pdf
+
+SI-KEADBY18  Siemens. Siemens will deliver one of the world’s most efficient combined cycle power plants to UK (2018-06-05). Dated announcement; construction/schedule paragraph and SSE executive statement.
+https://press.siemens.com/global/en/pressrelease/siemens-will-deliver-one-worlds-most-efficient-combined-cycle-power-plants-uk
+
+SS-KEADBY23-COD  SSE. Europe’s most-efficient power station enters commercial operation in the Humber (2023-03-15). Opening and 893MW/construction/commissioning paragraphs.
+https://www.ssethermal.com/news-and-views/2023/03/europe-s-most-efficient-power-station-enters-commercial-operation-in-the-humber/
+
+SS-TARBERT23-PRIOR  SSE. SSE Thermal is charting a path for low-carbon flexible generation in Ireland (2023-02-28). Existing Tarbert closure paragraph; new-station development and final-investment-decision paragraph.
+https://www.sse.com/news-and-views/2023/02/sse-thermal-is-charting-a-path-for-low-carbon-flexible-generation-in-ireland/
+
+SS-PROSPECTUS24  SSE. Euro Medium Term Note Programme prospectus (2024-08-23). PDF/printed p105 operating review and p106 capacity-contract footnote.
+https://www.sse.com/media/ej5l4w14/sse-plc_prospectus-2024_final-version.pdf
+
+SS-TARBERT-SITE  SSE. Tarbert. Opening paragraph; date status: Undated current page; read 2026-10-10.
+https://www.ssethermal.com/flexible-generation/decommissioned/tarbert/
+
+EN-AU23-AGREE  Enel. Enel signs deal to sell 50% of Enel Green Power Australia to INPEX Corporation (2023-07-13). PDF p1: strategy, joint control, financial effects and conditions.
+https://www.enel.com/content/dam/enel-common/press/en/2023-july/PR%20EGPA.pdf
+
+EN-GR23-AGREE  Enel. Enel sells 50% of Enel Green Power Hellas to Macquarie Asset Management (2023-07-26). PDF p1: joint control, expected completion and antitrust condition.
+https://www.enel.com/content/dam/enel-common/press/en/2023-july/PR%20EGP%20Hellas.pdf
+
+
+IB-OC19  Iberdrola International B.V. Offering Circular dated 6 February 2019. PDF/printed pp. 6, 47 and 64 (contractual Issue Date 12 February 2019); pp. 12 and 98 (ISIN XS1890845875). The different 05-Feb-19 allocation-inventory date is retained separately without a pricing-date inference.
+https://www.iberdrola.com/documents/20125/41881/Offering_Circular_190205.pdf/061be875-ea3f-68c9-92f3-7ba099f18eae?t=1629963856493

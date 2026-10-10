@@ -1,0 +1,7 @@
+year,reported_total_MW,nuclear_MW,renewable_including_hydro_MW,gas_including_cogen_MW,coal_fuel_oil_MW,printed_page,reported_minus_components_MW,basis
+2019,128658,74106,32315,12316,9921,57,0,EDF ownership-share net capacity including associates and joint ventures; company-reported fuel categories
+2020,127853,72347,33369,12587,9550,59,0,EDF ownership-share net capacity including associates and joint ventures; company-reported fuel categories
+2021,123151,69455,34764,11014,7918,61,0,EDF ownership-share net capacity including associates and joint ventures; company-reported fuel categories
+2022,123005,67824,35974,11528,7678,31,1,EDF ownership-share net capacity including associates and joint ventures; company-reported fuel categories
+2023,122673,67753,37668,11080,6173,31,-1,EDF ownership-share net capacity including associates and joint ventures; company-reported fuel categories
+2024,124640,67753,39497,11587,5767,25,36,EDF ownership-share net capacity including associates and joint ventures; company-reported fuel categories

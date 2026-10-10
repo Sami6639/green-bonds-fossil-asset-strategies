@@ -1,0 +1,8 @@
+bond_group,issuer_entity,parent,isin,issue_date,issue_sterling_equivalent_gbp,allocation_status,financing_type,source_url,source_locator,scope_flag
+1,SSE plc,SSE,XS1676952481,2017-09-06,548426017.3,fully_allocated_at_settlement,refinancing,https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf,Table1 p4; allocation principle p3,parent_issuer
+2,SSE plc,SSE,XS1875284702,2018-09-04,591446676.8,fully_allocated_at_settlement,refinancing,https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf,Table1 p4; allocation principle p3,parent_issuer
+3,SHET plc,SSE,XS2057092236,2019-09-27,350000000,fully_allocated_at_settlement,refinancing,https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf,Table1 p4; allocation principle p3,SHET75pct_owned;reported_capex100pct
+4,SHET plc,SSE,XS2321663473/XS2322933495,2021-03-24,500000000,fully_allocated_at_settlement,refinancing,https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf,Table1 p4; allocation principle p3,combined_two_tranches
+5,SSE plc,SSE,XS2510903862,2022-08-01,543933054.39,fully_allocated_at_settlement,refinancing,https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf,Table1 p4; allocation principle p3,parent_issuer
+6,SSE plc,SSE,XS2675685700,2023-09-05,639822555.9,fully_allocated_at_settlement,refinancing,https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf,Table1 p4; allocation principle p3,parent_issuer
+7,SHET plc,SSE,XS2747603624,2024-01-15,500000000,fully_allocated_at_settlement,refinancing,https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf,Table1 p4; allocation principle p3,SHET75pct_owned;reported_capex100pct

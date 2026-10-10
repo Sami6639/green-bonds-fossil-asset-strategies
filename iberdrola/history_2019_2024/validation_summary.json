@@ -1,0 +1,25 @@
+{
+  "capacity_fact_rows": 72,
+  "asset_event_rows": 12,
+  "annual_bridge_rows": 20,
+  "matched_bond_fact_rows": 24,
+  "matched_project_rows": 12,
+  "primary_keys_unique": true,
+  "ownership_column_sums_reconcile": true,
+  "bridge_identities_reconcile": true,
+  "remaining_mechanism_unresolved": [
+    {
+      "year": 2021,
+      "technology": "Cogeneration",
+      "residual_mw": -6
+    },
+    {
+      "year": 2024,
+      "technology": "Cogeneration",
+      "residual_mw": -29
+    }
+  ],
+  "physical_retirement_mw_2020_2024": 874,
+  "divestment_mw_2020_2024": 8494,
+  "unresolved_cogeneration_reductions_mw": 35
+}

@@ -1,0 +1,27 @@
+﻿allocation_id,isin,project_id,project_name,allocation_year,allocation_dkkm,allocation_kind,technology_reported_p8,technology_project_table_p6,allocation_scope,new_vs_refinancing,source_id,source_page
+XS2531569965:orsted_gode_wind_3:2024,XS2531569965,orsted_gode_wind_3,Gode Wind 3,2024,239,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531569965:orsted_greater_changhua_2b_and_4:2024,XS2531569965,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2024,2032,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531569965:orsted_mockingbird:2024,XS2531569965,orsted_mockingbird,Mockingbird,2024,1000,annual_flow,Solar PV,Solar PV,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531569965:orsted_revolution_wind:2024,XS2531569965,orsted_revolution_wind,Revolution Wind,2024,1382,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531569965:orsted_sparta_solar:2024,XS2531569965,orsted_sparta_solar,Sparta Solar,2024,310,annual_flow,Solar PV,Solar PV,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591029876:orsted_badger:2024,XS2591029876,orsted_badger,Badger,2024,253,annual_flow,Onshore wind,Onshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591029876:orsted_greater_changhua_2b_and_4:2024,XS2591029876,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2024,1703,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591029876:orsted_eleven_mile:2024,XS2591029876,orsted_eleven_mile,Eleven Mile,2024,77,annual_flow,Solar PV,Solar PV,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591029876:orsted_revolution_wind:2024,XS2591029876,orsted_revolution_wind,Revolution Wind,2024,1783,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591029876:orsted_south_fork_wind:2024,XS2591029876,orsted_south_fork_wind,South Fork Wind,2024,258,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591029876:orsted_ballinrea:2024,XS2591029876,orsted_ballinrea,Ballinrea,2024,27,annual_flow,Solar PV,Solar PV,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591029876:orsted_bahren_west_1:2024,XS2591029876,orsted_bahren_west_1,Bahren West 1,2024,197,annual_flow,Onshore Wind,Onshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591029876:orsted_farranrory:2024,XS2591029876,orsted_farranrory,Farranrory,2024,116,annual_flow,Onshore Wind,Onshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2591032235:orsted_badger:2024,XS2591032235,orsted_badger,Badger,2024,100,annual_flow,Offshore wind,Onshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570039:orsted_gode_wind_3:2024,XS2531570039,orsted_gode_wind_3,Gode Wind 3,2024,565,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570039:orsted_mockingbird:2024,XS2531570039,orsted_mockingbird,Mockingbird,2024,109,annual_flow,Solar PV,Solar PV,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570039:orsted_revolution_wind:2024,XS2531570039,orsted_revolution_wind,Revolution Wind,2024,1419,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570112:orsted_badger:2024,XS2531570112,orsted_badger,Badger,2024,224,annual_flow,Solar PV,Onshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570112:orsted_eleven_mile:2024,XS2531570112,orsted_eleven_mile,Eleven Mile,2024,737,annual_flow,Solar PV,Solar PV,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570112:orsted_mockingbird:2024,XS2531570112,orsted_mockingbird,Mockingbird,2024,130,annual_flow,Solar PV,Solar PV,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570112:orsted_revolution_wind:2024,XS2531570112,orsted_revolution_wind,Revolution Wind,2024,469,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570112:orsted_south_fork_wind:2024,XS2531570112,orsted_south_fork_wind,South Fork Wind,2024,178,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2531570112:orsted_greater_changhua_1_and_2a:2024,XS2531570112,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2024,277,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2778385240:orsted_garreenleen:2024,XS2778385240,orsted_garreenleen,Garreenleen,2024,143,annual_flow,Solar PV,Solar PV,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2778385240:orsted_badger:2024,XS2778385240,orsted_badger,Badger,2024,375,annual_flow,Offshore wind,Onshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8
+XS2778385240:orsted_revolution_wind:2024,XS2778385240,orsted_revolution_wind,Revolution Wind,2024,165,annual_flow,Offshore wind,Offshore wind,Ørsted ownership share,not_disaggregated,OR_GF_2024,8

@@ -1,0 +1,43 @@
+{
+  "status": "pass",
+  "checks": {
+    "combined_methods_results_below_3000_words": true,
+    "all_40_existing_source_keys_retained": true,
+    "all_prose_citation_keys_registered": true,
+    "all_ledger_source_keys_registered": true,
+    "appendix_register_keys_match": true,
+    "five_equations_preserved_verbatim": true,
+    "exactly_four_table_callouts": true,
+    "exactly_three_figure_callouts": true,
+    "no_unfinished_markers": true,
+    "missing_generation_is_unresolved": true,
+    "vintage_timing_limit_present": true,
+    "enel_accounting_and_implementation_distinct": true,
+    "no_interrater_claim": true,
+    "bound_search_not_independence": true,
+    "four_worked_examples": true,
+    "new_table3_decision_chain": true
+  },
+  "word_counts": {
+    "data_methods_draft.txt": 1156,
+    "results_draft.txt": 1415,
+    "appendix_coding_examples.txt": 768,
+    "appendix_primary_sources.txt": 1260
+  },
+  "source_rows": 81,
+  "source_keys": 55,
+  "prose_source_keys": 52,
+  "claim_rows": 50,
+  "unknown_prose_keys": [],
+  "unknown_ledger_keys": [],
+  "scope": "Manuscript-fragment checks only; assembled Word layout, global word count and full package reproduction remain separate checks.",
+  "file_sha256": {
+    "data_methods_draft.txt": "574ee470099cfe0ab4819ce38f35723473c278b2b2c0b8f5e2f4dc94f5c64e1a",
+    "results_draft.txt": "e2dac37e29295c8e18369dedcb641ddda10552ea7790c28b6ea5bc7675ff00e1",
+    "appendix_coding_examples.txt": "d08f751156104c0a2a3da9a1c651e7029cf67451732865c7ad3163e90247d8f0",
+    "empirical_source_register.csv": "83b12e09bf8341dd6ef552afe257a8e6be16f1dded14f7faf65afb57f5ef3ba5",
+    "methods_results_claim_ledger.csv": "4211ebf3737e892de6a18e95624bddb51333abf463a9e59f4711c7182b51deda",
+    "equation_sources.json": "c4ba9a8b0760d184f3d8027fe5bcdb82976c5eb78a048f561308b2474dafacee",
+    "source_appendix_entries.json": "9b704b39beb9c927d75fb726acf452c646ec8f6f13127fcdd5e55633192da57e"
+  }
+}

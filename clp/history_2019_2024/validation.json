@@ -1,0 +1,22 @@
+[
+  {
+    "check": "issuer_year_facts_2019_2024.csv unique keys",
+    "pass": true,
+    "rows": 120
+  },
+  {
+    "check": "bond_allocations_2019_2024.csv unique keys",
+    "pass": true,
+    "rows": 28
+  },
+  {
+    "check": "went_finance_delivery_2019_2024.csv unique keys",
+    "pass": true,
+    "rows": 6
+  },
+  {
+    "check": "coal endpoint residual explicitly retained",
+    "pass": true,
+    "residual_mw": -1
+  }
+]

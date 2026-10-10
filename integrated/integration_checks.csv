@@ -1,0 +1,4 @@
+check,status,n,interpretation
+normalized observation key uniqueness,PASS,0,Alternative ownership scopes and component/subtotal rows are not cross-summed.
+nonblank numeric observations have source URL and locator,PASS,0,Provenance completeness does not establish cross-issuer comparability.
+explicit missing values retained,DESCRIPTIVE,7,Never zero-filled. Additional absent constructs are recorded in the coverage matrix.

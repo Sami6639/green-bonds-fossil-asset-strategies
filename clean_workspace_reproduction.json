@@ -1,0 +1,15 @@
+{
+  "verified_date_utc": "2026-10-10",
+  "release_id": "final-revision-20261010",
+  "procedure": "Extract archive into a new directory; run python run_analysis.py with a verified Python network-denial audit hook; compare complete archive and every member; run validate_package.py",
+  "result": "PASS",
+  "complete_archive_byte_identity": true,
+  "all_member_bytes_identical": true,
+  "network_guard_verified": true,
+  "network_downloads_during_rebuild": false,
+  "network_attempts_during_rebuild": 0,
+  "same_python_dependency_environment": true,
+  "dependencies_file": "BUILD_ENVIRONMENT.json",
+  "archive_hash_recorded_outside_archive_to_avoid_circularity": true,
+  "scope_note": "Source-derived CSV inputs and source-coding records are frozen extracts. Analysis, tables, figures, workbook and manifests rebuild deterministically. This is not independent human source recoding; current archive hashes and terminal verification reside in the external final release audit."
+}

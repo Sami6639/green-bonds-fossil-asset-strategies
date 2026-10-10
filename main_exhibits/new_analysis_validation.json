@@ -1,0 +1,30 @@
+[
+  {
+    "check": "SSE_GB5_each_snapshot_543_9",
+    "pass": true
+  },
+  {
+    "check": "SSE_maturity_shares_sum_100",
+    "pass": true
+  },
+  {
+    "check": "SSE_2023_Seagreen_partial_generation",
+    "pass": true
+  },
+  {
+    "check": "SSE_fossil_bridge_closes",
+    "pass": true
+  },
+  {
+    "check": "SSE_gas_oil_bridge_closes",
+    "pass": true
+  },
+  {
+    "check": "Enel_2019_reassigned_156_86",
+    "pass": true
+  },
+  {
+    "check": "Enel_2021_source_chain_15_entries",
+    "pass": true
+  }
+]

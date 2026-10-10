@@ -1,0 +1,2 @@
+issuer,scope,opening_mw,closing_mw,net_change_mw,ownership_or_contract_exit_mw,physical_closure_mw,uprating_mw,residual_mw,exit_share_of_gross_identified_capacity_removals,closure_share_of_gross_identified_capacity_removals,notes
+CLP,equity_coal,10765.0,7222.0,-3543.0,-2837,-735,30,-1.0,0.7942329227323628,0.20576707726763718,"Shares use gross identified removals2837+735=3572, not net decline3543. Event-date/stock-recognition mismatch remains for30MWupgrade. Roundedcapacity residual−1MW not forciblyzero. Other offsetting grosschanges not exhaustively excluded."

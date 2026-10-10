@@ -1,0 +1,7 @@
+{
+  "release_id": "final-revision-20261010",
+  "date_correction_revision": "IB-OC19-v1",
+  "supersedes_archive_sha256": "c151d9144249717d393df4a57bc76be10eee29c37d5d1b7f5dc9e1eee22863dc",
+  "scope": "Contractual issue date corrected with separate retained allocation inventory date, source evidence and regression tests. Original annual numerical results and figure designs preserved.",
+  "original_release_preserved": true
+}

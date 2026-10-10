@@ -1,0 +1,22 @@
+{
+  "source_code": "EN-G21",
+  "title": "Enel Green Bond Report 2021",
+  "source_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2021/green-bond-report-2021_en.pdf",
+  "pdf_page_1_based": 13,
+  "printed_page": 13,
+  "panel_file": "enel/green_2019_issue_full_annual_panel.csv",
+  "present_report_entries": 15,
+  "rounded_allocation_row_sum_eur_m": 986.0,
+  "panel_source_id": "green_bond_2021",
+  "source_pdf_sha256": "8c64c2f0d26002c80a50ef592b2a7411047627c24e4c5a6721644a68f3183d77",
+  "affected_comparisons": [
+    "2020\u20132021",
+    "2021\u20132022"
+  ],
+  "required_visible_locations": [
+    "Appendix A",
+    "Appendix pool-continuity source note",
+    "Table 2 source note where annual identity history is referenced"
+  ],
+  "audit_scope": "Existing source page and panel source IDs; report vintage does not establish original public disclosure day."
+}

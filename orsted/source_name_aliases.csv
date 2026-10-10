@@ -1,0 +1,5 @@
+source_id,source_page,source_label,canonical_project_name,reason
+OR_GF_2024,8,Greater Changua 1 and 2a,Greater Changhua 1 and 2a,Same project allocation amount and table context; spelling normalized to p6
+OR_GF_2024,9,Borkum Riffgund 3,Borkum Riffgrund 3,Spelling normalized to p6
+OR_GF_2024,9,South Fork Windk,South Fork Wind,Extraneous final letter normalized to p6
+OR_GF_2024,9,Old 300 Solar,Old 300,Technology suffix omitted in p6 project name

@@ -1,0 +1,53 @@
+Ørsted bounded pilot: 2022–2024 issuer outcomes and 2024 green-bond allocations
+Prepared 10 October 2026. Descriptive evidence only.
+
+Decision
+The pilot supports an allocation-to-project link and an event-based description of portfolio reconfiguration. It does not identify electricity-only fossil generation or unique fossil capacity from the scoped reports. Retain Ørsted as a measurement boundary case or an event-led case; do not put its thermal generation into a harmonized fossil-electricity outcome.
+
+Coverage and grain
+Three issuer calendar years (2022–2024); 22 projects in the 2024 finance report; 23 bond records including one redeemed hybrid; 26 instrument-project annual-allocation rows; a complete 22-by-17 historical allocation matrix (374 cells, 54 positive); 89 issuer metric/source observations; 1,051 value-level provenance entries; seven dated portfolio/operation events. 2022 is the comparator in the 2023 annual report; 2023–2024 use the 2024 annual report. The historical finance table pools 2017–2023. It does not supply annual allocation timing and cannot be expanded into seven annual flows.
+
+Observed issuer facts
+Electricity generation in 2022 / 2023 / 2024, GWh:
+- Total: 35,641 / 35,572 / 38,436
+- Offshore wind: 16,483 / 17,761 / 18,599
+- Onshore wind: 11,225 / 11,228 / 11,959
+- Solar PV: 1,921 / 2,146 / 3,356
+- Thermal, including biomass: 6,012 / 4,437 / 4,522
+Sources: Annual Report 2023 p97; Annual Report 2024 p101.
+
+Electricity capacity from the detailed tables in 2022 / 2023 / 2024, MW:
+- Total: 11,327 / 12,511 / 12,899
+- Offshore wind: 4,672 / 4,986 / 5,260
+- Onshore wind: 3,454 / 3,707 / 3,666
+- Solar PV: 661 / 1,018 / 1,876
+- Thermal: 2,540 / 2,800 / 2,097
+Sources: Annual Report 2023 p95; Annual Report 2024 p99. The 2024 overview p97 instead prints 12,900 total and 5,261 offshore; both conflicting observations are retained. The detailed p99 values are used only as an explicit preferred view, not an official correction.
+
+High-priority measurement boundaries
+1. Critical, high confidence: thermal generation includes biomass. Fuel shares describe combined heat and power. Coal shares of 8%, 6%, and 2%, and renewable shares of 91%, 93%, and 97%, are not electricity-only shares. Fossil-electricity GWh is deliberately blank in every pilot year. Annual Report 2023 p98 and Annual Report 2024 p102 state the combined denominator and plant/unit fuel-allocation method.
+2. High, high confidence: fuel-capable thermal MW are overlapping maxima at multi-fuel plants, not additive plant stocks. The 2024 coal row is a dash with a reported change of -991 MW from 991 MW. Its numerical zero is an explicitly documented normalization, not evidence of 991 MW of physical retirement. Unique fossil MW remains blank.
+3. High, high confidence: finance p6 states that allocations reflect Ørsted's ownership share, while MW and GWh reflect full projects. All attributed physical output columns remain blank. Project CAPEX is not disclosed; a financing-attributed generation ratio cannot be recovered merely from allocated money. Do not add repeated project output once per bond link or directly divide full-project output by ownership-adjusted allocations.
+4. High, high confidence: 13 of 22 project generation cells are dashes. They remain missing, including for some projects shown in operation. Finance p18 describes a one-year operating-history threshold for publishing generation. Do not code a dash as zero or replace it with expected output. Source status is preserved rather than inferred from construction-period endpoints.
+
+Visually verified reconciliation issues
+Finance pages 6–9 were rendered and inspected. These differences are in the published PDF, rather than text-extraction artifacts. No issuer correction was found or assumed.
+- XS2531570112: p7 reports DKK 2,105m allocated in 2024. P8 prints DKK 2,015m and its six project cells sum to 2,015m. P9 historical allocation is 1,340m; 1,340 + 2,015 = p7 cumulative 3,355m. P7 annual bond rows sum to 14,358m, DKK 90m above the printed total. P6 and p8 sum to the printed DKK 14,268m. Preserve both raw amounts; detail-based reconciliation is strong evidence, not an authorized amendment of the source.
+- P8 prose says 14 recipient projects and names Old 300. Its actual allocation rows contain 13 distinct projects; p6 also has 13 positive 2024 allocations. Old 300's p6 2024 allocation is a dash.
+- Badger is onshore wind in p6. Three p8 allocation rows label it Solar PV or Offshore wind. Preserve the reported labels, and use the p6 project-level technology as the explicitly sourced canonical classification.
+- South Fork Wind is Under construction in finance p6, with 359 GWh reported output; Annual Report p98 explicitly says its 132 MW reached COD in 2024. Preserve the conflicting status and do not infer an exact commissioning date.
+- Annual Report pp97 and 99 differ by 1 MW for total and offshore capacity. The difference is localized to Germany, 800 versus 799 MW. Both pages were visually checked. No causal or materiality claim follows from this small discrepancy.
+
+Portfolio events and temporal interpretation
+Esbjerg: the annual report identifies closure of 373 MW, with p101 saying closed as of August 2024. Kyndby's extra 260 MW oil unit returned temporarily in 2023 and was taken out of operation in 2024; permanent retirement is not established. Part of Avedøre's gas-based capacity was taken out of operation, but the narrative gives no asset-level MW for that event. Studstrup gradually switched back to biomass from April 2023. These are different processes: closure, reversible operational status, partial asset change, and fuel substitution. The thermal-capacity fall of 703 MW is therefore not a measure of permanent fossil retirements.
+
+Checks and result
+113 reproducible checks include keys, row counts, missing output, category sums, annual project sums, cumulative project sums, bond sums, and historical-plus-current reconciliation. Six fail against inconsistent reported comparators, covering the issues above; the remaining 107 pass. All 22 project annual allocations reconcile to bond-project details, all 22 historical-plus-2024 project stocks reconcile, and all 23 bond cumulative balances reconcile using detailed flows. Arithmetic checks treat allocation dashes as zero only for testing sums; raw dashes and null numeric cells are preserved.
+
+The source boundary also needs attention before panel expansion. The 2023 annual report explicitly applies ownership-interest consolidation to Gunfleet Sands 1 & 2 and Walney 1 & 2 and financial consolidation to other wind, solar, and CHP assets. The 2024 capacity policy describes financial consolidation. Matching comparative totals is not proof that every asset's consolidation, acquisition, or disposal boundary is unchanged. Solar project-level MW in the finance table must not be assumed to match the annual report's MWAC basis.
+
+Minimum remediation
+Obtain plant/unit electricity generation by fuel, with historical ownership and operating status, before admitting fossil-electricity outcomes. Obtain explicit project CAPEX/financing shares and relevant ownership fractions before calculating attributed MW/GWh. Verify actual commissioning dates independently of status labels and construction ranges. Resolve the DKK 90m allocation inconsistency and small capacity discrepancy with a corrected official disclosure if the affected fields become analytically important. Retain the current unresolved flags until then.
+
+Reproducibility and rights
+CSV files and the transcription/check script are the factual deliverables. source_manifest.csv provides official URLs, exact local-input hashes, and page references; cell_provenance.csv provides record/field/source-row/source-column links. validate_orsted_pilot.ipynb reruns checks directly from the delivered CSVs. Source PDFs and rendered pages are local research evidence; no open redistribution license was verified. They should not be repackaged as an open dataset. No regression, financing counterfactual, or causal transformation claim has been produced.

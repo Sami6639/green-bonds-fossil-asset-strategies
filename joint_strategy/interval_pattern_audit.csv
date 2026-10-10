@@ -1,0 +1,12 @@
+interval_id,issuer,closing_year,financial_total_change_m,identity_change_observed,project_money_continuity,fossil_event_mixture,net_capacity_change_mw,classification_scope
+ENEL_2019_2020,Enel,2020,0.0,True,changed,coal decline with closure records; full gross bridge unresolved,-2792,interval-specific; no company ranking or causal estimate
+ENEL_2020_2021,Enel,2021,0.0,False,observed at report-line precision only,coal decline with closure records; full gross bridge unresolved,-1993,interval-specific; no company ranking or causal estimate
+ENEL_2021_2022,Enel,2022,0.0,False,observed at report-line precision only,coal decline with closure records; full gross bridge unresolved,-320,interval-specific; no company ranking or causal estimate
+ENEL_2022_2023,Enel,2023,0.0,True,changed,coal decline with closure records; full gross bridge unresolved,-1963,interval-specific; no company ranking or causal estimate
+ENEL_2023_2024,Enel,2024,0.0,False,observed at report-line precision only,unchanged coal stock; gross inventory unresolved,0,interval-specific; no company ranking or causal estimate
+IBERDROLA_2019_2020,Iberdrola,2020,0.0,False,unidentified,closure + installation/commissioning + acquisition/rights,148,interval-specific; no company ranking or causal estimate
+IBERDROLA_2020_2021,Iberdrola,2021,0.0,False,unidentified,unresolved reduction,-6,interval-specific; no company ranking or causal estimate
+IBERDROLA_2021_2022,Iberdrola,2022,0.0,False,unidentified,installation/commissioning,514,interval-specific; no company ranking or causal estimate
+IBERDROLA_2022_2023,Iberdrola,2023,0.0,False,unidentified,unchanged stock; no gross event identified,0,interval-specific; no company ranking or causal estimate
+IBERDROLA_2023_2024,Iberdrola,2024,0.0,False,unidentified,disposal + uprating + unresolved reduction,-8506,interval-specific; no company ranking or causal estimate
+SSE_2023_2024,SSE,2024,0.0,False,observed at both cuts,closure,-620,interval-specific; no company ranking or causal estimate

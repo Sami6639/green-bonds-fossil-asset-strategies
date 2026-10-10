@@ -1,0 +1,5 @@
+issuer,year,cohort,currency,unit,allocated_total,project_mapped_allocation,project_allocation_coverage_pct,renewable_generation_eligible_allocation,notes
+CLP,2022,CAFF outstanding bonds,HKD,million,9888.0,9888.0,100,170,Only170m WENT landfillgas; remainder gas/LNG or smartmeters. Fullprojectoutput not automatically financing-attributed.
+CLP,2023,CAFF outstanding bonds,HKD,million,10227.0,10227.0,100,170,Only170m WENT landfillgas; remainder gas/LNG or smartmeters. Fullprojectoutput not automatically financing-attributed.
+CLP,2024,CAFF outstanding bonds,HKD,million,10775.0,10775.0,100,170,Only170m WENT landfillgas; remainder gas/LNG or smartmeters. Fullprojectoutput not automatically financing-attributed.
+Ørsted,2024,Detailedp8 annual2024allocations,DKK,million,14268.0,14268.0,100,14268.0,Detailed-table denominator is used. Summary bond rows differ by90mDKK; ownership/output alignment remains unresolved.

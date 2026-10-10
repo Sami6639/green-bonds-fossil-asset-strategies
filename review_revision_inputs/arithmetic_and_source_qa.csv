@@ -1,0 +1,26 @@
+﻿check,actual,expected,passed
+Enel panel records,108,108,True
+Enel present published rows,91,91,True
+Enel rows 2019,16,16,True
+Enel rows 2020,15,15,True
+Enel rows 2021,15,15,True
+Enel rows 2022,15,15,True
+Enel rows 2023,15,15,True
+Enel rows 2024,15,15,True
+Enel endpoint retained lines,13,13,True
+Enel exact reassignment removing sums,156.86,156.86,True
+Enel exact reassignment receiving sums,156.86,156.86,True
+Iberdrola six stock snapshots,6,6,True
+Iberdrola stocks,{'800'},{'800'},True
+Iberdrola project money absent,True,True,True
+SSE GB5 stock 2023,543.9,543.9,True
+SSE Gordonbush money 2023,37.2,37.2,True
+SSE GB5 stock 2024,543.9,543.9,True
+SSE Gordonbush money 2024,37.2,37.2,True
+SSE Gordonbush operating 2023,operational,operational,True
+SSE Gordonbush operating 2024,operational,operational,True
+Matrix IDs unique,31,31,True
+Every matrix source file exists,True,True,True
+Matrix package-local source refs,True,True,True
+No stray CSV columns,True,True,True
+Copied commitment ledger exact,Matching byte content,Original ledger bytes unchanged,True

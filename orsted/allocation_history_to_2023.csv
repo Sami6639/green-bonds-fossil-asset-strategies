@@ -1,0 +1,375 @@
+﻿allocation_id,isin,project_id,project_name,period_start_year,period_end_year,allocation_dkkm,raw_value,value_status,allocation_kind,annual_allocation_year,source_id,source_page
+XS1721760541:orsted_greater_changhua_1_and_2a:2017-2023,XS1721760541,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_greater_changhua_2b_and_4:2017-2023,XS1721760541,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_gode_wind_3:2017-2023,XS1721760541,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_borkum_riffgrund_3:2017-2023,XS1721760541,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_borkum_riffgrund_2:2017-2023,XS1721760541,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,2149,2149,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_hornsea_1:2017-2023,XS1721760541,orsted_hornsea_1,Hornsea 1,2017,2023,2350,2350,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_hornsea_2:2017-2023,XS1721760541,orsted_hornsea_2,Hornsea 2,2017,2023,100,100,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_hornsea_3:2017-2023,XS1721760541,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_revolution_wind:2017-2023,XS1721760541,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_south_fork_wind:2017-2023,XS1721760541,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_race_bank:2017-2023,XS1721760541,orsted_race_bank,Race Bank,2017,2023,400,400,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_walney_extension:2017-2023,XS1721760541,orsted_walney_extension,Walney Extension,2017,2023,500,500,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_sunflower_wind:2017-2023,XS1721760541,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_old_300:2017-2023,XS1721760541,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_eleven_mile:2017-2023,XS1721760541,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_mockingbird:2017-2023,XS1721760541,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1721760541:orsted_sparta_solar:2017-2023,XS1721760541,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_greater_changhua_1_and_2a:2017-2023,XS1720192696,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_greater_changhua_2b_and_4:2017-2023,XS1720192696,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_gode_wind_3:2017-2023,XS1720192696,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_borkum_riffgrund_3:2017-2023,XS1720192696,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_borkum_riffgrund_2:2017-2023,XS1720192696,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,500,500,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_hornsea_1:2017-2023,XS1720192696,orsted_hornsea_1,Hornsea 1,2017,2023,1924,1924,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_hornsea_2:2017-2023,XS1720192696,orsted_hornsea_2,Hornsea 2,2017,2023,500,500,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_hornsea_3:2017-2023,XS1720192696,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_revolution_wind:2017-2023,XS1720192696,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_south_fork_wind:2017-2023,XS1720192696,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_race_bank:2017-2023,XS1720192696,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_walney_extension:2017-2023,XS1720192696,orsted_walney_extension,Walney Extension,2017,2023,750,750,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_sunflower_wind:2017-2023,XS1720192696,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_old_300:2017-2023,XS1720192696,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_eleven_mile:2017-2023,XS1720192696,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_mockingbird:2017-2023,XS1720192696,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1720192696:orsted_sparta_solar:2017-2023,XS1720192696,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_greater_changhua_1_and_2a:2017-2023,XS2010036874,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,1624,1624,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_greater_changhua_2b_and_4:2017-2023,XS2010036874,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_gode_wind_3:2017-2023,XS2010036874,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_borkum_riffgrund_3:2017-2023,XS2010036874,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_borkum_riffgrund_2:2017-2023,XS2010036874,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_hornsea_1:2017-2023,XS2010036874,orsted_hornsea_1,Hornsea 1,2017,2023,100,100,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_hornsea_2:2017-2023,XS2010036874,orsted_hornsea_2,Hornsea 2,2017,2023,2700,2700,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_hornsea_3:2017-2023,XS2010036874,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_revolution_wind:2017-2023,XS2010036874,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_south_fork_wind:2017-2023,XS2010036874,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_race_bank:2017-2023,XS2010036874,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_walney_extension:2017-2023,XS2010036874,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_sunflower_wind:2017-2023,XS2010036874,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_old_300:2017-2023,XS2010036874,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_eleven_mile:2017-2023,XS2010036874,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_mockingbird:2017-2023,XS2010036874,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2010036874:orsted_sparta_solar:2017-2023,XS2010036874,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_greater_changhua_1_and_2a:2017-2023,XS1997070781,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_greater_changhua_2b_and_4:2017-2023,XS1997070781,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_gode_wind_3:2017-2023,XS1997070781,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_borkum_riffgrund_3:2017-2023,XS1997070781,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_borkum_riffgrund_2:2017-2023,XS1997070781,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_hornsea_1:2017-2023,XS1997070781,orsted_hornsea_1,Hornsea 1,2017,2023,2200,2200,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_hornsea_2:2017-2023,XS1997070781,orsted_hornsea_2,Hornsea 2,2017,2023,768,768,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_hornsea_3:2017-2023,XS1997070781,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_revolution_wind:2017-2023,XS1997070781,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_south_fork_wind:2017-2023,XS1997070781,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_race_bank:2017-2023,XS1997070781,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_walney_extension:2017-2023,XS1997070781,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_sunflower_wind:2017-2023,XS1997070781,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_old_300:2017-2023,XS1997070781,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_eleven_mile:2017-2023,XS1997070781,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_mockingbird:2017-2023,XS1997070781,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070781:orsted_sparta_solar:2017-2023,XS1997070781,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_greater_changhua_1_and_2a:2017-2023,XS1997070864,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_greater_changhua_2b_and_4:2017-2023,XS1997070864,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_gode_wind_3:2017-2023,XS1997070864,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_borkum_riffgrund_3:2017-2023,XS1997070864,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_borkum_riffgrund_2:2017-2023,XS1997070864,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_hornsea_1:2017-2023,XS1997070864,orsted_hornsea_1,Hornsea 1,2017,2023,2100,2100,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_hornsea_2:2017-2023,XS1997070864,orsted_hornsea_2,Hornsea 2,2017,2023,418,418,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_hornsea_3:2017-2023,XS1997070864,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_revolution_wind:2017-2023,XS1997070864,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_south_fork_wind:2017-2023,XS1997070864,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_race_bank:2017-2023,XS1997070864,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_walney_extension:2017-2023,XS1997070864,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_sunflower_wind:2017-2023,XS1997070864,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_old_300:2017-2023,XS1997070864,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_eleven_mile:2017-2023,XS1997070864,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_mockingbird:2017-2023,XS1997070864,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997070864:orsted_sparta_solar:2017-2023,XS1997070864,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_greater_changhua_1_and_2a:2017-2023,XS1997071086,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_greater_changhua_2b_and_4:2017-2023,XS1997071086,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_gode_wind_3:2017-2023,XS1997071086,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_borkum_riffgrund_3:2017-2023,XS1997071086,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_borkum_riffgrund_2:2017-2023,XS1997071086,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_hornsea_1:2017-2023,XS1997071086,orsted_hornsea_1,Hornsea 1,2017,2023,1600,1600,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_hornsea_2:2017-2023,XS1997071086,orsted_hornsea_2,Hornsea 2,2017,2023,528,528,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_hornsea_3:2017-2023,XS1997071086,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_revolution_wind:2017-2023,XS1997071086,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_south_fork_wind:2017-2023,XS1997071086,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_race_bank:2017-2023,XS1997071086,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_walney_extension:2017-2023,XS1997071086,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_sunflower_wind:2017-2023,XS1997071086,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_old_300:2017-2023,XS1997071086,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_eleven_mile:2017-2023,XS1997071086,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_mockingbird:2017-2023,XS1997071086,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS1997071086:orsted_sparta_solar:2017-2023,XS1997071086,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_greater_changhua_1_and_2a:2017-2023,TW000F156013,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,882,882,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_greater_changhua_2b_and_4:2017-2023,TW000F156013,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_gode_wind_3:2017-2023,TW000F156013,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_borkum_riffgrund_3:2017-2023,TW000F156013,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_borkum_riffgrund_2:2017-2023,TW000F156013,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_hornsea_1:2017-2023,TW000F156013,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_hornsea_2:2017-2023,TW000F156013,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_hornsea_3:2017-2023,TW000F156013,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_revolution_wind:2017-2023,TW000F156013,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_south_fork_wind:2017-2023,TW000F156013,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_race_bank:2017-2023,TW000F156013,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_walney_extension:2017-2023,TW000F156013,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_sunflower_wind:2017-2023,TW000F156013,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_old_300:2017-2023,TW000F156013,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_eleven_mile:2017-2023,TW000F156013,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_mockingbird:2017-2023,TW000F156013,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156013:orsted_sparta_solar:2017-2023,TW000F156013,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_greater_changhua_1_and_2a:2017-2023,TW000F156021,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,1765,1765,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_greater_changhua_2b_and_4:2017-2023,TW000F156021,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_gode_wind_3:2017-2023,TW000F156021,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_borkum_riffgrund_3:2017-2023,TW000F156021,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_borkum_riffgrund_2:2017-2023,TW000F156021,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_hornsea_1:2017-2023,TW000F156021,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_hornsea_2:2017-2023,TW000F156021,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_hornsea_3:2017-2023,TW000F156021,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_revolution_wind:2017-2023,TW000F156021,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_south_fork_wind:2017-2023,TW000F156021,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_race_bank:2017-2023,TW000F156021,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_walney_extension:2017-2023,TW000F156021,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_sunflower_wind:2017-2023,TW000F156021,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_old_300:2017-2023,TW000F156021,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_eleven_mile:2017-2023,TW000F156021,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_mockingbird:2017-2023,TW000F156021,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156021:orsted_sparta_solar:2017-2023,TW000F156021,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_greater_changhua_1_and_2a:2017-2023,TW000F156039,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,882,882,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_greater_changhua_2b_and_4:2017-2023,TW000F156039,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_gode_wind_3:2017-2023,TW000F156039,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_borkum_riffgrund_3:2017-2023,TW000F156039,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_borkum_riffgrund_2:2017-2023,TW000F156039,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_hornsea_1:2017-2023,TW000F156039,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_hornsea_2:2017-2023,TW000F156039,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_hornsea_3:2017-2023,TW000F156039,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_revolution_wind:2017-2023,TW000F156039,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_south_fork_wind:2017-2023,TW000F156039,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_race_bank:2017-2023,TW000F156039,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_walney_extension:2017-2023,TW000F156039,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_sunflower_wind:2017-2023,TW000F156039,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_old_300:2017-2023,TW000F156039,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_eleven_mile:2017-2023,TW000F156039,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_mockingbird:2017-2023,TW000F156039,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156039:orsted_sparta_solar:2017-2023,TW000F156039,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_greater_changhua_1_and_2a:2017-2023,TW000F156047,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,661,661,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_greater_changhua_2b_and_4:2017-2023,TW000F156047,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_gode_wind_3:2017-2023,TW000F156047,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_borkum_riffgrund_3:2017-2023,TW000F156047,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_borkum_riffgrund_2:2017-2023,TW000F156047,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_hornsea_1:2017-2023,TW000F156047,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_hornsea_2:2017-2023,TW000F156047,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_hornsea_3:2017-2023,TW000F156047,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_revolution_wind:2017-2023,TW000F156047,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_south_fork_wind:2017-2023,TW000F156047,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_race_bank:2017-2023,TW000F156047,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_walney_extension:2017-2023,TW000F156047,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_sunflower_wind:2017-2023,TW000F156047,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_old_300:2017-2023,TW000F156047,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_eleven_mile:2017-2023,TW000F156047,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_mockingbird:2017-2023,TW000F156047,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156047:orsted_sparta_solar:2017-2023,TW000F156047,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_greater_changhua_1_and_2a:2017-2023,TW000F156054,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,1763,1763,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_greater_changhua_2b_and_4:2017-2023,TW000F156054,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_gode_wind_3:2017-2023,TW000F156054,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_borkum_riffgrund_3:2017-2023,TW000F156054,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_borkum_riffgrund_2:2017-2023,TW000F156054,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_hornsea_1:2017-2023,TW000F156054,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_hornsea_2:2017-2023,TW000F156054,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_hornsea_3:2017-2023,TW000F156054,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_revolution_wind:2017-2023,TW000F156054,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_south_fork_wind:2017-2023,TW000F156054,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_race_bank:2017-2023,TW000F156054,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_walney_extension:2017-2023,TW000F156054,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_sunflower_wind:2017-2023,TW000F156054,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_old_300:2017-2023,TW000F156054,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_eleven_mile:2017-2023,TW000F156054,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_mockingbird:2017-2023,TW000F156054,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+TW000F156054:orsted_sparta_solar:2017-2023,TW000F156054,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_greater_changhua_1_and_2a:2017-2023,XS2293075680,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,1837,1837,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_greater_changhua_2b_and_4:2017-2023,XS2293075680,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_gode_wind_3:2017-2023,XS2293075680,orsted_gode_wind_3,Gode Wind 3,2017,2023,640,640,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_borkum_riffgrund_3:2017-2023,XS2293075680,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_borkum_riffgrund_2:2017-2023,XS2293075680,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_hornsea_1:2017-2023,XS2293075680,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_hornsea_2:2017-2023,XS2293075680,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_hornsea_3:2017-2023,XS2293075680,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_revolution_wind:2017-2023,XS2293075680,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_south_fork_wind:2017-2023,XS2293075680,orsted_south_fork_wind,South Fork Wind,2017,2023,630,630,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_race_bank:2017-2023,XS2293075680,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_walney_extension:2017-2023,XS2293075680,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_sunflower_wind:2017-2023,XS2293075680,orsted_sunflower_wind,Sunflower Wind,2017,2023,300,300,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_old_300:2017-2023,XS2293075680,orsted_old_300,Old 300,2017,2023,290,290,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_eleven_mile:2017-2023,XS2293075680,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_mockingbird:2017-2023,XS2293075680,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293075680:orsted_sparta_solar:2017-2023,XS2293075680,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_greater_changhua_1_and_2a:2017-2023,XS2293681685,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_greater_changhua_2b_and_4:2017-2023,XS2293681685,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_gode_wind_3:2017-2023,XS2293681685,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_borkum_riffgrund_3:2017-2023,XS2293681685,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_borkum_riffgrund_2:2017-2023,XS2293681685,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_hornsea_1:2017-2023,XS2293681685,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_hornsea_2:2017-2023,XS2293681685,orsted_hornsea_2,Hornsea 2,2017,2023,3630,3630,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_hornsea_3:2017-2023,XS2293681685,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_revolution_wind:2017-2023,XS2293681685,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_south_fork_wind:2017-2023,XS2293681685,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_race_bank:2017-2023,XS2293681685,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_walney_extension:2017-2023,XS2293681685,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_sunflower_wind:2017-2023,XS2293681685,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_old_300:2017-2023,XS2293681685,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_eleven_mile:2017-2023,XS2293681685,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_mockingbird:2017-2023,XS2293681685,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2293681685:orsted_sparta_solar:2017-2023,XS2293681685,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_greater_changhua_1_and_2a:2017-2023,XS2490471807,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,1500,1500,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_greater_changhua_2b_and_4:2017-2023,XS2490471807,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_gode_wind_3:2017-2023,XS2490471807,orsted_gode_wind_3,Gode Wind 3,2017,2023,280,280,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_borkum_riffgrund_3:2017-2023,XS2490471807,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,600,600,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_borkum_riffgrund_2:2017-2023,XS2490471807,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_hornsea_1:2017-2023,XS2490471807,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_hornsea_2:2017-2023,XS2490471807,orsted_hornsea_2,Hornsea 2,2017,2023,490,490,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_hornsea_3:2017-2023,XS2490471807,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_revolution_wind:2017-2023,XS2490471807,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_south_fork_wind:2017-2023,XS2490471807,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_race_bank:2017-2023,XS2490471807,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_walney_extension:2017-2023,XS2490471807,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_sunflower_wind:2017-2023,XS2490471807,orsted_sunflower_wind,Sunflower Wind,2017,2023,500,500,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_old_300:2017-2023,XS2490471807,orsted_old_300,Old 300,2017,2023,1060,1060,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_eleven_mile:2017-2023,XS2490471807,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_mockingbird:2017-2023,XS2490471807,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490471807:orsted_sparta_solar:2017-2023,XS2490471807,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_greater_changhua_1_and_2a:2017-2023,XS2490472102,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_greater_changhua_2b_and_4:2017-2023,XS2490472102,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_gode_wind_3:2017-2023,XS2490472102,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_borkum_riffgrund_3:2017-2023,XS2490472102,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_borkum_riffgrund_2:2017-2023,XS2490472102,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_hornsea_1:2017-2023,XS2490472102,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_hornsea_2:2017-2023,XS2490472102,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_hornsea_3:2017-2023,XS2490472102,orsted_hornsea_3,Hornsea 3,2017,2023,2603,2603,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_revolution_wind:2017-2023,XS2490472102,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_south_fork_wind:2017-2023,XS2490472102,orsted_south_fork_wind,South Fork Wind,2017,2023,1090,1090,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_race_bank:2017-2023,XS2490472102,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_walney_extension:2017-2023,XS2490472102,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_sunflower_wind:2017-2023,XS2490472102,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_old_300:2017-2023,XS2490472102,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_eleven_mile:2017-2023,XS2490472102,orsted_eleven_mile,Eleven Mile,2017,2023,1860,1860,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_mockingbird:2017-2023,XS2490472102,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2490472102:orsted_sparta_solar:2017-2023,XS2490472102,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_greater_changhua_1_and_2a:2017-2023,XS2531569965,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_greater_changhua_2b_and_4:2017-2023,XS2531569965,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_gode_wind_3:2017-2023,XS2531569965,orsted_gode_wind_3,Gode Wind 3,2017,2023,720,720,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_borkum_riffgrund_3:2017-2023,XS2531569965,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,920,920,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_borkum_riffgrund_2:2017-2023,XS2531569965,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_hornsea_1:2017-2023,XS2531569965,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_hornsea_2:2017-2023,XS2531569965,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_hornsea_3:2017-2023,XS2531569965,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_revolution_wind:2017-2023,XS2531569965,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_south_fork_wind:2017-2023,XS2531569965,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_race_bank:2017-2023,XS2531569965,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_walney_extension:2017-2023,XS2531569965,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_sunflower_wind:2017-2023,XS2531569965,orsted_sunflower_wind,Sunflower Wind,2017,2023,65,65,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_old_300:2017-2023,XS2531569965,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_eleven_mile:2017-2023,XS2531569965,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_mockingbird:2017-2023,XS2531569965,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531569965:orsted_sparta_solar:2017-2023,XS2531569965,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_greater_changhua_1_and_2a:2017-2023,XS2531570039,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_greater_changhua_2b_and_4:2017-2023,XS2531570039,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_gode_wind_3:2017-2023,XS2531570039,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_borkum_riffgrund_3:2017-2023,XS2531570039,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_borkum_riffgrund_2:2017-2023,XS2531570039,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_hornsea_1:2017-2023,XS2531570039,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_hornsea_2:2017-2023,XS2531570039,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_hornsea_3:2017-2023,XS2531570039,orsted_hornsea_3,Hornsea 3,2017,2023,1000,1000,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_revolution_wind:2017-2023,XS2531570039,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_south_fork_wind:2017-2023,XS2531570039,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_race_bank:2017-2023,XS2531570039,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_walney_extension:2017-2023,XS2531570039,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_sunflower_wind:2017-2023,XS2531570039,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_old_300:2017-2023,XS2531570039,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_eleven_mile:2017-2023,XS2531570039,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_mockingbird:2017-2023,XS2531570039,orsted_mockingbird,Mockingbird,2017,2023,10,10,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570039:orsted_sparta_solar:2017-2023,XS2531570039,orsted_sparta_solar,Sparta Solar,2017,2023,90,90,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_greater_changhua_1_and_2a:2017-2023,XS2531570112,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_greater_changhua_2b_and_4:2017-2023,XS2531570112,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,560,560,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_gode_wind_3:2017-2023,XS2531570112,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_borkum_riffgrund_3:2017-2023,XS2531570112,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_borkum_riffgrund_2:2017-2023,XS2531570112,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_hornsea_1:2017-2023,XS2531570112,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_hornsea_2:2017-2023,XS2531570112,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_hornsea_3:2017-2023,XS2531570112,orsted_hornsea_3,Hornsea 3,2017,2023,360,360,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_revolution_wind:2017-2023,XS2531570112,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_south_fork_wind:2017-2023,XS2531570112,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_race_bank:2017-2023,XS2531570112,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_walney_extension:2017-2023,XS2531570112,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_sunflower_wind:2017-2023,XS2531570112,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_old_300:2017-2023,XS2531570112,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_eleven_mile:2017-2023,XS2531570112,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_mockingbird:2017-2023,XS2531570112,orsted_mockingbird,Mockingbird,2017,2023,20,20,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2531570112:orsted_sparta_solar:2017-2023,XS2531570112,orsted_sparta_solar,Sparta Solar,2017,2023,400,400,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_greater_changhua_1_and_2a:2017-2023,XS2563353361,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,1780,1780,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_greater_changhua_2b_and_4:2017-2023,XS2563353361,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_gode_wind_3:2017-2023,XS2563353361,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_borkum_riffgrund_3:2017-2023,XS2563353361,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_borkum_riffgrund_2:2017-2023,XS2563353361,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_hornsea_1:2017-2023,XS2563353361,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_hornsea_2:2017-2023,XS2563353361,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_hornsea_3:2017-2023,XS2563353361,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_revolution_wind:2017-2023,XS2563353361,orsted_revolution_wind,Revolution Wind,2017,2023,1192,1192,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_south_fork_wind:2017-2023,XS2563353361,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_race_bank:2017-2023,XS2563353361,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_walney_extension:2017-2023,XS2563353361,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_sunflower_wind:2017-2023,XS2563353361,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_old_300:2017-2023,XS2563353361,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_eleven_mile:2017-2023,XS2563353361,orsted_eleven_mile,Eleven Mile,2017,2023,720,720,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_mockingbird:2017-2023,XS2563353361,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2563353361:orsted_sparta_solar:2017-2023,XS2563353361,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_greater_changhua_1_and_2a:2017-2023,XS2591026856,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,1970,1970,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_greater_changhua_2b_and_4:2017-2023,XS2591026856,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,1530,1530,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_gode_wind_3:2017-2023,XS2591026856,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_borkum_riffgrund_3:2017-2023,XS2591026856,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_borkum_riffgrund_2:2017-2023,XS2591026856,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_hornsea_1:2017-2023,XS2591026856,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_hornsea_2:2017-2023,XS2591026856,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_hornsea_3:2017-2023,XS2591026856,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_revolution_wind:2017-2023,XS2591026856,orsted_revolution_wind,Revolution Wind,2017,2023,1687,1687,reported_value,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_south_fork_wind:2017-2023,XS2591026856,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_race_bank:2017-2023,XS2591026856,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_walney_extension:2017-2023,XS2591026856,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_sunflower_wind:2017-2023,XS2591026856,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_old_300:2017-2023,XS2591026856,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_eleven_mile:2017-2023,XS2591026856,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_mockingbird:2017-2023,XS2591026856,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591026856:orsted_sparta_solar:2017-2023,XS2591026856,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_greater_changhua_1_and_2a:2017-2023,XS2591029876,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_greater_changhua_2b_and_4:2017-2023,XS2591029876,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_gode_wind_3:2017-2023,XS2591029876,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_borkum_riffgrund_3:2017-2023,XS2591029876,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_borkum_riffgrund_2:2017-2023,XS2591029876,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_hornsea_1:2017-2023,XS2591029876,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_hornsea_2:2017-2023,XS2591029876,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_hornsea_3:2017-2023,XS2591029876,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_revolution_wind:2017-2023,XS2591029876,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_south_fork_wind:2017-2023,XS2591029876,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_race_bank:2017-2023,XS2591029876,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_walney_extension:2017-2023,XS2591029876,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_sunflower_wind:2017-2023,XS2591029876,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_old_300:2017-2023,XS2591029876,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_eleven_mile:2017-2023,XS2591029876,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_mockingbird:2017-2023,XS2591029876,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591029876:orsted_sparta_solar:2017-2023,XS2591029876,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_greater_changhua_1_and_2a:2017-2023,XS2591032235,orsted_greater_changhua_1_and_2a,Greater Changhua 1 and 2a,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_greater_changhua_2b_and_4:2017-2023,XS2591032235,orsted_greater_changhua_2b_and_4,Greater Changhua 2b and 4,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_gode_wind_3:2017-2023,XS2591032235,orsted_gode_wind_3,Gode Wind 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_borkum_riffgrund_3:2017-2023,XS2591032235,orsted_borkum_riffgrund_3,Borkum Riffgrund 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_borkum_riffgrund_2:2017-2023,XS2591032235,orsted_borkum_riffgrund_2,Borkum Riffgrund 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_hornsea_1:2017-2023,XS2591032235,orsted_hornsea_1,Hornsea 1,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_hornsea_2:2017-2023,XS2591032235,orsted_hornsea_2,Hornsea 2,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_hornsea_3:2017-2023,XS2591032235,orsted_hornsea_3,Hornsea 3,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_revolution_wind:2017-2023,XS2591032235,orsted_revolution_wind,Revolution Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_south_fork_wind:2017-2023,XS2591032235,orsted_south_fork_wind,South Fork Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_race_bank:2017-2023,XS2591032235,orsted_race_bank,Race Bank,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_walney_extension:2017-2023,XS2591032235,orsted_walney_extension,Walney Extension,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_sunflower_wind:2017-2023,XS2591032235,orsted_sunflower_wind,Sunflower Wind,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_old_300:2017-2023,XS2591032235,orsted_old_300,Old 300,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_eleven_mile:2017-2023,XS2591032235,orsted_eleven_mile,Eleven Mile,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_mockingbird:2017-2023,XS2591032235,orsted_mockingbird,Mockingbird,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9
+XS2591032235:orsted_sparta_solar:2017-2023,XS2591032235,orsted_sparta_solar,Sparta Solar,2017,2023,,-,reported_dash,cumulative_stock_over_historical_period,,OR_GF_2024,9

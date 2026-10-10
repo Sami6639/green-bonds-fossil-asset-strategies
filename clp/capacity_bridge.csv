@@ -1,0 +1,2 @@
+issuer_id,year,asset_type,opening_equity_mw,closing_equity_mw,observed_change_mw,physical_retirement_mw,ownership_exit_mw,identified_net_change_mw,unexplained_residual_mw,status,source_ids,notes
+CLP,2024,coal,8486,7222,-1264,-735,-529,-1264,0,reconciles_at_reported_integer_precision,CLP_ESG24; CLP_SCOPE24; CLP_ASSETS23; CLP_AR24,Event capacities rounded consistently with company table. Alternative exact-share exit529.2 yields residual+0.2MW within rounding. Generation change cannot be decomposed into utilization using end-year capacity only.

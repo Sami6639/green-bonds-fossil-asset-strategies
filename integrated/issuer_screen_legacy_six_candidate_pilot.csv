@@ -1,0 +1,7 @@
+issuer,screen_status,reason
+Iberdrola,included_in_pilot_with_scope_limits,Comparative reported gas-fired asset reconfiguration; bounded instrument delivery; no whole-group green-finance proxy
+SSE,included_in_pilot_with_scope_limits,Comparative reported-Thermal capacity bridge; bounded project delivery
+CLP,included_in_pilot_with_scope_limits,Asian mixed-finance boundary case; landfill gas separate from wind/solar; exclude gas/LNG/smartmeters from core
+Ørsted,included_in_pilot_with_scope_limits,Finance/project disclosure plus asset-classification case; exclude naive coal-capable decline as total retirement
+ReNew,not_entered_primary_incumbent_sample,Renewable developer; verified project finance-to-production disclosures do not establish a fossil incumbent counterfactual.
+ACEN,not_entered_primary_sample_at_this_stage,Mixed instrument disclosure and portfolio transformation need separate eligibility and historical ownership audit; not automatically a control.

@@ -1,0 +1,183 @@
+{
+  "table_order": [
+    {
+      "number": 1,
+      "title": "Candidate selection and analytical roles",
+      "file": "table1_case_coverage.csv",
+      "headers": [
+        "Issuer",
+        "Analytical role",
+        "Specific basis"
+      ],
+      "rows": [
+        [
+          "Iberdrola",
+          "Core: named-pool continuity",
+          "Six 2019–2024 hybrid snapshots retain two names and EUR 800 million; project money is undisclosed. Capacity events distinguish closure from sale."
+        ],
+        [
+          "SSE",
+          "Core: project maturity and refinancing",
+          "GB5 names and GBP 543.9 million allocations persist in two reports; three projects reach operation at different dates."
+        ],
+        [
+          "Enel",
+          "Core: allocation replacement",
+          "Complete 2019–2024 financial-table panel; 2023 deconsolidations trigger EUR 156.86 million reassignment to already operating projects."
+        ],
+        [
+          "Ørsted",
+          "Complementary: measurement boundaries",
+          "Named allocations are available; biomass, overlapping fuel capability and ownership attribution prevent a common fossil-only measure."
+        ],
+        [
+          "CLP",
+          "Complementary: taxonomy and ownership",
+          "Six-year WENT finance/delivery and equity-coal records; landfill gas is kept separate from gas/LNG transition finance."
+        ],
+        [
+          "EDF",
+          "Additional candidate, partial extraction",
+          "Six-year ownership-share capacity and two GB5 snapshots; project-status conflicts and event history remain unresolved in this archive."
+        ],
+        [
+          "ENGIE",
+          "Additional candidate, partial extraction",
+          "Named projects sit within grouped allocations; individual monetary splits and a consistent six-year event history remain incomplete."
+        ],
+        [
+          "EDP",
+          "Portfolio-level comparator",
+          "Inspected reports disclose project-cohort quantities, without the named instrument-project crosswalk required for the core comparison."
+        ],
+        [
+          "RWE",
+          "Portfolio-level comparator",
+          "Inspected green report explicitly uses technology portfolios; named-project financial linkage is unavailable."
+        ]
+      ],
+      "note": "Retrospective, purposive nine-candidate screen, reviewed 10 October 2026. Analytical role, disclosure resolution and completed extraction are separate. Viable additional cases are not ineligible; this is not a representative nine-firm panel. Full sources and unresolved extraction appear in the final screening register."
+    },
+    {
+      "number": 2,
+      "title": "Matched financing and fossil-asset decision sequences",
+      "file": "table2_matched_strategy_sequences.csv",
+      "headers": [
+        "Core case and matched window",
+        "Finance and renewable trajectory",
+        "Fossil decision mixture in that window",
+        "Joint finding and limit"
+      ],
+      "rows": [
+        [
+          "Enel: five adjacent 2019–2024 report-vintage comparisons",
+          "Approximately €986m total throughout; about €7m substituted in 2020 and €156.86m in 2023. Operating-status lines rise from 5/16 to 14/15 in 2020; this is not a full-COD measure.",
+          "Annual coal-stock changes: −2,792, −1,993, −320, −1,963 and 0 MW. Named closures accompany the declines, but event MW do not form a fully reconciled gross bridge.",
+          "Coal declines occur both with and without allocation substitution; 2024 preserves an unchanged observation. The documented 2023 link is renewable deconsolidation to allocation replacement, not financing to coal closure."
+        ],
+        [
+          "Iberdrola: five adjacent 2019–2024 report-vintage comparisons",
+          "€800m and two names remain; project money weights are unidentified. East Anglia ONE reaches COD in 2020.",
+          "2020: −874 MW coal closure, +779 installation and +243 acquisition/rights, net +148. 2021: −6 unresolved. 2022: +514 commissioning. 2023: 0 net. 2024: −8,494 disposal, +17 uprating and −29 unresolved, net −8,506.",
+          "The same observed financing names/total accompanies closure with expansion, later commissioning and ownership exit. Zero net change does not prove inactivity; sale is not physical retirement."
+        ],
+        [
+          "SSE: 31 March 2023–31 March 2024 only",
+          "GB5 retains all three allocations, £543.9m. Full-operation share rises from 6.84% to 69.48%; Seagreen supplies the 62.64 percentage-point change.",
+          "Thermal gas/oil capacity falls from 6,830 to 6,210 MW with Tarbert’s −620 MW closure. Keadby 2 +893 MW and Triton +670 MW occurred before the opening cut.",
+          "A fixed refinancing stock matures alongside an in-window closure. Earlier gas expansion remains antecedent context; no bond-caused retirement or exhaustive gross-event inventory is established."
+        ]
+      ],
+      "note": "All available adjacent finance observations are included: five Enel pairs, five Iberdrola pairs and one SSE pair. Enel and Iberdrola are annual report-vintage alignments, not exact within-year financing dates; fossil changes use the destination calendar year. SSE uses exact 31 March cuts and events in (opening, closing]. Zeros describe observed stock changes or bounded identified ledgers. Fossil boundaries differ across cases and are never pooled. Enel’s reported operating status is not equated with SSE full operation. Complete interval, event, source and unresolved-state records accompany the data package."
+    },
+    {
+      "number": 3,
+      "title": "Selected decision chains and documented financial links",
+      "file": "table3_decision_chain_synthesis.csv",
+      "headers": [
+        "Case and decision",
+        "Declared rationale",
+        "Documented financing link",
+        "Ownership or physical outcome and boundary"
+      ],
+      "rows": [
+        [
+          "Enel: 2023 Australia and Hellas ownership restructuring and eligible-pool replacement",
+          "Partnership-led value creation and continued renewable development; the annual report retrospectively identifies these disposals with stewardship in non-core countries.",
+          "Direct, bounded allocation link: the 2023 report attributes EUR 156.86m of the 2019 issue’s replacement to deconsolidation. Sale receipts are not traced to replacement-project spending.",
+          "50% subsidiary interests sold; joint control retained. Cohuna/Kafireas assignments replaced by Alta Farms II/Seven Cowboy. Pool exit does not establish plant retirement or complete economic exit."
+        ],
+        [
+          "Iberdrola: Mexico generation-portfolio sale, announced 2023 and completed 26 February 2024",
+          "Capital recycling toward renewables and opportunities in the United States/Europe, stronger financial ratios, and continuing service to Mexican private customers.",
+          "Corporate recycling rationale is explicit; neither sale receipts nor the transaction are linked to the selected 2019 hybrid in the inspected records.",
+          "Ownership exit, with buyer-trust PPAs and temporary management services. Annual reporting specifies planned purchases from four sold plants. The 8,539 MW transaction perimeter and 8,494 MW gas-capacity bridge remain distinct."
+        ],
+        [
+          "SSE: Keadby 2 investment and commissioning and Triton acquisition, preceding the matched 2023–2024 interval",
+          "Efficient gas generation and flexible support for renewables; Keadby 2’s expected commercial returns and allocated construction risk; Triton’s security-of-supply role and prospective hydrogen/CCS options.",
+          "Corporate strategic complementarity is explicit; a GB5 funding link to either fossil event is not documented. GB5 assignments concern three wind projects.",
+          "Keadby 2 commissioned on 15 March 2023; existing Triton assets acquired on 1 September 2022. Hydrogen/CCS remained prospective. The old Tarbert oil station closed within the matched interval under a reported licence constraint."
+        ]
+      ],
+      "note": "Declared rationales are issuer statements, not independently established motives; contemporaneous and retrospective statements are distinguished in the source register. Direct instrument linkage, corporate strategic complementarity, and an undocumented link in the inspected corpus are separate findings. Announcements, transaction closings, operating milestones and report-vintage allocation changes have distinct dates. The SSE acquisition and commissioning are prior context for, rather than events within, the 31 March 2023–31 March 2024 matched window. No transfer of bond proceeds, asset-sale receipts or fossil capital expenditure between branches is inferred. The Enel link establishes reported deconsolidation-associated replacement, not the exact effective day of allocation changes."
+    },
+    {
+      "number": 4,
+      "title": "Capacity bridges under explicit reporting boundaries",
+      "file": "table4_capacity_bridge_summary.csv",
+      "headers": [
+        "Issuer and boundary",
+        "2019–2024 endpoints",
+        "Signed identified contributions (MW)",
+        "Interpretive boundary"
+      ],
+      "rows": [
+        [
+          "Iberdrola — Reported gas + cogeneration + coal",
+          "16,864 → 9,014 MW",
+          "−874 closures; +1,293 installed/commissioned; +243 acquisition/rights; −8,494 disposal; +17 uprating; −35 residual",
+          "Reported technology capacity includes pre-COD and lease-ambiguous assets; cogeneration fuel unresolved."
+        ],
+        [
+          "SSE — Reported Thermal portfolio",
+          "6,765 → 6,210 MW",
+          "−2,147 closures; +927 commissioning; +670 acquisition; −68 disposal; +63 scope/segment",
+          "Opening stock and later commissioning/disposal include multifuel; this is a segment portfolio."
+        ],
+        [
+          "SSE — Reported Thermal fossil categories; multifuel excluded",
+          "6,731 → 6,210 MW",
+          "−2,147 closures; +893 new gas; +670 acquisition; +63 scope/segment",
+          "Multifuel excluded. Gas/oil rises from 5,221 to 6,210 MW (+989); the increase is not wholly new build."
+        ],
+        [
+          "CLP — Equity coal; reserve-inclusive",
+          "10,765 → 7,222 MW",
+          "−735 closures; −2,837 ownership/contract exits; +30 uprating; −1 residual",
+          "Equity coal includes reserve; 245 MW of the closures entered reserve in 2022."
+        ]
+      ],
+      "note": "Iberdrola and CLP endpoints are calendar year-end; SSE endpoints are fiscal year-end, 31 March. Positive removal magnitudes in the accounting identity appear here as negative signed contributions. Different scales and ownership/fuel/segment boundaries preclude pooled climate-performance comparison. A closed bridge does not exclude unidentified offsetting gross events."
+    }
+  ],
+  "figures": [
+    {
+      "number": 1,
+      "file": "figure1_selected_timelines.png",
+      "caption": "Observation windows for the joint analysis. Enel and Iberdrola contribute all five adjacent 2019–2024 report-vintage comparisons; fossil changes use each destination calendar year. Points in the upper panel index report vintages, not exact allocation or publication dates. SSE has one matched interval, 31 March 2023–31 March 2024 (shading). Triton acquisition and Keadby 2 commissioning precede its opening; Viking full operation follows its close. The Tarbert range preserves conflicting September/December 2023 disclosures; both fall inside the same fiscal interval. Event sequencing and matched windows do not establish financing causation."
+    },
+    {
+      "number": 2,
+      "file": "figure2_matched_strategy_sequences.png",
+      "caption": "Financing and fossil-asset sequences. All eleven observed adjacent intervals are shown. Finance cells summarize selected-instrument allocation stocks and report identities, not annual flows. Fossil MW cells show net changes in each source-defined portfolio, with identified event mixtures; scales and boundaries are not pooled. Enel’s coal branch lacks a harmonized gross-event bridge. Iberdrola’s 2020 net expansion includes coal closure and larger additions, and its 2024 decline includes ownership transfer and an unresolved reduction. SSE uses only the shaded fiscal window in Figure 1. Unchanged net stocks and missing project weights remain explicit; no company ranking or financing effect is estimated."
+    },
+    {
+      "number": 3,
+      "file": "figure3_capacity_bridges.png",
+      "caption": "Within-case capacity bridges and SSE boundary sensitivity. Iberdrola and CLP use calendar-year endpoints; SSE uses 31 March fiscal endpoints. Scales and accounting boundaries differ. SSE Thermal and fossil-only rows are separate; the narrower bridge excludes multifuel but retains reporting changes. CLP closures are reserve-inclusive. Residual closure does not establish exhaustive gross-event coverage. Enel is omitted because unit-level closure attribution is incomplete."
+    }
+  ],
+  "figure_caption_placement": "below_image",
+  "table_cells_rule": "Copy header and data strings exactly from canonical CSVs; do not silently shorten or replace values."
+}

@@ -1,0 +1,431 @@
+{
+  "scope": "Semantic date-provenance regression checks plus unchanged selected-instrument quantities; not an independent human coding exercise.",
+  "checks": 106,
+  "all_pass": true,
+  "details": [
+    {
+      "check": "one_instrument_date_record",
+      "pass": true
+    },
+    {
+      "check": "verified_contractual_issue_date",
+      "pass": true
+    },
+    {
+      "check": "reported_inventory_date_preserved",
+      "pass": true
+    },
+    {
+      "check": "date_types_separate",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_inference",
+      "pass": true
+    },
+    {
+      "check": "matching_instrument",
+      "pass": true
+    },
+    {
+      "check": "primary_source_urls_distinct",
+      "pass": true
+    },
+    {
+      "check": "legal_and_inventory_locators_separate",
+      "pass": true
+    },
+    {
+      "check": "24_original_finance_observations",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2019_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2019_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2019_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2019_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2019_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2019_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2019_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2019_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2020_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2020_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2020_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2020_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2020_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2020_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2020_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2020_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2021_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2021_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2021_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2021_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2021_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2021_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2021_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2021_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2022_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2022_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2022_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2022_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2022_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2022_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2022_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2022_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2023_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2023_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2023_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2023_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2023_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2023_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2023_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2023_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2024_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2024_investment_allocated_stock",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2024_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2024_capacity_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2024_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2024_actual_generation_attributable",
+      "pass": true
+    },
+    {
+      "check": "date_fields_consistent_2024_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "no_pricing_date_field_2024_avoided_co2_reported",
+      "pass": true
+    },
+    {
+      "check": "2019_allocation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2019_attributable_capacity_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2019_generation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2019_reported_avoided_co2_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2020_allocation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2020_attributable_capacity_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2020_generation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2020_reported_avoided_co2_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2021_allocation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2021_attributable_capacity_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2021_generation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2021_reported_avoided_co2_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2022_allocation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2022_attributable_capacity_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2022_generation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2022_reported_avoided_co2_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2023_allocation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2023_attributable_capacity_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2023_generation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2023_reported_avoided_co2_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2024_allocation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2024_attributable_capacity_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2024_generation_unchanged",
+      "pass": true
+    },
+    {
+      "check": "2024_reported_avoided_co2_unchanged",
+      "pass": true
+    },
+    {
+      "check": "main_exhibits/figure1_timeline_source_rows.csv_single_finance_event",
+      "pass": true
+    },
+    {
+      "check": "main_exhibits/figure1_timeline_source_rows.csv_legal_event_date",
+      "pass": true
+    },
+    {
+      "check": "main_exhibits/figure1_timeline_source_rows.csv_legal_source",
+      "pass": true
+    },
+    {
+      "check": "main_exhibits/figure1_timeline_source_rows.csv_inventory_retained",
+      "pass": true
+    },
+    {
+      "check": "joint_strategy/timeline_with_analysis_window_source_rows.csv_single_finance_event",
+      "pass": true
+    },
+    {
+      "check": "joint_strategy/timeline_with_analysis_window_source_rows.csv_legal_event_date",
+      "pass": true
+    },
+    {
+      "check": "joint_strategy/timeline_with_analysis_window_source_rows.csv_legal_source",
+      "pass": true
+    },
+    {
+      "check": "joint_strategy/timeline_with_analysis_window_source_rows.csv_inventory_retained",
+      "pass": true
+    },
+    {
+      "check": "review_revision_inputs/three_core_evidence_matrix.csv_both_dates_distinguished",
+      "pass": true
+    },
+    {
+      "check": "review_revision_inputs/three_core_evidence_matrix.csv_primary_sources",
+      "pass": true
+    },
+    {
+      "check": "review_revision_inputs/three_core_evidence_matrix.csv_prior_decision_unchanged",
+      "pass": true
+    },
+    {
+      "check": "main_exhibits/three_core_evidence_matrix.csv_both_dates_distinguished",
+      "pass": true
+    },
+    {
+      "check": "main_exhibits/three_core_evidence_matrix.csv_primary_sources",
+      "pass": true
+    },
+    {
+      "check": "main_exhibits/three_core_evidence_matrix.csv_prior_decision_unchanged",
+      "pass": true
+    },
+    {
+      "check": "green2019_source_hash",
+      "pass": true
+    },
+    {
+      "check": "offering_circular_2019_source_hash",
+      "pass": true
+    },
+    {
+      "check": "circular_document_date_distinct",
+      "pass": true
+    },
+    {
+      "check": "evidence_registry_contractual_date",
+      "pass": true
+    },
+    {
+      "check": "eleven_intervals_unchanged",
+      "pass": true
+    },
+    {
+      "check": "original_main_figure_bytes:main_exhibits/figure1_selected_timelines.png",
+      "pass": true
+    },
+    {
+      "check": "original_main_figure_bytes:main_exhibits/figure1_selected_timelines.svg",
+      "pass": true
+    },
+    {
+      "check": "original_main_figure_bytes:main_exhibits/figure2_matched_strategy_sequences.png",
+      "pass": true
+    },
+    {
+      "check": "original_main_figure_bytes:main_exhibits/figure2_matched_strategy_sequences.svg",
+      "pass": true
+    },
+    {
+      "check": "original_main_figure_bytes:main_exhibits/figure3_capacity_bridges.png",
+      "pass": true
+    },
+    {
+      "check": "original_main_figure_bytes:main_exhibits/figure3_capacity_bridges.svg",
+      "pass": true
+    }
+  ]
+}

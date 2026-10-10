@@ -1,0 +1,32 @@
+Enel coal strategy and capacity reconciliation | 10 October 2026
+
+The follow-up establishes a dated disposal episode with verified continued operation and a geographically reconciled coal-capacity history. It does not manufacture a fully resolved unit-level net-MW retirement inventory.
+
+Window discipline
+End-2019 to end-2024 coal capacity falls from 11,695 to 4,627 MW, a reduction of 7,068 MW. Reftinskaya was already outside the closing-2019 stock and must not be counted in that reduction. To examine actions during calendar 2019, the opening end-2018 stock is 15,828 MW. The end-2018 to end-2024 reduction is 11,201 MW. These are separate estimands.
+
+Reftinskaya disposal, continued operation, and scope
+The June 2019 half-year financial report, PDF page 62, records the sale agreement announced on 20 June 2019, before completion. The 2019 annual report, PDF page 149, records ownership transfer on 1 October 2019. Its PDF page 118 identifies 3,623 MW of net-efficient capacity reduction associated with the Russian disposal. The physical plant is reported as 3,800 MW installed capacity in Enel Russia's 2020 annual report, PDF page 38. These two quantities must not be treated as competing estimates or summed.
+The same Enel Russia 2020 report explicitly states that Enel Russia and Kuzbassenergo jointly managed the station under a lease from 1 October 2019 through 30 June 2020, after which Kuzbassenergo operated independently. This is direct issuer evidence of continued operation after the corporate sale, without relying on a secondary plant database. It establishes a disposal-versus-retirement distinction, not an emissions effect.
+
+Annual regional reconciliation
+2019: group decrease 4,133 MW = Russia/Europe 3,623 + Italy 134 + Iberia 227 + Latin America 149. The 510 MW outside Russia is not fully resolved to individual units here.
+2020: group decrease 2,792 MW = Italy 612 + Iberia 2,061 + Latin America 119. Endesa's annual report independently shows mainland coal net capacity 4,584 to 2,523 MW, and confirms Compostilla and Teruel closure on 30 June 2020. Their closure applications were made on 19 December 2018. Brindisi unit 2 and Bocamina I involve a year-end accounting versus January 2021 implementation boundary; precise legal and stock dates are retained separately.
+2021: group decrease 1,993 MW = Italy 874 + Iberia 1,120 minus Latin America's 1 MW increase. Enel's annual report page 8 identifies installed closure capacities of 548 MW La Spezia, 315 MW Fusina units 1–2, and 1,120 MW Litoral, summing to 1,983 MW. The remaining 10 MW difference is retained. It is not assigned to an unidentified closure or forced to zero.
+2022: group decrease 320 MW occurs entirely in Latin America; Italy and Iberia are unchanged. Bocamina II's permanent disconnection on 30 September is independently documented. The 350 MW unit figure is gross/installed; the 320 MW figure is the observed regional net-capacity change. No conversion between these figures is asserted. The May 2020 acceleration decision and initial May 2022 target precede implementation; the 2022 report documents delayed authorization.
+2023: group decrease 1,963 MW = Italy 560 + Iberia 1,403; Latin America remains at 226 MW. Annual and sustainability reports identify the remaining Fusina coal units and As Pontes as closures. Sustainability disclosures provide rounded 0.5 GW and 1.4 GW plant figures; these do not overwrite the exact regional changes. As Pontes' application date was 27 December 2019; the intended earlier closure was held up by authorization.
+2024: group coal capacity is unchanged at 4,627 MW. Coal generation drops substantially, with the issuer identifying the earlier Italian gas-security dispatch measures as a principal comparison effect. No 2024 physical retirement is inferred from generation.
+
+Pre-outcome disclosure limits
+The Reftinskaya agreement is observed in a financial report issued before the sale. Some closure application dates are documented retrospectively in later audited reports. Those records establish the dated decision but are not labelled contemporaneous publications of that decision. A stricter original-publication requirement would need the historical application announcements or regulatory documents. A precise prior decision date for the remaining Fusina units is still unverified in this report-only extraction.
+
+Files added
+coal_capacity_regional_bridge_2019_2024.csv: 26 regional/group opening-closing observations, exact source pages and scope.
+coal_decision_event_dossier.csv: nine material episodes, separating decision, implementation, reported event MW, observed regional movement, and post-event status.
+coal_bridge_validation.csv: six annual checks, including zero regional residuals where complete and the unresolved asset-level differences.
+build_coal_bridge.py: reproducible encoding and source-page preservation.
+source_manifest.csv: expanded to 25 official issuer reports, including annual reports, the 2019 half-year report, Enel Russia 2020 report, Endesa 2020 report and operating-data bulletins.
+source_cells/: exact layout-text pages used for validation.
+
+Priority remaining limitations
+A unit-level net-MW decomposition is incomplete in 2019 and 2020; the 2021 10 MW discrepancy remains open. Reported regional movements are observations, not automatic plant-specific retirements. The financing cohort contains replacements and overlapping bond allocations, and the direct causal connection between individual green-financed plants and fossil decisions remains unestablished. The two branches support a comparative account of implementation and corporate-versus-physical boundaries, not a causal substitution estimate.

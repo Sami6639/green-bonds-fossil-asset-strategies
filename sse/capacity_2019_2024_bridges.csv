@@ -1,0 +1,6 @@
+issuer,fiscal_year_end,opening_thermal_mw,closing_thermal_mw,observed_change_mw,identified_signed_contributions_mw,arithmetic_residual_mw,unidentified_gross_events_mw,whole_company_fossil_change_mw,status,warning
+SSE,2020,6765,5364,-1401,-1401,0,,,arithmetic_reconciled_not_exhaustive_asset_census,Zero arithmetic residual does not establish absence of offsetting unobserved events;thermal includes multifuel in2019/2020
+SSE,2021,5364,5284,-80,-80,0,,,arithmetic_reconciled_not_exhaustive_asset_census,Zero arithmetic residual does not establish absence of offsetting unobserved events;thermal includes multifuel in2019/2020
+SSE,2022,5284,5267,-17,-17,0,,,arithmetic_reconciled_not_exhaustive_asset_census,Zero arithmetic residual does not establish absence of offsetting unobserved events;thermal includes multifuel in2019/2020
+SSE,2023,5267,6830,1563,1563,0,,,arithmetic_reconciled_not_exhaustive_asset_census,Zero arithmetic residual does not establish absence of offsetting unobserved events;thermal includes multifuel in2019/2020
+SSE,2024,6830,6210,-620,-620,0,,,arithmetic_reconciled_not_exhaustive_asset_census,Zero arithmetic residual does not establish absence of offsetting unobserved events;thermal includes multifuel in2019/2020
