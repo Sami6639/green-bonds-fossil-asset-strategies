@@ -1,0 +1,4 @@
+fossil_direction,commissioning_or_uprating,existing_asset_acquisition,operational_cessation_or_reserve,ownership_exit_or_dispatch_right_exit,reported_physical_closure_or_retirement
+decrease,6,3,4,8,11
+increase,5,3,1,0,0
+unchanged_at_reported_precision,0,0,0,0,0

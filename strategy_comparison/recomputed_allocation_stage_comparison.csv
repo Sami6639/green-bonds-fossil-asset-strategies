@@ -1,0 +1,5 @@
+case,cutoff,total_million,currency,fully_operating_share_pct,weight_basis,source_file,source_rows
+WEC,2023-06-30,281.7,USD,0.0,cutoff_specific,nested_histories/expanded_cases/wec_project_stage_panel.csv,2;3
+WEC,2024-06-30,440.5,USD,33.46197502837684,cutoff_specific,nested_histories/expanded_cases/wec_project_stage_panel.csv,4;5
+SSE,2023-03-31,543.9,GBP,6.839492553778269,fixed_amounts_both_cutoffs,nested_histories/original_three/sse/green_uop_2023_gb5_project_rows.csv;nested_histories/original_three/sse/fixed_cohort_actual_milestones.csv,2;3;4 / full_operation milestone rows
+SSE,2024-03-31,543.9,GBP,69.47968376539805,fixed_amounts_both_cutoffs,nested_histories/original_three/sse/green_uop_2023_gb5_project_rows.csv;nested_histories/original_three/sse/fixed_cohort_actual_milestones.csv,2;3;4 / full_operation milestone rows

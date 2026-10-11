@@ -1,0 +1,48 @@
+{
+  "handcoding_sha256": "360785356fb035768dc0b3799eccbfa629b9e88d65e5c995b886cedfe59ccd2d",
+  "source_release": "/workspace/scratch/bbf605b0aa83/theory_strengthening_20261011/strategy_comparison/frozen_inputs",
+  "source_status": "Core comparison uses frozen source-derived release records; two Enel closing releases were separately verified during this revision and recorded in supplemental_enel_ownership_sources.csv, not reverified by this script",
+  "inputs_sha256": {
+    "figures/figure_1_plot_data.csv": "43b19602679f8eab38c533fa39f86352da5fcd06c316473acbb1b99954dfe0ef",
+    "analysis_panel/results/selected_window_event_evidence.csv": "0c800255f31edb4a81c436855097cb02fb294dc2d7231e0f94ba8cd7dd4e0187",
+    "nested_histories/original_three/iberdrola/history_2019_2024/matched_green_hybrid_2019_2024.csv": "6720663bc1f6b76348b5cb45f18c55788e4c4b7cf9e218936dd7bcd8e6606ae9",
+    "nested_histories/original_three/iberdrola/history_2019_2024/matched_green_hybrid_projects_2019_2024.csv": "df5b341488430ac425ffebc4e9fa661c57fb62206e34a58c9b524daae57a36ee",
+    "nested_histories/original_three/iberdrola/history_2019_2024/matched_project_delivery_evidence.csv": "2b39cebb95ed526ea359c9a38f38f7c7bc1f7c2dab0114b5a4bc15a987c59487",
+    "nested_histories/original_three/enel/green_2019_issue_pool_continuity.csv": "995de47e955df982a5f5dd412168222a7073add081a99a51835262c603d29a39",
+    "nested_histories/original_three/enel/green_2019_issue_full_annual_panel.csv": "c4a7abe8ee1bd8d2ba67a6d140fc25fd63b6b3bcb0d532ac20e7764d940d63cc",
+    "nested_histories/original_three/enel/green_2019_issue_reassignment_disclosures.csv": "39a90d62e59f44c8199445c4993b1009d32634093388e22a143d6ed9d05abb4f",
+    "nested_histories/original_three/enel/green_reallocations_2023.csv": "62f2093d8cbe290c4092f72dbe1c6aecaa384dac1fae0658ad4b02f9fd09489f",
+    "nested_histories/original_three/sse/green_uop_2023_gb5_project_rows.csv": "e131b5e66620e6cd1b94d888c25e38aa74c24cbc2c7a23f224e85d84bc4c9643",
+    "nested_histories/original_three/sse/bond_project_rows_2024.csv": "1de383866979c960f21dbc3119c65d3495b7ab20efeaf8ec830023ce56aa3c25",
+    "nested_histories/original_three/sse/fixed_cohort_project_master.csv": "aa21a0466c81db6c8c01c9498a9d41c7eabafc4cbb32a422aa0d1260cd8dd971",
+    "nested_histories/original_three/sse/fixed_cohort_actual_milestones.csv": "2d5bab828e684abc87b53f25921556ee64386a168fdee72d7f3d95117997adee",
+    "nested_histories/expanded_cases/wec_project_stage_panel.csv": "70cb7c5577c0b7a8693adaf14ba88b06cbf381b6381a3ec0d7fbd8478b86ab1e",
+    "nested_histories/expanded_cases/wec_stage_outputs.csv": "87c437b3767665938b872a4efabdd33c00c5eebe3d23e7451555029082473f3d",
+    "nested_histories/expanded_cases/na_nested_project_facts.csv": "2deb293e8dec78939b4e9cca7b0eed213bef12b7190b8c48e6f135d0184283f2",
+    "nested_histories/expanded_cases/new_nested_continuity_evidence.csv": "84acec85a09406506bad85c5389e308f05a16918db5f5fe355050dbb01185484"
+  },
+  "validation": {
+    "passed": true,
+    "broad_groups": 37,
+    "principal_groups": 33,
+    "proxy_extension_groups": 4,
+    "seven_histories": 7,
+    "event_families": 8,
+    "presence_rows": 264,
+    "event_evidence_rows": 97,
+    "all_source_hashes_unchanged": true,
+    "zero_states_are_unknown_not_absence": true
+  },
+  "outputs_sha256": {
+    "event_family_fuel_scope_audit.csv": "302fe3c971439c031eefeb09bd37e6e53d9fee18fedd8ff08729c622162a3b96",
+    "principal33_direction_event_compact.csv": "4d3851e5d3bd42850f7a045c77cc67ba6246001d75cc875c02f450f6f451a3f1",
+    "principal33_direction_event_crosstab.csv": "78aae0e40efdaa9d4d97eccbd26b8be24d290892a29af634a59d4eec36549f28",
+    "principal33_direction_event_presence_long.csv": "ec04538967000dbc99c506c9184ab733867415e9d8372c1d78280420418fc28e",
+    "principal33_selected_window_event_evidence.csv": "7f359fc3e12ab59399081d32da43d8466e78ad850ac8e3979a4ca15035ad9532",
+    "recomputed_allocation_stage_comparison.csv": "33e121b9f5aae4e7e8770d4784cea0bcb20975e62a2e237253fd7e5bc0c9d2a3",
+    "seven_history_comparison.csv": "6468a97dd4a6c2d0e17a8fd55923f7828a0af4e96dfc8f04429f72953d5d70de",
+    "seven_history_handcoding.csv": "360785356fb035768dc0b3799eccbfa629b9e88d65e5c995b886cedfe59ccd2d",
+    "seven_history_row_provenance.csv": "4dbd06efb4be4ced4b48ecbae96fb45ef31e28e176333bdb2b406acc770c246d",
+    "supplemental_enel_ownership_sources.csv": "806393079936a885193cc6ea64c5acff5dac37d976c157bc038d4878df1ba97e"
+  }
+}
