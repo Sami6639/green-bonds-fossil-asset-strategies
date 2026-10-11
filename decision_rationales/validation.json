@@ -1,0 +1,17 @@
+{
+  "unique_evidence_ids": true,
+  "all_source_urls_https": true,
+  "max_quoted_words_per_source": 14,
+  "file_sha256": {
+    "decision_rationale_evidence.csv": "f6ee2e52afddc4383736d0a6a772800349d44cd6b73304aa815aac56ce5f2fd1",
+    "all33_group_coverage.csv": "d58f5aa7e9400c802a1c582752d534604904663cadb150c1237d38c1eaffc33f",
+    "manuscript_insertions.txt": "86171acc03d0215d15ef40becfd834257541f73060af966ad8d52a394915f445",
+    "all97_archive_field_audit.csv": "5311ef250da7840c6b7556eaff5c070052c2fbf72a7e5a75f51302d4ed540b96",
+    "seven_history_rationale_coverage.csv": "c6a324b40b6d2e29df369f877268bbb27c62634b3c4e800e2f321932b901ba9f",
+    "build_evidence.py": "ee1b94f5f38e37858c9c8045ed6ab0c4c58063b1cfaeda1e153e6b29e7f1099e",
+    "audit_summary.json": "04a16016221f05be46bdd43d3dcfd791501c1d0e75aa18ed29c325ab221fd959",
+    "README.txt": "022c32a805327544d2baf37e18b1529f87d81ac0aa57f9877654f7b29eda900a",
+    "evidence_summary.json": "edaad9730fd0a92604b3675d76396e75dc17f01af865356274d22dbb2d85c8a5",
+    "build_audit.py": "d315fc282b9ecabc6714fbc24ecf4dce66146e9c9c324c6a722eb5917595f421"
+  }
+}

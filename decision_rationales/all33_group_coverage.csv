@@ -1,0 +1,34 @@
+group_id,issuer,fossil_direction,archived_event_records,coverage_interpretation
+aes_corporation,AES Corporation,decrease,5,Bounded event archive; not an exhaustive decision census
+ameren,Ameren,decrease,1,Bounded event archive; not an exhaustive decision census
+american_electric_power,American Electric Power,decrease,0,No selected-window event record in frozen archive; decisions and rationales unknown
+cfe,CFE,increase,14,Bounded event archive; not an exhaustive decision census
+clp,CLP,decrease,9,Bounded event archive; not an exhaustive decision census
+colbun_s_a,Colbun S.A.,decrease,2,Bounded event archive; not an exhaustive decision census
+constellation_energy,Constellation Energy,decrease,5,Bounded event archive; not an exhaustive decision census
+dte_energy,DTE Energy,decrease,0,No selected-window event record in frozen archive; decisions and rationales unknown
+duke_energy,Duke Energy,decrease,2,Bounded event archive; not an exhaustive decision census
+edf,EDF,decrease,4,Bounded event archive; not an exhaustive decision census
+edp,EDP,decrease,3,Bounded event archive; not an exhaustive decision census
+eletrobras,Eletrobras,decrease,1,Bounded event archive; not an exhaustive decision census
+enbw,EnBW,decrease,1,Bounded event archive; not an exhaustive decision census
+enel,Enel,decrease,8,Bounded event archive; not an exhaustive decision census
+engie,ENGIE,decrease,3,Bounded event archive; not an exhaustive decision census
+esb,ESB,increase,2,Bounded event archive; not an exhaustive decision census
+genesis_energy_limited,Genesis Energy Limited,unchanged_at_reported_precision,1,Bounded event archive; not an exhaustive decision census
+global_power_synergy_gpsc,Global Power Synergy (GPSC),increase,1,Bounded event archive; not an exhaustive decision census
+iberdrola,Iberdrola,decrease,9,Bounded event archive; not an exhaustive decision census
+j_power_electric_power_development,J-POWER (Electric Power Development),unchanged_at_reported_precision,0,No selected-window event record in frozen archive; decisions and rationales unknown
+jsw_energy,JSW Energy,increase,1,Bounded event archive; not an exhaustive decision census
+naturgy,Naturgy,unchanged_at_reported_precision,0,No selected-window event record in frozen archive; decisions and rationales unknown
+nextera_energy,NextEra Energy,decrease,8,Bounded event archive; not an exhaustive decision census
+ontario_power_generation,Ontario Power Generation,unchanged_at_reported_precision,0,No selected-window event record in frozen archive; decisions and rationales unknown
+pampa_energ_a,Pampa Energía,increase,3,Bounded event archive; not an exhaustive decision census
+ratch_group,RATCH Group,increase,2,Bounded event archive; not an exhaustive decision census
+rwe,RWE,increase,2,Bounded event archive; not an exhaustive decision census
+shikoku_electric_power,Shikoku Electric Power,decrease,1,Bounded event archive; not an exhaustive decision census
+sse,SSE,increase,2,Bounded event archive; not an exhaustive decision census
+statkraft,Statkraft,increase,1,Bounded event archive; not an exhaustive decision census
+taipower,Taipower,decrease,2,Bounded event archive; not an exhaustive decision census
+vattenfall,Vattenfall,decrease,2,Bounded event archive; not an exhaustive decision census
+wec_energy_group,WEC Energy Group,decrease,2,Bounded event archive; not an exhaustive decision census

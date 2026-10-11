@@ -1,0 +1,18 @@
+{
+  "algorithm": "SHA256",
+  "files": {
+    "README.txt": "f86ccd944024a3788ffab2410cdc79c7a5c62e27460774f6a01f76e397cde54d",
+    "all33_group_coverage.csv": "d58f5aa7e9400c802a1c582752d534604904663cadb150c1237d38c1eaffc33f",
+    "all97_archive_field_audit.csv": "5311ef250da7840c6b7556eaff5c070052c2fbf72a7e5a75f51302d4ed540b96",
+    "audit_summary.json": "04a16016221f05be46bdd43d3dcfd791501c1d0e75aa18ed29c325ab221fd959",
+    "build_audit.py": "d315fc282b9ecabc6714fbc24ecf4dce66146e9c9c324c6a722eb5917595f421",
+    "build_evidence.py": "ee1b94f5f38e37858c9c8045ed6ab0c4c58063b1cfaeda1e153e6b29e7f1099e",
+    "decision_rationale_evidence.csv": "f6ee2e52afddc4383736d0a6a772800349d44cd6b73304aa815aac56ce5f2fd1",
+    "evidence_summary.json": "edaad9730fd0a92604b3675d76396e75dc17f01af865356274d22dbb2d85c8a5",
+    "frozen_inputs/principal33_direction_event_presence_long.csv": "ec04538967000dbc99c506c9184ab733867415e9d8372c1d78280420418fc28e",
+    "frozen_inputs/principal33_selected_window_event_evidence.csv": "7f359fc3e12ab59399081d32da43d8466e78ad850ac8e3979a4ca15035ad9532",
+    "frozen_inputs/seven_history_handcoding.csv": "360785356fb035768dc0b3799eccbfa629b9e88d65e5c995b886cedfe59ccd2d",
+    "seven_history_rationale_coverage.csv": "c6a324b40b6d2e29df369f877268bbb27c62634b3c4e800e2f321932b901ba9f",
+    "validation.json": "44c09f252dee589691d10c11eb345070346d138f2c9baec705934feed16b0c59"
+  }
+}
