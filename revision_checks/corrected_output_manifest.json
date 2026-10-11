@@ -1,5 +1,5 @@
 {
-  "version": "BSE-2026-10-11-r3",
+  "version": "2026-10-11-r4",
   "correction": "Constellation displayed categories sum to USD542m versus the USD541m printed total; signed residual (total minus category sum) -USD1m. Rounding is plausible but not explicitly explained in the reviewed source and remains unreconciled.",
   "frozen_source_values_unchanged": true,
   "corrected_outputs": [

@@ -1,48 +1,94 @@
 {
+  "version": "2026-10-11-r4",
   "passed": true,
-  "version": "BSE-2026-10-11-r3",
+  "source_baseline_commit": "cac55d2563d998c3291da486bd7280b086970fc9",
   "commands": [
     {
       "command": "python run_reproduce.py",
       "exit_code": 0,
-      "elapsed_seconds": 4.217,
+      "elapsed_seconds": 4.022,
       "log": "revision_checks/run_reproduce.py.log"
     },
     {
       "command": "python strategy_comparison/build_theory_evidence.py",
       "exit_code": 0,
-      "elapsed_seconds": 0.401,
+      "elapsed_seconds": 0.428,
       "log": "revision_checks/strategy_comparison_build_theory_evidence.py.log"
     },
     {
       "command": "python decision_rationales/build_audit.py",
       "exit_code": 0,
-      "elapsed_seconds": 0.285,
+      "elapsed_seconds": 0.315,
       "log": "revision_checks/decision_rationales_build_audit.py.log"
     },
     {
       "command": "python decision_rationales/build_evidence.py",
       "exit_code": 0,
-      "elapsed_seconds": 0.268,
+      "elapsed_seconds": 0.28,
       "log": "revision_checks/decision_rationales_build_evidence.py.log"
     },
     {
       "command": "python revision_checks/apply_interpretation_corrections.py",
       "exit_code": 0,
-      "elapsed_seconds": 0.077,
+      "elapsed_seconds": 0.066,
       "log": "revision_checks/revision_checks_apply_interpretation_corrections.py.log"
     },
     {
       "command": "python revision_checks/build_revision_checks.py",
       "exit_code": 0,
-      "elapsed_seconds": 0.453,
+      "elapsed_seconds": 0.505,
       "log": "revision_checks/revision_checks_build_revision_checks.py.log"
+    },
+    {
+      "command": "python revision_checks/stage_weight_decomposition/build_stage_weight_decomposition.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.042,
+      "log": "revision_checks/revision_checks_stage_weight_decomposition_build_stage_weight_decomposition.py.log"
     }
   ],
-  "csv_comparison": {
-    "compared_files": 94,
-    "byte_identical_files": 94,
-    "changed_files": []
+  "unified_replay_csv_comparison": {
+    "compared_files": 252,
+    "byte_identical_files": 252,
+    "changed_files": [],
+    "new_files": [],
+    "scope": "All pre-existing repository CSV files, including frozen records and derived outputs."
   },
-  "note": "Final six-stage rerun after reporting-wording correction; this idempotence check starts from already-corrected output, so all 94 downstream CSVs match. Initial clean baseline and intended seven narrative changes remain documented in reproduction_log.json."
+  "r3_baseline_csvs_compared": 235,
+  "r3_baseline_csvs_byte_identical": 235,
+  "r3_baseline_csv_changes": [],
+  "frozen_or_provenance_files_compared": 156,
+  "frozen_or_provenance_files_byte_identical": 156,
+  "stage_weight_decomposition_checks_passed": 89,
+  "stage_weight_exact_reconciliation": {
+    "SSE": "0",
+    "WEC": "0"
+  },
+  "stage_weight_rerun_from_different_working_directory": {
+    "exit_code": 0,
+    "output_count": 8,
+    "all_output_hashes_identical": true
+  },
+  "restored_unchanged_scientific_artifacts": [
+    "analysis_panel/results/results_build_manifest.json",
+    "figures/Figure_1_Global_Capacity_Directions.pdf",
+    "figures/Figure_2_Materiality_Sensitivity.pdf",
+    "figures/Figure_3_Allocation_Associated_Operation.pdf",
+    "figures/figure_manifest.json",
+    "figures/figure_provenance_manifest.json",
+    "figures/independent_artifact_validation.json",
+    "strategy_comparison/validation_and_provenance.json"
+  ],
+  "restoration_note": "Generated PDFs and earlier baseline validation files were restored after replay to avoid publishing timestamp, execution-path or PDF-metadata changes; earlier plotted data are byte-identical. Current replay evidence is recorded separately here and in reproduction_log.json.",
+  "scope": "Computational identity and reproducibility. No independent-human source audit, causal financing effect or new cohort definition is claimed.",
+  "citation_checker_regression_tests": {
+    "passed": true,
+    "checks": 5,
+    "covered_cases": [
+      "parenthetical citation",
+      "narrative citation",
+      "unknown author spelling",
+      "unmatched citation year",
+      "post-reference submission tables/captions"
+    ]
+  }
 }

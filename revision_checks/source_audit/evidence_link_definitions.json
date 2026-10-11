@@ -1,0 +1,11 @@
+{
+  "purpose": "Classify the relationship established by the cited evidence for each defined link; not an ordinal confidence scale, causal test, or company score.",
+  "labels": {
+    "explicit_source_connection": "The source expressly connects the named financial, project, stage, ownership or timing elements. The connection is limited to the relationship stated by the source.",
+    "documented_sequence": "Dated observations can be matched to the same instrument, named reporting unit or event across records; the temporal bridge is documented without a source claim that one event caused the other.",
+    "contemporaneous": "Financing and the specified portfolio/asset observation coexist in the reviewed period, but no specific documentary bridge links their changes.",
+    "unresolved": "The relevant relationship cannot be established for the defined unit or cutoff from retained evidence; missingness must not be recoded as absence or zero."
+  },
+  "usage": "Assign labels to individual dimensions. Source identifiers refer to source_inspection_scope.csv. Six requested dimensions are separated from the cross-domain linkage. No label is combined into a score. Recurrence in source-derived records is distinguished from fresh primary reinspection.",
+  "missing_data": "Iberdrola monetary weights and Eletrobras project weights/stages remain unresolved. Constellation has one allocation snapshot and an unexplained residual. Dominion is not a principal-33 case."
+}

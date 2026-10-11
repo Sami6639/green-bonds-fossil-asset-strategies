@@ -4,7 +4,7 @@ Data and code for a source-linked, purposive archival study of utility financing
 
 The evidence supports descriptive comparisons within reported scopes. It does not establish causal financing effects, financing additionality or population-wide prevalence. Capacity changes are not equated with physical plant closures, and companies are not ranked.
 
-**Current verified version: BSE-2026-10-11-r3**
+**Current verified version: 2026-10-11-r4**
 
 The revised manuscript and Supplementary Information use this version identifier. To reproduce the complete current analysis, install [requirements.txt](requirements.txt), then run from the repository root:
 
@@ -12,9 +12,17 @@ The revised manuscript and Supplementary Information use this version identifier
 python run_all.py
 ```
 
-The unified command runs the base panel and figure workflow, both supplementary modules, the documented interpretation correction, and the revision checks. It preserves frozen source inputs while ensuring that current derived outputs describe the unresolved Constellation USD1 million reconciliation difference without attributing an unverified rounding explanation to the issuer. Numerical results are unchanged.
+The unified command runs the base panel and figure workflow, both supplementary modules, the documented interpretation correction, the revision checks, and the exact SSE/WEC stage–weight decomposition. It preserves frozen source inputs while ensuring that current derived outputs describe the unresolved Constellation USD1 million reconciliation difference without attributing an unverified rounding explanation to the issuer. Earlier numerical results are preserved. The added decomposition separates changes in project stages from changes in allocation weights without changing Figure 3 or estimating a financing effect.
 
-The [revision guide](revision_checks/README.md) records dependencies, commands, expected outputs and validation limits. Its selection, timing and economic-magnitude tables complement the main results; shorter-window examples are illustrative fossil comparisons, not a new uniform paired-sample test. The [source-coding audit](revision_checks/source_audit/targeted_source_semantic_audit.csv), [primary-copy provenance](revision_checks/source_audit/uploaded_source_provenance.json), [reference audit](revision_checks/reference_audit.csv) and [contribution comparison](revision_checks/contribution_matrix.md) document the targeted checks. Primary issuer PDFs and full-text extracts are not redistributed.
+The [revision guide](revision_checks/README.md) records dependencies, commands, expected outputs and validation limits. Its selection, timing and economic-magnitude tables complement the main results; shorter-window examples are illustrative fossil comparisons, not a new uniform paired-sample test. The [source-coding audit](revision_checks/source_audit/targeted_source_semantic_audit.csv), [primary-copy provenance](revision_checks/source_audit/uploaded_source_provenance.json), [reference audit](revision_checks/reference_audit.csv) and [source-bounded precursor comparison](revision_checks/literature/precursor_contribution_matrix.csv) document the targeted checks. Primary issuer PDFs and full-text extracts are not redistributed.
+
+**Added verification and decomposition**
+
+- [Stage–weight decomposition](revision_checks/stage_weight_decomposition/README.txt): input gates, the exact symmetric identity, project contributions and validation. Run it separately with `python revision_checks/stage_weight_decomposition/build_stage_weight_decomposition.py`.
+- [Seven-history linkage matrix](revision_checks/seven_history_linkage_matrix.csv): separate financial, membership, weight, implementation, ownership and chronological evidence. Its relational labels are not a company ranking.
+- [Critical-source review](revision_checks/source_audit/critical_source_review.csv): ten bounded source interpretations, disagreements, resolutions and residual uncertainty. This is documented AI-assisted reinspection, not independent human verification.
+- [Four-record metadata refresh](revision_checks/literature/bibliography_live_refresh.csv): Coen, Flammer, Petreski and Zhou match fresh publisher-deposited DOI records; no bibliography change is required.
+- [Final document identity and citation records](revision_checks/release_manifest.json): SHA-256 identities for the associated normal and blinded Word files, with the [actual final-file citation check](revision_checks/final_citation_check.json).
 
 **Earlier component commands**
 

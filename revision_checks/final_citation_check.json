@@ -1,19 +1,866 @@
 {
+  "version": "2026-10-11-r4",
+  "checked_at_utc": "2026-10-11T14:44:30.735112+00:00",
   "file": "Green_Bond_Financing_and_Fossil_Asset_Strategies.docx",
-  "sha256": "70e000ae44d7a9c0543f94056a34ecddf6c817ed6a498554b23674c5221feba5",
-  "checked_on": "2026-10-11",
+  "sha256": "bb3ae3ee69e6d8e994457d7ccee5a711f6c2b5bb2b1f93dbf51e3733a014e96b",
+  "method": "Extract actual DOCX XML; map bounded author-year citation syntax to the final bibliography; retain all year contexts for review. Check duplicate keys/DOIs and visible DOI hyperlink targets. No document changes.",
   "reference_count": 32,
   "references_cited": 32,
   "uncited_references": [],
-  "duplicate_references": 0,
-  "duplicate_dois": 0,
-  "manual_in_text_to_reference_check": "All author-year citations match one bibliography record; author spellings and years agree. No year-suffix collision. Organizational ICMA abbreviation and multi-author narrative citations manually reconciled.",
-  "style_note": "Issue metadata verified separately; not inserted because BSE style omits issues unless pagination restarts at page1.",
-  "checked_at_utc": "2026-10-11T13:17:00Z",
+  "duplicate_reference_keys": [],
+  "duplicate_dois": [],
+  "unresolved_main_citation_candidates": [],
+  "ambiguous_main_citation_candidates": [],
+  "doi_hyperlink_mismatches": [],
+  "author_spelling_or_order_flags": [],
+  "abstract_words_whitespace": 149,
+  "abstract_words_punctuation_split": 152,
+  "word_count_method": "Whitespace tokens after joining distinct Word paragraphs with spaces, including table-cell paragraphs and editable equation text; pre-References body includes title, abstract, keywords and captions.",
+  "keyword_count": 6,
+  "main_words_including_tables_captions_and_math_excluding_references_whitespace": 7711,
+  "main_words_including_tables_math_and_references_whitespace": 8587,
   "supplementary_check": {
     "file": "Supplementary_Information.docx",
-    "sha256": "f80e998e52acb35b9b27d5b3fdda4b129514761e7d263c767862d7cbbd8c35e3",
-    "methodological_reference_count": 3,
-    "result": "All three methodological sources (Hermundsdottir2024, Christy2024, Fatica2021) remain cited and match their verified main bibliography entries. Issue numbers intentionally omitted in BSE style."
-  }
+    "sha256": "87601f87e51dc5869f949184dd24d99b9bec0f21d0ed82834234bd97238e3b46",
+    "references_cited": [
+      "Christy 2024",
+      "Fatica 2021",
+      "Hermundsdottir 2024"
+    ]
+  },
+  "references": [
+    {
+      "key": "Alova 2020",
+      "first_author": "Alova",
+      "year": "2020",
+      "aliases": [
+        "Alova"
+      ],
+      "author_surnames": [
+        "Alova"
+      ],
+      "reference": "Alova, G. (2020). A global analysis of the progress and failure of electric utilities to adapt their portfolios of power-generation assets to the energy transition. Nature Energy, 5, 920–927. https://doi.org/10.1038/s41560-020-00686-5",
+      "doi": [
+        "10.1038/s41560-020-00686-5"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 9
+        },
+        {
+          "paragraph": 13
+        },
+        {
+          "paragraph": 21
+        },
+        {
+          "paragraph": 97
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Bauckloh 2023",
+      "first_author": "Bauckloh",
+      "year": "2023",
+      "aliases": [
+        "Bauckloh"
+      ],
+      "author_surnames": [
+        "Bauckloh",
+        "Klein",
+        "Pioch",
+        "Schiemann"
+      ],
+      "reference": "Bauckloh, T., Klein, C., Pioch, T., & Schiemann, F. (2023). Under pressure? The link between mandatory climate reporting and firms’ carbon performance. Organization & Environment, 36, 126–149. https://doi.org/10.1177/10860266221083340",
+      "doi": [
+        "10.1177/10860266221083340"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 23
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Benlemlih 2023",
+      "first_author": "Benlemlih",
+      "year": "2023",
+      "aliases": [
+        "Benlemlih"
+      ],
+      "author_surnames": [
+        "Benlemlih",
+        "Jaballah",
+        "Kermiche"
+      ],
+      "reference": "Benlemlih, M., Jaballah, J., & Kermiche, L. (2023). Does financing strategy accelerate corporate energy transition? Evidence from green bonds. Business Strategy and the Environment, 32, 878–889. https://doi.org/10.1002/bse.3180",
+      "doi": [
+        "10.1002/bse.3180"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 8
+        },
+        {
+          "paragraph": 96
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Berg 2026",
+      "first_author": "Berg",
+      "year": "2026",
+      "aliases": [
+        "Berg"
+      ],
+      "author_surnames": [
+        "Berg",
+        "Ma",
+        "Streitz"
+      ],
+      "reference": "Berg, T., Ma, L., & Streitz, D. (2026). Out of sight, out of mind: Divestments and the global reallocation of pollutive assets. Journal of Financial Economics, 182, 104308. https://doi.org/10.1016/j.jfineco.2026.104308",
+      "doi": [
+        "10.1016/j.jfineco.2026.104308"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 21
+        },
+        {
+          "paragraph": 99
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Berger-Schmitz 2023",
+      "first_author": "Berger-Schmitz",
+      "year": "2023",
+      "aliases": [
+        "Berger-Schmitz"
+      ],
+      "author_surnames": [
+        "Berger-Schmitz",
+        "George",
+        "Hindal",
+        "Perkins",
+        "Travaille"
+      ],
+      "reference": "Berger-Schmitz, Z., George, D., Hindal, C., Perkins, R., & Travaille, M. (2023). What explains firms' net zero adoption, strategy and response? Business Strategy and the Environment, 32, 5583–5601. https://doi.org/10.1002/bse.3437",
+      "doi": [
+        "10.1002/bse.3437"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 22
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Bingler 2024",
+      "first_author": "Bingler",
+      "year": "2024",
+      "aliases": [
+        "Bingler"
+      ],
+      "author_surnames": [
+        "Bingler",
+        "Kraus",
+        "Leippold",
+        "Webersinke"
+      ],
+      "reference": "Bingler, J. A., Kraus, M., Leippold, M., & Webersinke, N. (2024). How cheap talk in climate disclosures relates to climate initiatives, corporate emissions, and reputation risk. Journal of Banking & Finance, 164, 107191. https://doi.org/10.1016/j.jbankfin.2024.107191",
+      "doi": [
+        "10.1016/j.jbankfin.2024.107191"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 18
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Bruegel 2024",
+      "first_author": "Bruegel",
+      "year": "2024",
+      "aliases": [
+        "Bruegel"
+      ],
+      "author_surnames": [
+        "Bruegel",
+        "Leung"
+      ],
+      "reference": "Bruegel, J., & Leung, K. (2024). Europe’s clean power leaders: How green financing is enabling renewable growth. Institute for Energy Economics and Financial Analysis. https://ieefa.org/resources/europes-clean-power-leaders-how-green-financing-enabling-renewables-growth",
+      "doi": [],
+      "main_occurrences": [
+        {
+          "paragraph": 9
+        },
+        {
+          "paragraph": 13
+        },
+        {
+          "paragraph": 97
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Callery 2025",
+      "first_author": "Callery",
+      "year": "2025",
+      "aliases": [
+        "Callery"
+      ],
+      "author_surnames": [
+        "Callery",
+        "Kim"
+      ],
+      "reference": "Callery, P. J., & Kim, E.-H. (2025). Set & done? Trade-offs between stakeholder expectation and attainment pressures in corporate carbon target management. Journal of Management Studies, 62, 2770–2804. https://doi.org/10.1111/joms.13140",
+      "doi": [
+        "10.1111/joms.13140"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 18
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Christy 2024",
+      "first_author": "Christy",
+      "year": "2024",
+      "aliases": [
+        "Christy"
+      ],
+      "author_surnames": [
+        "Christy",
+        "Elnahass",
+        "Amezaga",
+        "Browne",
+        "Heidrich"
+      ],
+      "reference": "Christy, A., Elnahass, M., Amezaga, J., Browne, A., & Heidrich, O. (2024). A dynamic framework to align company climate reporting and action with global climate targets. Business Strategy and the Environment, 33, 3103–3128. https://doi.org/10.1002/bse.3635",
+      "doi": [
+        "10.1002/bse.3635"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 97
+        },
+        {
+          "paragraph": 102
+        }
+      ],
+      "supplementary_occurrences": [
+        {
+          "paragraph": 273
+        }
+      ]
+    },
+    {
+      "key": "Coen 2022",
+      "first_author": "Coen",
+      "year": "2022",
+      "aliases": [
+        "Coen"
+      ],
+      "author_surnames": [
+        "Coen",
+        "Herman",
+        "Pegram"
+      ],
+      "reference": "Coen, D., Herman, K., & Pegram, T. (2022). Are corporate climate efforts genuine? An empirical analysis of the climate ‘talk–walk’ hypothesis. Business Strategy and the Environment, 31, 3040–3059. https://doi.org/10.1002/bse.3063",
+      "doi": [
+        "10.1002/bse.3063"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 18
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Connelly 2025",
+      "first_author": "Connelly",
+      "year": "2025",
+      "aliases": [
+        "Connelly"
+      ],
+      "author_surnames": [
+        "Connelly",
+        "Certo",
+        "Reutzel",
+        "DesJardine",
+        "Zhou"
+      ],
+      "reference": "Connelly, B. L., Certo, S. T., Reutzel, C. R., DesJardine, M. R., & Zhou, Y. S. (2025). Signaling theory: State of the theory and its future. Journal of Management, 51, 24–61. https://doi.org/10.1177/01492063241268459",
+      "doi": [
+        "10.1177/01492063241268459"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 6
+        },
+        {
+          "paragraph": 16
+        },
+        {
+          "paragraph": 98
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Duchin 2025",
+      "first_author": "Duchin",
+      "year": "2025",
+      "aliases": [
+        "Duchin"
+      ],
+      "author_surnames": [
+        "Duchin",
+        "Gao",
+        "Xu"
+      ],
+      "reference": "Duchin, R., Gao, J., & Xu, Q. (2025). Sustainability or greenwashing: Evidence from the asset market for industrial pollution. The Journal of Finance, 80, 699–754. https://doi.org/10.1111/jofi.13412",
+      "doi": [
+        "10.1111/jofi.13412"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 21
+        },
+        {
+          "paragraph": 99
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "ElBannan 2024",
+      "first_author": "ElBannan",
+      "year": "2024",
+      "aliases": [
+        "ElBannan"
+      ],
+      "author_surnames": [
+        "ElBannan",
+        "Löffler"
+      ],
+      "reference": "ElBannan, M. A., & Löffler, G. (2024). How effectively do green bonds help the environment? Journal of Banking & Finance, 158, 107051. https://doi.org/10.1016/j.jbankfin.2023.107051",
+      "doi": [
+        "10.1016/j.jbankfin.2023.107051"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 19
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Fatica 2021",
+      "first_author": "Fatica",
+      "year": "2021",
+      "aliases": [
+        "Fatica"
+      ],
+      "author_surnames": [
+        "Fatica",
+        "Panzica"
+      ],
+      "reference": "Fatica, S., & Panzica, R. (2021). Green bonds as a tool against climate change? Business Strategy and the Environment, 30, 2688–2701. https://doi.org/10.1002/bse.2771",
+      "doi": [
+        "10.1002/bse.2771"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 8
+        },
+        {
+          "paragraph": 96
+        },
+        {
+          "paragraph": 96
+        }
+      ],
+      "supplementary_occurrences": [
+        {
+          "paragraph": 273
+        }
+      ]
+    },
+    {
+      "key": "Flammer 2021",
+      "first_author": "Flammer",
+      "year": "2021",
+      "aliases": [
+        "Flammer"
+      ],
+      "author_surnames": [
+        "Flammer"
+      ],
+      "reference": "Flammer, C. (2021). Corporate green bonds. Journal of Financial Economics, 142, 499–516. https://doi.org/10.1016/j.jfineco.2021.01.010",
+      "doi": [
+        "10.1016/j.jfineco.2021.01.010"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 8
+        },
+        {
+          "paragraph": 96
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Fofrich Navarro 2026",
+      "first_author": "Fofrich Navarro",
+      "year": "2026",
+      "aliases": [
+        "Fofrich Navarro"
+      ],
+      "author_surnames": [
+        "Fofrich Navarro",
+        "Liebermann",
+        "Moore",
+        "Shearer",
+        "Davis"
+      ],
+      "reference": "Fofrich Navarro, R., Liebermann, L., Moore, F. C., Shearer, C., & Davis, S. J. (2026). Ownership of power plants stranded by climate mitigation. Nature Sustainability, 9, 328–336. https://doi.org/10.1038/s41893-025-01707-5",
+      "doi": [
+        "10.1038/s41893-025-01707-5"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 21
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "He 2024",
+      "first_author": "He",
+      "year": "2024",
+      "aliases": [
+        "He"
+      ],
+      "author_surnames": [
+        "He",
+        "Dai",
+        "Hu",
+        "Gan"
+      ],
+      "reference": "He, L., Dai, P.-F., Hu, S., & Gan, S. (2024). Do green bond issuers walk the talk? Exploring the alignment between green bond issuance and subsequent green investment. International Review of Economics & Finance, 94, 103366. https://doi.org/10.1016/j.iref.2024.05.045",
+      "doi": [
+        "10.1016/j.iref.2024.05.045"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 19
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Hermundsdottir 2024",
+      "first_author": "Hermundsdottir",
+      "year": "2024",
+      "aliases": [
+        "Hermundsdottir"
+      ],
+      "author_surnames": [
+        "Hermundsdottir",
+        "Bjørgum",
+        "Eide"
+      ],
+      "reference": "Hermundsdottir, F., Bjørgum, Ø., & Eide, A. E. (2024). Transition from fossil fuels to renewable energy: Identifying the necessary dynamic capabilities for a transition among Norwegian oil and gas companies. Business Strategy and the Environment, 33, 6315–6334. https://doi.org/10.1002/bse.3826",
+      "doi": [
+        "10.1002/bse.3826"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 22
+        },
+        {
+          "paragraph": 52
+        },
+        {
+          "paragraph": 100
+        }
+      ],
+      "supplementary_occurrences": [
+        {
+          "paragraph": 272
+        }
+      ]
+    },
+    {
+      "key": "International Capital Market Association 2021",
+      "first_author": "International Capital Market Association",
+      "year": "2021",
+      "aliases": [
+        "International Capital Market Association",
+        "ICMA"
+      ],
+      "author_surnames": [
+        "International Capital Market Association"
+      ],
+      "reference": "International Capital Market Association. (2021). Green bond principles: Voluntary process guidelines for issuing green bonds. June 2021. https://www.icmagroup.org/assets/documents/Sustainable-finance/2021-updates/Green-Bond-Principles-June-2021-140621.pdf",
+      "doi": [],
+      "main_occurrences": [
+        {
+          "paragraph": 7
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Kampmann 2026",
+      "first_author": "Kampmann",
+      "year": "2026",
+      "aliases": [
+        "Kampmann"
+      ],
+      "author_surnames": [
+        "Kampmann",
+        "Rekker",
+        "Ruan",
+        "Shrimali"
+      ],
+      "reference": "Kampmann, D., Rekker, S., Ruan, M., & Shrimali, G. (2026). Assessing corporate transition plans using a production asset-based planning approach. Nature Communications, 17, 6410. https://doi.org/10.1038/s41467-026-72703-2",
+      "doi": [
+        "10.1038/s41467-026-72703-2"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 9
+        },
+        {
+          "paragraph": 23
+        },
+        {
+          "paragraph": 100
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Khan 2025",
+      "first_author": "Khan",
+      "year": "2025",
+      "aliases": [
+        "Khan"
+      ],
+      "author_surnames": [
+        "Khan",
+        "Vismara"
+      ],
+      "reference": "Khan, M. A., & Vismara, S. (2025). Green bond issuance and corporate environmental and financial performance: A meta-analysis. International Review of Economics & Finance, 102, 104313. https://doi.org/10.1016/j.iref.2025.104313",
+      "doi": [
+        "10.1016/j.iref.2025.104313"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 8
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Ordonez-Borrallo 2024",
+      "first_author": "Ordonez-Borrallo",
+      "year": "2024",
+      "aliases": [
+        "Ordonez-Borrallo"
+      ],
+      "author_surnames": [
+        "Ordonez-Borrallo",
+        "Ortiz-de-Mandojana",
+        "Delgado-Ceballos"
+      ],
+      "reference": "Ordonez-Borrallo, R., Ortiz-de-Mandojana, N., & Delgado-Ceballos, J. (2024). Green bonds and environmental performance: The effect of management attention. Corporate Social Responsibility and Environmental Management, 31, 5311–5326. https://doi.org/10.1002/csr.2858",
+      "doi": [
+        "10.1002/csr.2858"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 17
+        },
+        {
+          "paragraph": 100
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Ordonez-Borrallo 2026",
+      "first_author": "Ordonez-Borrallo",
+      "year": "2026",
+      "aliases": [
+        "Ordonez-Borrallo"
+      ],
+      "author_surnames": [
+        "Ordonez-Borrallo",
+        "Ortiz-de-Mandojana",
+        "Delgado-Ceballos"
+      ],
+      "reference": "Ordonez-Borrallo, R., Ortiz-de-Mandojana, N., & Delgado-Ceballos, J. (2026). Environmental, social, and governance bonds and stock market reactions: An event study. Business Strategy and the Environment, 35, 881–892. https://doi.org/10.1002/bse.70214",
+      "doi": [
+        "10.1002/bse.70214"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 17
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Petreski 2025",
+      "first_author": "Petreski",
+      "year": "2025",
+      "aliases": [
+        "Petreski"
+      ],
+      "author_surnames": [
+        "Petreski",
+        "Schäfer",
+        "Stephan"
+      ],
+      "reference": "Petreski, A., Schäfer, D., & Stephan, A. (2025). The reputation effect of repeated green-bond issuance and its impact on the cost of capital. Business Strategy and the Environment, 34, 2436–2448. https://doi.org/10.1002/bse.4111",
+      "doi": [
+        "10.1002/bse.4111"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 17
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Reitsema 2025",
+      "first_author": "Reitsema",
+      "year": "2025",
+      "aliases": [
+        "Reitsema"
+      ],
+      "author_surnames": [
+        "Reitsema",
+        "Scholtens"
+      ],
+      "reference": "Reitsema, L., & Scholtens, B. (2025). The role of corporate green bonds in managing greenhouse gas emissions. Climatic Change, 178, 158. https://doi.org/10.1007/s10584-025-04005-3",
+      "doi": [
+        "10.1007/s10584-025-04005-3"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 19
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Schenzle 2026",
+      "first_author": "Schenzle",
+      "year": "2026",
+      "aliases": [
+        "Schenzle"
+      ],
+      "author_surnames": [
+        "Schenzle",
+        "Busch"
+      ],
+      "reference": "Schenzle, L., & Busch, T. (2026). Navigating the net zero transition: Towards improved effectiveness of corporate decarbonization strategies. Business Strategy and the Environment, 35, 3774–3789. https://doi.org/10.1002/bse.70358",
+      "doi": [
+        "10.1002/bse.70358"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 22
+        },
+        {
+          "paragraph": 100
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Spence 1973",
+      "first_author": "Spence",
+      "year": "1973",
+      "aliases": [
+        "Spence"
+      ],
+      "author_surnames": [
+        "Spence"
+      ],
+      "reference": "Spence, M. (1973). Job market signaling. The Quarterly Journal of Economics, 87, 355–374. https://doi.org/10.2307/1882010",
+      "doi": [
+        "10.2307/1882010"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 6
+        },
+        {
+          "paragraph": 98
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Teece 2007",
+      "first_author": "Teece",
+      "year": "2007",
+      "aliases": [
+        "Teece"
+      ],
+      "author_surnames": [
+        "Teece"
+      ],
+      "reference": "Teece, D. J. (2007). Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance. Strategic Management Journal, 28, 1319–1350. https://doi.org/10.1002/smj.640",
+      "doi": [
+        "10.1002/smj.640"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 22
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Tuhkanen 2022",
+      "first_author": "Tuhkanen",
+      "year": "2022",
+      "aliases": [
+        "Tuhkanen"
+      ],
+      "author_surnames": [
+        "Tuhkanen",
+        "Vulturius"
+      ],
+      "reference": "Tuhkanen, H., & Vulturius, G. (2022). Are green bonds funding the transition? Investigating the link between companies’ climate targets and green debt financing. Journal of Sustainable Finance & Investment, 12, 1194–1216. https://doi.org/10.1080/20430795.2020.1857634",
+      "doi": [
+        "10.1080/20430795.2020.1857634"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 9
+        },
+        {
+          "paragraph": 13
+        },
+        {
+          "paragraph": 97
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Wang 2024",
+      "first_author": "Wang",
+      "year": "2024",
+      "aliases": [
+        "Wang"
+      ],
+      "author_surnames": [
+        "Wang",
+        "Chen",
+        "Ali",
+        "Tseng"
+      ],
+      "reference": "Wang, S., Chen, S.-C., Ali, M. H., & Tseng, M.-L. (2024). Nexus of environmental, social, and governance performance in China-listed companies: Disclosure and green bond issuance. Business Strategy and the Environment, 33, 1647–1660. https://doi.org/10.1002/bse.3566",
+      "doi": [
+        "10.1002/bse.3566"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 103
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Wei 2023",
+      "first_author": "Wei",
+      "year": "2023",
+      "aliases": [
+        "Wei"
+      ],
+      "author_surnames": [
+        "Wei",
+        "Li",
+        "Zhang"
+      ],
+      "reference": "Wei, P., Li, Y., & Zhang, Y. (2023). Corporate green bonds and carbon performance: An economic input–output life cycle assessment model-based analysis. Business Strategy and the Environment, 32, 2736–2754. https://doi.org/10.1002/bse.3267",
+      "doi": [
+        "10.1002/bse.3267"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 8
+        }
+      ],
+      "supplementary_occurrences": []
+    },
+    {
+      "key": "Zhou 2026",
+      "first_author": "Zhou",
+      "year": "2026",
+      "aliases": [
+        "Zhou"
+      ],
+      "author_surnames": [
+        "Zhou",
+        "Ding",
+        "Mazouz",
+        "Jin"
+      ],
+      "reference": "Zhou, P., Ding, W., Mazouz, K., & Jin, S. (2026). Green bonds and the energy transition: From instrumental use to intrinsic value. Energy Economics, 161, 109503. https://doi.org/10.1016/j.eneco.2026.109503",
+      "doi": [
+        "10.1016/j.eneco.2026.109503"
+      ],
+      "main_occurrences": [
+        {
+          "paragraph": 8
+        },
+        {
+          "paragraph": 96
+        }
+      ],
+      "supplementary_occurrences": []
+    }
+  ],
+  "year_scan_coverage": {
+    "main_year_occurrences": 120,
+    "main_citation_syntax_occurrences": 56,
+    "supplementary_year_occurrences": 371
+  },
+  "limits": "Internal citation consistency is distinct from live metadata, source interpretation, journal classification, and human independent verification. Year-only dates can appear among candidates and must be reviewed rather than asserted to be citations.",
+  "automated_passed": true,
+  "associated_blinded_documents": [
+    {
+      "role": "blind_main",
+      "file": "BSE_Blinded_Main_Manuscript.docx",
+      "sha256": "05dd2a93a94e2e42c41cef65701c67a9af27291c67df58e705a26591e2c862e1"
+    },
+    {
+      "role": "blind_supplementary",
+      "file": "Supplementary_Information_Blinded.docx",
+      "sha256": "232fab1ed087f4aad43431639e720bd48976352a2286c5c142a1aa76d1b5a86a"
+    }
+  ],
+  "blinded_main_references_identical": true
 }

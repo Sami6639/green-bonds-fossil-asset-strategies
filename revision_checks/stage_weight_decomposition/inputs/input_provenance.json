@@ -1,0 +1,32 @@
+[
+  {
+    "analysis_path": "inputs/sse_2023_gb5_project_rows.csv",
+    "baseline_repo_path": "nested_histories/original_three/sse/green_uop_2023_gb5_project_rows.csv",
+    "sha256": "e131b5e66620e6cd1b94d888c25e38aa74c24cbc2c7a23f224e85d84bc4c9643",
+    "status": "byte-for-byte frozen copy; primary-source semantic verification recorded separately"
+  },
+  {
+    "analysis_path": "inputs/sse_2024_bond_project_rows.csv",
+    "baseline_repo_path": "nested_histories/original_three/sse/bond_project_rows_2024.csv",
+    "sha256": "1de383866979c960f21dbc3119c65d3495b7ab20efeaf8ec830023ce56aa3c25",
+    "status": "byte-for-byte frozen copy; primary-source semantic verification recorded separately"
+  },
+  {
+    "analysis_path": "inputs/sse_actual_milestones.csv",
+    "baseline_repo_path": "nested_histories/original_three/sse/fixed_cohort_actual_milestones.csv",
+    "sha256": "2d5bab828e684abc87b53f25921556ee64386a168fdee72d7f3d95117997adee",
+    "status": "byte-for-byte frozen copy; primary-source semantic verification recorded separately"
+  },
+  {
+    "analysis_path": "inputs/wec_project_stage_panel.csv",
+    "baseline_repo_path": "nested_histories/expanded_cases/wec_project_stage_panel.csv",
+    "sha256": "70cb7c5577c0b7a8693adaf14ba88b06cbf381b6381a3ec0d7fbd8478b86ab1e",
+    "status": "byte-for-byte frozen copy; primary-source semantic verification recorded separately"
+  },
+  {
+    "analysis_path": "inputs/baseline_figure_3_plot_data.csv",
+    "baseline_repo_path": "figures/figure_3_plot_data.csv",
+    "sha256": "11de0a070733b69057fc7f8bb0263b01d09410478c36b52d1c371ee77432601a",
+    "status": "byte-for-byte frozen copy; primary-source semantic verification recorded separately"
+  }
+]

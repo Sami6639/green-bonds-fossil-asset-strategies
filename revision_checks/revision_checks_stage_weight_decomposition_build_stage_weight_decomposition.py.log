@@ -1,0 +1,37 @@
+[
+  {
+    "case": "SSE",
+    "instrument": "GB5 / XS2510903862",
+    "start_date": "2023-03-31",
+    "end_date": "2024-03-31",
+    "currency": "GBP",
+    "start_allocation_million": "543.9",
+    "end_allocation_million": "543.9",
+    "start_share_pct": "6.839492553778268",
+    "end_share_pct": "69.479683765398051",
+    "stage_component_pp": "62.640191211619783",
+    "weight_component_pp": "0",
+    "total_change_pp": "62.640191211619783",
+    "reconciliation_residual_pp": "0",
+    "source_ids": "SSE2023;SSE2024"
+  },
+  {
+    "case": "WEC",
+    "instrument": "WEPCO 4.75% due 2032 / issued 2022-09-22",
+    "start_date": "2023-06-30",
+    "end_date": "2024-06-30",
+    "currency": "USD",
+    "start_allocation_million": "281.7",
+    "end_allocation_million": "440.5",
+    "start_share_pct": "0",
+    "end_share_pct": "33.461975028376844",
+    "stage_component_pp": "33.894636786463893",
+    "weight_component_pp": "-0.432661758087048",
+    "total_change_pp": "33.461975028376844",
+    "reconciliation_residual_pp": "0",
+    "source_ids": "WEC10K;WEC2023;WEC2024;WECPSC"
+  }
+]
+PASS: 89 checks; exact reconciliation residual zero for both cases.
+
+STDERR

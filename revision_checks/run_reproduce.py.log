@@ -183,7 +183,7 @@
       "bytes": 717072
     },
     "Figure_1_Global_Capacity_Directions.pdf": {
-      "sha256": "36e8638c7a3e1b077f8dde00e7bb7c99b304f2f34672bf150a57b16ab5b96be8",
+      "sha256": "412d1b5bdb76f7a06c6f6465680bb07a01e4615cf62ec43b8477f6b52dd499b5",
       "bytes": 29392
     },
     "Figure_2_Materiality_Sensitivity.png": {
@@ -191,7 +191,7 @@
       "bytes": 262889
     },
     "Figure_2_Materiality_Sensitivity.pdf": {
-      "sha256": "76e8551db3de32ae9d2830f950dbb395c748126ccce3f2eb4eedda38cde37949",
+      "sha256": "3d9e943e7abd4c1e40b47f90b84a9c5ec580c94179fd9bccd4828150377e1f34",
       "bytes": 39968
     },
     "Figure_3_Allocation_Associated_Operation.png": {
@@ -199,7 +199,7 @@
       "bytes": 214788
     },
     "Figure_3_Allocation_Associated_Operation.pdf": {
-      "sha256": "98f04801c4415391b2bf87cdd4367f46d996925d6b8825addc3bf34d10750c0d",
+      "sha256": "cc97aadb6c48291c7887ffb0a70365847a59e3fa4ca755b210f467eb94f9961a",
       "bytes": 24679
     }
   }

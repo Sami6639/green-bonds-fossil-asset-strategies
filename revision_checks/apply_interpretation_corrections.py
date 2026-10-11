@@ -33,5 +33,5 @@ for directory in ['analysis_panel','figures','strategy_comparison','decision_rat
     w=csv.DictWriter(stream,fieldnames=fields);w.writeheader();w.writerows(rows)
    changed.append({'path':str(rel),'replacement_count':n,'raw_provenance_notes':raw_notes,'sha256':hashlib.sha256(path.read_bytes()).hexdigest()})
 # A separate manifest describes corrected active outputs; historical manifests remain unmodified.
-result={'version':'BSE-2026-10-11-r3','correction':note,'frozen_source_values_unchanged':True,'corrected_outputs':changed,'interpretation':'Historical source manifests validate the pre-correction scientific baseline; this manifest validates the derived semantic revision. Quoted raw provenance is preserved; the separate dated correction register records the revised interpretation.'}
+result={'version':'2026-10-11-r4','correction':note,'frozen_source_values_unchanged':True,'corrected_outputs':changed,'interpretation':'Historical source manifests validate the pre-correction scientific baseline; this manifest validates the derived semantic revision. Quoted raw provenance is preserved; the separate dated correction register records the revised interpretation.'}
 (HERE/'corrected_output_manifest.json').write_text(json.dumps(result,indent=2));print(json.dumps(result,indent=2))

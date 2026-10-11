@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "audit_records": 10,
+  "matrix_histories": 7,
+  "source_scope_entries": 16,
+  "classification_labels": [
+    "contemporaneous",
+    "documented_sequence",
+    "explicit_source_connection",
+    "unresolved"
+  ],
+  "mandatory_audit_fields_nonempty": true,
+  "Dominion_outside_principal33": true,
+  "Iberdrola_weights_unresolved": true,
+  "Eletrobras_stage_unresolved": true,
+  "Constellation_minus1_residual_unexplained": true,
+  "Enel_explicit_connection_distinguished": true,
+  "company_composite_score_created": false,
+  "independent_human_coding_claimed": false,
+  "word_files_modified": false
+}

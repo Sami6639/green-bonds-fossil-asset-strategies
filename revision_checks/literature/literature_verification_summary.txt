@@ -1,0 +1,16 @@
+Precursor comparison and four-record metadata refresh
+Checked 11 October 2026
+
+Outcome
+The defensible contribution is the empirical resolution of repeated, identified financing histories: allocation amount, recurring membership, monetary weights, achieved stage, and documented ownership-linked pool replacement. Chronology, ownership attention, project attribution and measurement/action separation already have clear antecedents. No first-study, comprehensive-superiority, causal-financing or additionality claim is supported by this comparison.
+
+Coverage
+The five-row matrix compares the four requested precursors with the current study and gives source-specific locators and access levels. Tuhkanen and Vulturius, Bruegel and Leung, and Christy et al. were assessed from relevant full-text sections. Alova's publisher-provided first page (printed p.920) was inspected; remaining full Methods were not obtained. Its unobserved financial and detailed implementation fields remain unverified. A failed fetch is not evidence that the paper lacks those fields.
+
+The Tuhkanen and Christy copies have early-version printed page numbers; their locators are not represented as verified final-journal page numbers. Tuhkanen's source was posted by the author. Christy's published-version PDF came from Newcastle University's repository. IEEFA text came from its official PDF; page-image retrieval failed. Christy's Figure 5 was visually checked. No independent-human review is claimed.
+
+Bibliography refresh
+Coen, Flammer, Petreski and Zhou each returned fresh HTTP 200 DOI metadata from Crossref's publisher-deposited records. All author orders, titles, final issue years, journals, volumes, locators and DOIs match the baseline bibliography after typographic normalization. The raw JSON responses and SHA-256 values accompany the audit. Petreski's December 2024 online publication does not change the final 2025 issue citation. Issue numbers remain audit metadata; no unnecessary bibliography edits are requested. A direct Wiley record additionally corroborated Coen. Other publisher-page fetch failures do not invalidate the successful DOI-record refresh.
+
+Scope boundary
+This audit does not replace the final-file two-way citation check, company-report semantic checks or final release hashing. No manuscript, SI or references were edited. No new reference was added. Full copyrighted source copies and page images are retained only in the local review workspace and are excluded from this public patch.

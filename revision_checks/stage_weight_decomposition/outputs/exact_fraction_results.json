@@ -1,0 +1,18 @@
+{
+  "SSE": {
+    "start_share": "124/1813",
+    "end_share": "3779/5439",
+    "stage_component": "3407/5439",
+    "weight_component": "0",
+    "total_change": "3407/5439",
+    "residual": "0"
+  },
+  "WEC": {
+    "start_share": "0",
+    "end_share": "1474/4405",
+    "stage_component": "8411893/24817770",
+    "weight_component": "-107377/24817770",
+    "total_change": "1474/4405",
+    "residual": "0"
+  }
+}

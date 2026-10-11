@@ -1,0 +1,3 @@
+case,instrument,start_date,end_date,currency,start_allocation_million,end_allocation_million,start_share_pct,end_share_pct,stage_component_pp,weight_component_pp,total_change_pp,reconciliation_residual_pp,source_ids
+SSE,GB5 / XS2510903862,2023-03-31,2024-03-31,GBP,543.9,543.9,6.839492553778268,69.479683765398051,62.640191211619783,0,62.640191211619783,0,SSE2023;SSE2024
+WEC,WEPCO 4.75% due 2032 / issued 2022-09-22,2023-06-30,2024-06-30,USD,281.7,440.5,0,33.461975028376844,33.894636786463893,-0.432661758087048,33.461975028376844,0,WEC10K;WEC2023;WEC2024;WECPSC

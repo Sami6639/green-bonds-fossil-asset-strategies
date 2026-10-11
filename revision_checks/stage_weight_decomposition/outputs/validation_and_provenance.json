@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "method": "Symmetric exact accounting identity using Fraction; no rounding until presentation",
+  "primary_source_review": "See inputs/source_verification.csv; executing this script does not independently reverify source meaning",
+  "unknown_handling": "Missing stages, missing amounts and unmatched project membership stop execution; no zero imputation",
+  "inputs_sha256": {
+    "baseline_figure_3_plot_data.csv": "11de0a070733b69057fc7f8bb0263b01d09410478c36b52d1c371ee77432601a",
+    "input_provenance.json": "d852384460c8b09433262db2d7e4f35b3768777bc3aad7939df7ceb034eb6ead",
+    "source_verification.csv": "4f894efb751eeb7ccb43403b5cf9d2271163c3e010d34ab47383601ffcfd845f",
+    "sse_2023_gb5_project_rows.csv": "e131b5e66620e6cd1b94d888c25e38aa74c24cbc2c7a23f224e85d84bc4c9643",
+    "sse_2024_bond_project_rows.csv": "1de383866979c960f21dbc3119c65d3495b7ab20efeaf8ec830023ce56aa3c25",
+    "sse_actual_milestones.csv": "2d5bab828e684abc87b53f25921556ee64386a168fdee72d7f3d95117997adee",
+    "wec_project_stage_panel.csv": "70cb7c5577c0b7a8693adaf14ba88b06cbf381b6381a3ec0d7fbd8478b86ab1e"
+  },
+  "script_sha256": "4fd4f7a1934ad3978bba0e4a88de6983c56cc978485163b3605ffbe84bd2866f",
+  "checks_passed": 89,
+  "case_exact_reconciliation": {
+    "SSE": "0",
+    "WEC": "0"
+  },
+  "outputs_sha256": {
+    "exact_fraction_results.json": "852cdfaa7f27ef9aec0fd4ce7071a672a775767fbe1d1d000f875c0781baaa0e",
+    "project_contributions.csv": "dc923665a57536f6e2f3795cce71872e5bc858dadf3fb4c8a2dca2e7f30b9b4d",
+    "project_cutoff_inputs.csv": "46e8a814dc286bd1cfb8c06bf5e1c4e65408015c432c2041a79710cc103e3554",
+    "recomputed_cutoff_shares.csv": "6e3eaff8e63366243ecbc2dc2c097dc6421fc83565a0b4b179eedebb79cf7649",
+    "stage_weight_decomposition.csv": "9a02c333ec3e7998dfb9d858871d60a71f1f734552cbedbf33907466db7c5f5c",
+    "stage_weight_si_table.csv": "a8a0ad9eadd969055ec0c607269da37edf568033f41e8c0b2b2ec9809aa8a4e4",
+    "validation_checks.csv": "de1df0e8a730ab8352303859562ebc0155a3c806ebcba3e646f124c976f86ca1"
+  }
+}

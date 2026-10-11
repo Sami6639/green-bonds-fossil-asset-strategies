@@ -1,21 +1,36 @@
-# BSE submission revision checks
+# Reproducibility and verification checks
 
-Version: BSE-2026-10-11-r3. This is a submission-package identifier, not an archive DOI or Git tag. The main manuscript and Supplementary Information use this identifier. The scientific baseline is commit 484d3b801fcd1441d6e2070a7889d733b43cc326. This additive revision does not replace the frozen inputs, original package checksums, or earlier analysis workflows.
+Version: 2026-10-11-r4. This is a technical package identifier, not an archive DOI or Git tag. The immediate published baseline is commit cac55d2563d998c3291da486bd7280b086970fc9; the earlier expanded scientific baseline is 484d3b801fcd1441d6e2070a7889d733b43cc326. This additive revision preserves frozen inputs, original package checksums, and earlier workflows. release_manifest.json identifies the exact associated normal and blinded Word files; the files themselves are not redistributed in this repository.
 
 ## Reproduction
 
-From the repository root, install the pinned dependencies with `python -m pip install -r requirements.txt`, then run `python run_all.py`. The validated environment was Python 3.12.14, numpy 2.3.5, pandas 2.2.3, matplotlib 3.10.8 and Pillow 12.3.0. The unified command invokes, in order:
+From the repository root, install the pinned dependencies with `python -m pip install -r requirements.txt`, then run `python run_all.py`. The unified command invokes, in order:
 
-1. `python run_reproduce.py`: checks the 69-entry input snapshot and 62-entry nested-history manifest; rebuilds the panel, descriptive tables and figures, and runs existing validation.
-2. `python strategy_comparison/build_theory_evidence.py`: rebuilds the seven-history comparison and principal-group event summaries.
-3. `python decision_rationales/build_audit.py`: rebuilds the archived-event field audit.
-4. `python decision_rationales/build_evidence.py`: rebuilds the source-linked decision-rationale evidence.
-5. `python revision_checks/apply_interpretation_corrections.py`: corrects unsupported Constellation rounding explanations in seven active derived display files, preserving numerical values and original quoted provenance.
-6. `python revision_checks/build_revision_checks.py`: produces the selection, illustrative timing, economic-magnitude and invariant checks added for this revision.
+1. `python run_reproduce.py`: verifies input and nested-history manifests, rebuilds the panel, descriptive tables and figures, and runs existing validation.
+2. `python strategy_comparison/build_theory_evidence.py`: rebuilds seven-history and principal-group event comparisons.
+3. `python decision_rationales/build_audit.py`: rebuilds archived-event field checks.
+4. `python decision_rationales/build_evidence.py`: rebuilds source-linked decision-rationale evidence.
+5. `python revision_checks/apply_interpretation_corrections.py`: applies the previously documented unsupported-rounding correction to active Constellation displays while preserving raw provenance and numerical values.
+6. `python revision_checks/build_revision_checks.py`: rebuilds selection, illustrative timing, economic-magnitude and invariant checks.
+7. `python revision_checks/stage_weight_decomposition/build_stage_weight_decomposition.py`: calculates the exact two-date SSE/WEC stage and weight components using disclosed reporting entries, cutoff-specific denominators and achieved-operation codes.
 
-The earlier commands remain valid separately. The root README's supplementary-module instructions remain in force. Historical `run_analysis.py`/`validate_package.py` are not substitutes for the expanded pipeline.
+`reproduction_log.json` records the commands, exit codes, environment and all pre-existing CSV comparisons. `final_code_validation.json` separately records unchanged r3 CSV results and frozen-file hashes, exact decomposition checks and a repeated-run determinism test. Runtime timestamps and PDF metadata need not be byte-identical. Reproduction uses the included source-derived records and does not retrieve or independently interpret original issuer reports. The test is not described as network-isolated.
 
-`reproduction_log.json` records exit codes, dependency versions, logs and CSV comparison. All four original commands, the interpretation correction and the revision check passed in a clean assembled copy. Its 274 baseline files matched the current remote baseline exactly. All 223 baseline CSV files were unchanged after the original four-command reproduction, including all 27 files in `analysis_panel/results/`. The six-command unified rerun separately compared 94 downstream CSVs; seven contain the intended narrative corrections and 87 remain byte-identical. A separate baseline comparison checks all 223 CSV files and 74,281 numerical cells with zero numerical or row-count differences. The smaller 94-file denominator excludes frozen inputs and nested histories. Runtime metadata, paths, timestamps and PDF metadata are not required to be byte-identical. `source_file_comparison.json` gives the 274-file Git-blob comparison. The command uses included records and does not itself retrieve or independently interpret original issuer documents. The test was not described as network-isolated.
+The new [decomposition guide](stage_weight_decomposition/README.txt) documents inputs, equations and source-review limits. Its `outputs/stage_weight_decomposition.csv` reports case-level changes and `outputs/project_contributions.csv` reports project contributions. Exact fractions reconcile both components to the observed share change with zero residual. Missing stages, missing amounts and unmatched membership stop the analysis rather than being imputed. The Paris solar/battery entry remains unsplit.
+
+`seven_history_linkage_matrix.csv` separates the available financial, project, monetary-weight, achieved-stage, ownership and timing evidence. `source_audit/evidence_link_definitions.json` defines relational labels, which are neither quality scores nor a ranking. `source_audit/critical_source_review.csv` and `source_audit/source_inspection_scope.csv` record bounded reinspection and the actual text/page-image coverage. These are AI-assisted checks, not independent human coding, and no inter-coder agreement statistic is claimed. Original issuer reports and page images are not redistributed.
+
+The bounded precursor comparison is recorded in `literature/precursor_contribution_matrix.csv`. Alova's publisher-provided first page was inspected, but unobserved Methods fields remain unverified. Page locators for the accessible Tuhkanen and Christy copies retain their early-version pagination. `literature/bibliography_live_refresh.csv` and the accompanying JSON records verify the four requested DOI metadata entries without unnecessary bibliography changes. These updates do not claim a fresh full-text audit of all bibliography sources.
+
+## Final-file identity and citations
+
+`final_citation_check.json` is regenerated from the actual final main and supplementary Word files, with blinded-file identities and the final bibliography comparison. To repeat the internal citation check on your copies, run:
+
+```
+python revision_checks/check_final_citations.py --main /path/to/main.docx --supplementary /path/to/supplementary.docx --blind-main /path/to/blinded-main.docx --blind-supplementary /path/to/blinded-supplementary.docx
+```
+
+Those example paths refer to documents supplied separately, not repository files. The check does not modify the documents. It verifies author-year/bibliography matching, duplicate keys and DOIs, and visible DOI hyperlink targets; live metadata and source interpretation are distinct checks. A complete document-level audit is not part of run_all.py because the associated Word files are not redistributed here.
 
 ## Revision outputs and interpretation
 
