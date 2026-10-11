@@ -1,8 +1,8 @@
 {
-  "version": "2026-10-11-r4",
-  "checked_at_utc": "2026-10-11T14:44:30.735112+00:00",
-  "file": "Green_Bond_Financing_and_Fossil_Asset_Strategies.docx",
-  "sha256": "bb3ae3ee69e6d8e994457d7ccee5a711f6c2b5bb2b1f93dbf51e3733a014e96b",
+  "version": "2026-10-11-r5",
+  "checked_at_utc": "2026-10-11T16:56:36.245383+00:00",
+  "file": "Green_Bonds_and_Corporate_Energy_Transition.docx",
+  "sha256": "a5b2fcc16019d9e798bcea99d3fb7e1521a00861acae9c950670b31da525aada",
   "method": "Extract actual DOCX XML; map bounded author-year citation syntax to the final bibliography; retain all year contexts for review. Check duplicate keys/DOIs and visible DOI hyperlink targets. No document changes.",
   "reference_count": 32,
   "references_cited": 32,
@@ -13,20 +13,47 @@
   "ambiguous_main_citation_candidates": [],
   "doi_hyperlink_mismatches": [],
   "author_spelling_or_order_flags": [],
-  "abstract_words_whitespace": 149,
-  "abstract_words_punctuation_split": 152,
+  "abstract_words_whitespace": 142,
+  "abstract_words_punctuation_split": 147,
   "word_count_method": "Whitespace tokens after joining distinct Word paragraphs with spaces, including table-cell paragraphs and editable equation text; pre-References body includes title, abstract, keywords and captions.",
   "keyword_count": 6,
-  "main_words_including_tables_captions_and_math_excluding_references_whitespace": 7711,
-  "main_words_including_tables_math_and_references_whitespace": 8587,
+  "main_words_including_tables_captions_and_math_excluding_references_whitespace": 7767,
+  "main_words_including_tables_math_and_references_whitespace": 8643,
   "supplementary_check": {
     "file": "Supplementary_Information.docx",
-    "sha256": "87601f87e51dc5869f949184dd24d99b9bec0f21d0ed82834234bd97238e3b46",
+    "sha256": "8d3c3985bf868550964ede00aae763b3794b01a42ee0ad88c31cc26839bc6e5e",
     "references_cited": [
       "Christy 2024",
       "Fatica 2021",
       "Hermundsdottir 2024"
-    ]
+    ],
+    "unresolved_author_year_citations_after_context_review": [],
+    "reviewed_unmatched_syntax_candidates": [
+      {
+        "paragraph": 274,
+        "year": "2024",
+        "classification": "Full reference entry identical to main bibliography",
+        "reference_key": "Hermundsdottir 2024"
+      },
+      {
+        "paragraph": 275,
+        "year": "2024",
+        "classification": "Full reference entry identical to main bibliography",
+        "reference_key": "Christy 2024"
+      },
+      {
+        "paragraph": 276,
+        "year": "2021",
+        "classification": "Full reference entry identical to main bibliography",
+        "reference_key": "Fatica 2021"
+      },
+      {
+        "paragraph": 1041,
+        "year": "2022",
+        "classification": "Dated source-table locator, not an author-year citation"
+      }
+    ],
+    "matched_citation_keys_count": 3
   },
   "references": [
     {
@@ -848,19 +875,32 @@
     "main_citation_syntax_occurrences": 56,
     "supplementary_year_occurrences": 371
   },
-  "limits": "Internal citation consistency is distinct from live metadata, source interpretation, journal classification, and human independent verification. Year-only dates can appear among candidates and must be reviewed rather than asserted to be citations.",
+  "limits": "Internal citation consistency is distinct from live metadata, source interpretation, journal classification, and human independent verification. Year-only dates can appear among candidates and must be reviewed rather than asserted to be citations. No new live DOI or publisher-metadata requests were made for this editorial synchronization; prior source-verification records remain historical.",
   "automated_passed": true,
   "associated_blinded_documents": [
     {
       "role": "blind_main",
       "file": "BSE_Blinded_Main_Manuscript.docx",
-      "sha256": "05dd2a93a94e2e42c41cef65701c67a9af27291c67df58e705a26591e2c862e1"
+      "sha256": "df122cdb8ec0f4314109be8603526a7719d5e8944361b49a67e6fb4b2d2ecd4e"
     },
     {
       "role": "blind_supplementary",
       "file": "Supplementary_Information_Blinded.docx",
-      "sha256": "232fab1ed087f4aad43431639e720bd48976352a2286c5c142a1aa76d1b5a86a"
+      "sha256": "66b614f14b56b6bd886cc716c01f91308940d3b53f9a23edc39320da1dd171b4"
     }
   ],
-  "blinded_main_references_identical": true
+  "blinded_main_references_identical": true,
+  "citation_checker_version": "2026-10-11-r4",
+  "version_scope": "Editorial document identity synchronization; scientific analysis remains 2026-10-11-r4.",
+  "citation_checker_sha256": "b6424a7594518044affa50b67a5e77097bd79c2f7a1a68025202ea8127d4d937",
+  "blinded_document_checks": {
+    "separate_blind_main_and_supplementary_audit_passed": true,
+    "main_reference_entries_identical": true,
+    "main_citation_key_frequencies_identical": true,
+    "supplementary_citation_key_frequencies_identical": true,
+    "main_reference_count": 32,
+    "main_references_cited": 32,
+    "main_sha256": "df122cdb8ec0f4314109be8603526a7719d5e8944361b49a67e6fb4b2d2ecd4e",
+    "supplementary_sha256": "66b614f14b56b6bd886cc716c01f91308940d3b53f9a23edc39320da1dd171b4"
+  }
 }

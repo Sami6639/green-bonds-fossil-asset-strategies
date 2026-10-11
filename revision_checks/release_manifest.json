@@ -1,233 +1,97 @@
 {
-  "version": "2026-10-11-r4",
+  "version": "2026-10-11-r5",
   "release_date": "2026-10-11",
-  "source_baseline_commit": "cac55d2563d998c3291da486bd7280b086970fc9",
+  "source_baseline_commit": "d634b5fb71390a6ddcb002de761346a622253b20",
+  "source_baseline_tree": "54d04ce726379b6a9cb81d8b1bef418091fe37be",
+  "scientific_analysis_version": "2026-10-11-r4",
   "earlier_expanded_scientific_baseline_commit": "484d3b801fcd1441d6e2070a7889d733b43cc326",
+  "manuscript_identity_record": "revision_checks/manuscript_identity.json",
   "associated_documents": [
     {
       "role": "main",
-      "filename": "Green_Bond_Financing_and_Fossil_Asset_Strategies.docx",
-      "sha256": "bb3ae3ee69e6d8e994457d7ccee5a711f6c2b5bb2b1f93dbf51e3733a014e96b",
+      "filename": "Green_Bonds_and_Corporate_Energy_Transition.docx",
+      "bytes": 1257942,
+      "sha256": "a5b2fcc16019d9e798bcea99d3fb7e1521a00861acae9c950670b31da525aada",
       "distributed_with_repository": false
     },
     {
       "role": "supplementary",
       "filename": "Supplementary_Information.docx",
-      "sha256": "87601f87e51dc5869f949184dd24d99b9bec0f21d0ed82834234bd97238e3b46",
+      "bytes": 89999,
+      "sha256": "8d3c3985bf868550964ede00aae763b3794b01a42ee0ad88c31cc26839bc6e5e",
       "distributed_with_repository": false
     },
     {
       "role": "blind_main",
       "filename": "BSE_Blinded_Main_Manuscript.docx",
-      "sha256": "05dd2a93a94e2e42c41cef65701c67a9af27291c67df58e705a26591e2c862e1",
+      "bytes": 56368,
+      "sha256": "df122cdb8ec0f4314109be8603526a7719d5e8944361b49a67e6fb4b2d2ecd4e",
       "distributed_with_repository": false
     },
     {
       "role": "blind_supplementary",
       "filename": "Supplementary_Information_Blinded.docx",
-      "sha256": "232fab1ed087f4aad43431639e720bd48976352a2286c5c142a1aa76d1b5a86a",
+      "bytes": 86955,
+      "sha256": "66b614f14b56b6bd886cc716c01f91308940d3b53f9a23edc39320da1dd171b4",
+      "distributed_with_repository": false
+    },
+    {
+      "role": "title_page",
+      "filename": "BSE_Title_Page_1.docx",
+      "bytes": 37540,
+      "sha256": "72cfed7be2598ba367cc9e9fe062cd8ded22d47cd4598da6927fe382374532b3",
+      "distributed_with_repository": false
+    },
+    {
+      "role": "author_information",
+      "filename": "BSE_Title_Page_2_Author_Information.docx",
+      "bytes": 37310,
+      "sha256": "691c87673df960cab2d6b87f7cc9605bef8cc73fccd2cccba4389e7468150705",
+      "distributed_with_repository": false
+    },
+    {
+      "role": "blinded_si_and_separate_figures",
+      "filename": "BSE_Separate_Figures_and_Blinded_SI.zip",
+      "bytes": 1278357,
+      "sha256": "51f86bd56214e45130eb199507848d394d497c3687b7bc8e562f6c6db6f73a9b",
       "distributed_with_repository": false
     }
   ],
   "revised_repository_files": [
     {
       "path": "README.md",
-      "sha256": "e89980d3a65d1f97737abcdade27952696d336380088ddcbc56c66e2706aec92"
+      "bytes": 8327,
+      "sha256": "9635df5130b5d88dc6bfa49353de337bef76716d66f61e21490aee86134c9c9d",
+      "git_blob_sha": "87cb4f7094039d7bf12359d95caee6ab816d9280"
     },
     {
       "path": "revision_checks/README.md",
-      "sha256": "cf77e9e3c2df8ad2eb392847a0f202e47e28cc902a14f559fabbc2a0454e29c4"
-    },
-    {
-      "path": "revision_checks/apply_interpretation_corrections.py",
-      "sha256": "f83afd64d9829c291cff2e10ad451edb173a6a5c4ee95a0ff390e8802042337a"
-    },
-    {
-      "path": "revision_checks/build_revision_checks.py",
-      "sha256": "d604e651847ae75019233d329a8c45bd13139e845be41f3da47aeec9d5bc7900"
-    },
-    {
-      "path": "revision_checks/check_final_citations.py",
-      "sha256": "b6424a7594518044affa50b67a5e77097bd79c2f7a1a68025202ea8127d4d937"
-    },
-    {
-      "path": "revision_checks/corrected_output_manifest.json",
-      "sha256": "9ce79d24de3c0b7af0a6e429c47191635ce52fcc52773b0fbbe412a54b712c35"
+      "bytes": 10971,
+      "sha256": "2fe9118ba43b616ba7b601bb4a6a18d73674198a733927de8e3d2e3999b8a96a",
+      "git_blob_sha": "8b7d5d6d9814c51d14b404059f660a2bb5dca3f2"
     },
     {
       "path": "revision_checks/final_citation_check.json",
-      "sha256": "d88572d32941e6093415aa4f7dea37ef3f2f4d7f5ddc1b7097c2c591dc278b3e"
+      "bytes": 26763,
+      "sha256": "60f753c433775a7f2a3599fbdcec131f870063a00afd8c962690b30ba1947576",
+      "git_blob_sha": "d2cde6ac568bb00aacd1999e9367143f4229f50c"
     },
     {
-      "path": "revision_checks/final_code_validation.json",
-      "sha256": "1fc57e0c9d86f64b5071ac3a9791707dcf71c3b5bfc4173e9849a3ed2b8bcef4"
-    },
-    {
-      "path": "revision_checks/invariant_checks.json",
-      "sha256": "a36db941c92c74e706d0d02a45dab07b1ddd7cd273557fa4b41686f4f3a065f3"
-    },
-    {
-      "path": "revision_checks/literature/bibliography_live_refresh.csv",
-      "sha256": "f9bc2d0d5438a41ef92091cb761fc814d4c7ff5a0272ff90191c966794141c27"
-    },
-    {
-      "path": "revision_checks/literature/bibliography_live_refresh.json",
-      "sha256": "e23ddbac3ff834b5a1edfd488cfabb2d97606679bda526b28f64364a516f55eb"
-    },
-    {
-      "path": "revision_checks/literature/crossref_coen.json",
-      "sha256": "c4847cafcfd5351106be4d82e5453ae5431624f151683da79de43e9a2f43e608"
-    },
-    {
-      "path": "revision_checks/literature/crossref_flammer.json",
-      "sha256": "f933f899798dfa3cbf68bf5e95b1ed7b445f6b9f0b714cb7873157d1bd5ff3a2"
-    },
-    {
-      "path": "revision_checks/literature/crossref_petreski.json",
-      "sha256": "f47b3d01877aa12477a2c64314eab6a27f09da0de8383ecb4a89ada1e2544c67"
-    },
-    {
-      "path": "revision_checks/literature/crossref_zhou.json",
-      "sha256": "4bf24c343049085e5e6526cef7ee00a2fa07d01ec60ff0f687abe30c5c720636"
-    },
-    {
-      "path": "revision_checks/literature/literature_verification_summary.txt",
-      "sha256": "fa87989e647d8315b73701f9c7707cc3eec99c35c3a41d6e66841fd8cdac77fe"
-    },
-    {
-      "path": "revision_checks/literature/precursor_contribution_matrix.csv",
-      "sha256": "031ee3ec6b312bd25c590990e3413f6fc90cf3b52c6d16fb008fc0d86e582ef9"
-    },
-    {
-      "path": "revision_checks/literature/precursor_contribution_matrix.json",
-      "sha256": "09e7a09b94aa35fa7248f124b87d348a850b07c7c4cdf5c76747baf6f55e672b"
-    },
-    {
-      "path": "revision_checks/reproduction_log.json",
-      "sha256": "9c08400f50d42e93174c36ef863a1f3f5a0e8c9dce6828c23196a485527ad4df"
-    },
-    {
-      "path": "revision_checks/revision_checks_apply_interpretation_corrections.py.log",
-      "sha256": "cda8738201fb333298a015cb19e5cd102f22374b861b97215a817067e5ce461d"
-    },
-    {
-      "path": "revision_checks/revision_checks_build_revision_checks.py.log",
-      "sha256": "76e76c07c8bc4e5fb81827e6e3b9878b4716c64318a34694fc3e256b36d41168"
-    },
-    {
-      "path": "revision_checks/revision_checks_stage_weight_decomposition_build_stage_weight_decomposition.py.log",
-      "sha256": "d2febcf727cf9c632dd2838354b807eca4ea0b686af5b9ce5b8ef2e9a6adb5c5"
+      "path": "revision_checks/manuscript_identity.json",
+      "bytes": 1694,
+      "sha256": "64f79051b0b967340223ba777dab10b7039e51f7cbbd0d81610a544dc00f82bb",
+      "git_blob_sha": "d702fa28d3df7f7570ccba94196399ed1507e6f3"
     },
     {
       "path": "revision_checks/revision_file_manifest.json",
-      "sha256": "1f6958513c06bb91f042ac36456806dee4b091d3e7271106ff9fc2f30ab14e99"
-    },
-    {
-      "path": "revision_checks/run_reproduce.py.log",
-      "sha256": "182ecac6968f448696baee1bac069dcad92eacf58a9dfe52bcf3cdedd7b386d2"
-    },
-    {
-      "path": "revision_checks/seven_history_linkage_matrix.csv",
-      "sha256": "2b56f20945bc9efc7bf30c311c81dbc5e443eeb51407b8113aca094845ee1181"
-    },
-    {
-      "path": "revision_checks/source_audit/critical_source_review.csv",
-      "sha256": "5c3917d00e89642044b91ab612e2958a387e5719c3b3556ad4ca6b7284681228"
-    },
-    {
-      "path": "revision_checks/source_audit/evidence_link_definitions.json",
-      "sha256": "dc0ff69c0cf3e7a869fe08a7dae3b6f0686eb1d20714709a96d571ce6b7ed8d1"
-    },
-    {
-      "path": "revision_checks/source_audit/source_inspection_scope.csv",
-      "sha256": "c05065611b17b359a6b3c74512859e4190cc4fa1083c671a326de272f8784b5c"
-    },
-    {
-      "path": "revision_checks/source_audit/source_review_calculations.json",
-      "sha256": "f529504329da64980e1b7d81f3efd1e36fe88c9be6657d149ba6338b32704e6d"
-    },
-    {
-      "path": "revision_checks/source_audit/source_review_validation.json",
-      "sha256": "5c80a7439930fbfe9dc93639fa6e7b2f86c09de75b1569c6d89ea312acade106"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/README.txt",
-      "sha256": "5b2a4b1d908eab845e5a18ccadbfa0485d1cd6c526765d536e010a11c5b4c313"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/build_stage_weight_decomposition.py",
-      "sha256": "4fd4f7a1934ad3978bba0e4a88de6983c56cc978485163b3605ffbe84bd2866f"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/inputs/baseline_figure_3_plot_data.csv",
-      "sha256": "11de0a070733b69057fc7f8bb0263b01d09410478c36b52d1c371ee77432601a"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/inputs/input_provenance.json",
-      "sha256": "d852384460c8b09433262db2d7e4f35b3768777bc3aad7939df7ceb034eb6ead"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/inputs/source_verification.csv",
-      "sha256": "4f894efb751eeb7ccb43403b5cf9d2271163c3e010d34ab47383601ffcfd845f"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/inputs/sse_2023_gb5_project_rows.csv",
-      "sha256": "e131b5e66620e6cd1b94d888c25e38aa74c24cbc2c7a23f224e85d84bc4c9643"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/inputs/sse_2024_bond_project_rows.csv",
-      "sha256": "1de383866979c960f21dbc3119c65d3495b7ab20efeaf8ec830023ce56aa3c25"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/inputs/sse_actual_milestones.csv",
-      "sha256": "2d5bab828e684abc87b53f25921556ee64386a168fdee72d7f3d95117997adee"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/inputs/wec_project_stage_panel.csv",
-      "sha256": "70cb7c5577c0b7a8693adaf14ba88b06cbf381b6381a3ec0d7fbd8478b86ab1e"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/outputs/exact_fraction_results.json",
-      "sha256": "852cdfaa7f27ef9aec0fd4ce7071a672a775767fbe1d1d000f875c0781baaa0e"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/outputs/project_contributions.csv",
-      "sha256": "dc923665a57536f6e2f3795cce71872e5bc858dadf3fb4c8a2dca2e7f30b9b4d"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/outputs/project_cutoff_inputs.csv",
-      "sha256": "46e8a814dc286bd1cfb8c06bf5e1c4e65408015c432c2041a79710cc103e3554"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/outputs/recomputed_cutoff_shares.csv",
-      "sha256": "6e3eaff8e63366243ecbc2dc2c097dc6421fc83565a0b4b179eedebb79cf7649"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/outputs/stage_weight_decomposition.csv",
-      "sha256": "9a02c333ec3e7998dfb9d858871d60a71f1f734552cbedbf33907466db7c5f5c"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/outputs/stage_weight_si_table.csv",
-      "sha256": "a8a0ad9eadd969055ec0c607269da37edf568033f41e8c0b2b2ec9809aa8a4e4"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/outputs/validation_and_provenance.json",
-      "sha256": "279d42d1ce4b7db025e4c662c4f4828b3234c18ccb01790e48184523e8445f01"
-    },
-    {
-      "path": "revision_checks/stage_weight_decomposition/outputs/validation_checks.csv",
-      "sha256": "de1df0e8a730ab8352303859562ebc0155a3c806ebcba3e646f124c976f86ca1"
-    },
-    {
-      "path": "revision_checks/technical_summary.json",
-      "sha256": "13b3fb06a20b57877fcbf0ad29e86423714a9d2bb07ee50639de1bf1ef1cafd6"
-    },
-    {
-      "path": "run_all.py",
-      "sha256": "eb13c664a4d457959d2a989c761c4a6477b511b5d0165d25800234840e36a72a"
+      "bytes": 878,
+      "sha256": "1de41c5c47d0e988de09839ca0f72ea3bffbab61253d70a5242488a403640b84",
+      "git_blob_sha": "f1cb4e3176cd4ac58f6bb45607fc18f25f426dc3"
     }
   ],
-  "scope": "Additive reproducibility and bounded-verification revision. The associated Word documents, original issuer reports, literature PDFs and source page images are not redistributed. Existing scientific outputs and frozen inputs are preserved.",
-  "verification_boundary": "Exact computational checks and documented AI-assisted source reinspection. No independent human coding, agreement coefficient, new causal estimate, archival DOI or permanent tag is claimed.",
-  "licensing": "No new licence granted by this revision."
+  "scope": "Editorial document-identity synchronization only. The authoritative main manuscript bytes are retained. Companion documents, current README title, manuscript identity, word counts and actual-file citation records are synchronized. No new scientific analysis or analytical rerun was performed.",
+  "unchanged": "All scientific code, source-derived input data, numerical outputs, figures, historical verification logs and original package checksums remain as published at the source baseline commit. Historical titles and technical version labels remain in their historical records.",
+  "verification_boundary": "Exact document hashes, current author-year and bibliography consistency, normal/blinded citation parity and bounded supplementary-candidate review. No fresh live source audit, independent human verification, new causal estimate, archival DOI or permanent tag is claimed.",
+  "distribution_boundary": "Associated Word documents and submission ZIP are supplied separately; original issuer reports, literature PDFs and source page images are not redistributed.",
+  "licensing": "No new licence granted by this synchronization."
 }

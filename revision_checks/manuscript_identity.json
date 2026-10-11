@@ -1,0 +1,31 @@
+{
+  "version": "2026-10-11-r5",
+  "version_scope": "Editorial identity synchronization",
+  "scientific_analysis_version": "2026-10-11-r4",
+  "source_baseline_commit": "d634b5fb71390a6ddcb002de761346a622253b20",
+  "manuscript_title": "Green Bonds and Corporate Energy Transition: Asset Reconfiguration in Electric Utilities",
+  "title_source": "Visible first paragraph of the authoritative main document",
+  "main_filename": "Green_Bonds_and_Corporate_Energy_Transition.docx",
+  "main_sha256": "a5b2fcc16019d9e798bcea99d3fb7e1521a00861acae9c950670b31da525aada",
+  "main_bytes": 1257942,
+  "main_document_has_technical_version_marker": false,
+  "keywords": [
+    "Corporate sustainability",
+    "Electric utilities",
+    "Energy transition",
+    "Fossil fuels",
+    "Green bonds",
+    "Sustainable finance"
+  ],
+  "keyword_count": 6,
+  "abstract_words_whitespace": 142,
+  "abstract_words_punctuation_split": 147,
+  "main_words_including_tables_captions_and_math_excluding_references_whitespace": 7767,
+  "main_words_including_tables_math_and_references_whitespace": 8643,
+  "word_count_method": "Whitespace tokens after joining distinct Word paragraphs with spaces, including table-cell paragraphs and editable equation text; pre-References body includes title, abstract, keywords and captions.",
+  "reference_count": 32,
+  "synchronization_scope": "Associate the current title, abstract, keywords and editorial manuscript text with the companion documents and repository records. The supplied main document is unchanged by this synchronization.",
+  "analytical_code_data_outputs_figures_unchanged": true,
+  "analytical_rerun_performed": false,
+  "documents_distributed_with_repository": false
+}

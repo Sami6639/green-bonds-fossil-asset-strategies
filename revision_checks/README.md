@@ -1,6 +1,6 @@
 # Reproducibility and verification checks
 
-Version: 2026-10-11-r4. This is a technical package identifier, not an archive DOI or Git tag. The immediate published baseline is commit cac55d2563d998c3291da486bd7280b086970fc9; the earlier expanded scientific baseline is 484d3b801fcd1441d6e2070a7889d733b43cc326. This additive revision preserves frozen inputs, original package checksums, and earlier workflows. release_manifest.json identifies the exact associated normal and blinded Word files; the files themselves are not redistributed in this repository.
+Current document synchronization: 2026-10-11-r5. This is a technical identity-record identifier, not an archive DOI or Git tag. The immediate published baseline is commit d634b5fb71390a6ddcb002de761346a622253b20; the earlier expanded scientific baseline is 484d3b801fcd1441d6e2070a7889d733b43cc326. This editorial update synchronizes the latest title, manuscript and companion-file identities, word counts and final citation records. The manuscript itself has no technical version marker. The scientific analysis remains 2026-10-11-r4: code, data, numerical outputs, figures, original package checksums and historical verification logs are unchanged. No analytical rerun was needed or performed. release_manifest.json identifies the exact associated Word files, which are supplied separately and are not redistributed in this repository.
 
 ## Reproduction
 
@@ -14,9 +14,9 @@ From the repository root, install the pinned dependencies with `python -m pip in
 6. `python revision_checks/build_revision_checks.py`: rebuilds selection, illustrative timing, economic-magnitude and invariant checks.
 7. `python revision_checks/stage_weight_decomposition/build_stage_weight_decomposition.py`: calculates the exact two-date SSE/WEC stage and weight components using disclosed reporting entries, cutoff-specific denominators and achieved-operation codes.
 
-`reproduction_log.json` records the commands, exit codes, environment and all pre-existing CSV comparisons. `final_code_validation.json` separately records unchanged r3 CSV results and frozen-file hashes, exact decomposition checks and a repeated-run determinism test. Runtime timestamps and PDF metadata need not be byte-identical. Reproduction uses the included source-derived records and does not retrieve or independently interpret original issuer reports. The test is not described as network-isolated.
+`reproduction_log.json` retains the r4 commands, exit codes, environment and pre-existing CSV comparisons. `final_code_validation.json` separately records unchanged r3 CSV results and frozen-file hashes, exact decomposition checks and a repeated-run determinism test. Runtime timestamps and PDF metadata need not be byte-identical. Reproduction uses the included source-derived records and does not retrieve or independently interpret original issuer reports. The test is not described as network-isolated.
 
-The new [decomposition guide](stage_weight_decomposition/README.txt) documents inputs, equations and source-review limits. Its `outputs/stage_weight_decomposition.csv` reports case-level changes and `outputs/project_contributions.csv` reports project contributions. Exact fractions reconcile both components to the observed share change with zero residual. Missing stages, missing amounts and unmatched membership stop the analysis rather than being imputed. The Paris solar/battery entry remains unsplit.
+The r4 [decomposition guide](stage_weight_decomposition/README.txt) documents inputs, equations and source-review limits. Its `outputs/stage_weight_decomposition.csv` reports case-level changes and `outputs/project_contributions.csv` reports project contributions. Exact fractions reconcile both components to the observed share change with zero residual. Missing stages, missing amounts and unmatched membership stop the analysis rather than being imputed. The Paris solar/battery entry remains unsplit.
 
 `seven_history_linkage_matrix.csv` separates the available financial, project, monetary-weight, achieved-stage, ownership and timing evidence. `source_audit/evidence_link_definitions.json` defines relational labels, which are neither quality scores nor a ranking. `source_audit/critical_source_review.csv` and `source_audit/source_inspection_scope.csv` record bounded reinspection and the actual text/page-image coverage. These are AI-assisted checks, not independent human coding, and no inter-coder agreement statistic is claimed. Original issuer reports and page images are not redistributed.
 
@@ -24,7 +24,7 @@ The bounded precursor comparison is recorded in `literature/precursor_contributi
 
 ## Final-file identity and citations
 
-`final_citation_check.json` is regenerated from the actual final main and supplementary Word files, with blinded-file identities and the final bibliography comparison. To repeat the internal citation check on your copies, run:
+`manuscript_identity.json` records the current title, six keywords, count definitions and exact main-file identity. `final_citation_check.json` is regenerated from the actual current main and supplementary Word files, with normal/blinded citation comparisons and final bibliography matching. The unchanged citation-checking script retains its r4 method/version label; the r5 audit records that provenance separately from this synchronization identifier. To repeat the internal citation check on your copies, run:
 
 ```
 python revision_checks/check_final_citations.py --main /path/to/main.docx --supplementary /path/to/supplementary.docx --blind-main /path/to/blinded-main.docx --blind-supplementary /path/to/blinded-supplementary.docx
