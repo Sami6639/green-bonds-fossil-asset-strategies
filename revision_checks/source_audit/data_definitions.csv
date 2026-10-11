@@ -1,0 +1,16 @@
+field_or_concept,definition,missingness_or_boundary
+record_id / stage_record_id / event_record_id,Stable provenance join key;not an independent observation count.,Missing key blocks safe linkage;do not fabricate.
+group_id / legal_issuer,Group mapping and legal issuing entity differ;retain both.,Unknown issuer identity blocks claimed exact-instrument match.
+instrument_or_pool_id / instrument_id_basis,Identified instrument or explicitly supported pool boundary;local scope key is not an ISIN.,Missing identity is not generic issuer-level continuity.
+value_raw / value_numeric / unit / currency,Preserve source representation and numeric conversion;units and currencies travel with values.,"Blank,NA,not disclosed andunknown are missing;0 is only a supported numeric zero."
+measure_class / financial_value_basis,"Separate issuance,outstanding liability,cumulative allocated stock and expenditure flow.",Do not sum repeated stocks as annual flows.
+source_reporting_cutoff / source_period_start / source_period_end,State observation cutoff separately from expenditure period and publication date.,Unknown period cannot be equated with report year.
+allocated_amount / allocated_usd_million,Disclosed amount assigned to a matched reporting entry at a cutoff.,Missing amount is not0;no synthetic split of bundled projects.
+total_allocated_usd_million / gb5_allocation_total_gbp_m,"Reported allocated stock at that same cutoff,not face value,total project capex or generation.",Unknown or zero denominator prevents stage-share calculation.
+allocation_weight,Entry amount divided by same-cutoff reported allocated stock.,Do not renormalize over only observed entries when coverage is incomplete.
+fully_operating_indicator,1 if source confirms full operation by cutoff;0 if evidence establishes not-yet-full operation.,Unknown stage remainsNA;absence of a milestone alone is not0.0 can coexist with generation.
+stage_effective_date / implementation_status,Achieved milestone date and stage;forecasts and publication dates kept distinct.,Incomplete date bounded byprecision;do not backfill future achievement.
+allocation residual e,Reported stock minus sum of disclosed entry amounts;positive if reported total exceeds line sum.,Not calculated as complete when entry amounts are missing;residual is not an invented project or operating allocation.
+capacity residual E,Closing minus opening comparable capacity minus supported signed bridge terms.,Incomplete gross-event coverage prevents a fully explained bridge;arithmetic cancellation is not complete event capture.
+event_family / presence_state,Bounded documentary presence across retained asset types;families are nonexclusive.,"not_documented_unknown means no qualifying retained evidence,not event absence."
+source_url / source_locator / verification_status,"Primary-source location and current inspection scope,distinct from script reproducibility.",Historical verified labels do not prove a fresh review;access failures recorded explicitly.

@@ -1,0 +1,208 @@
+{
+  "status": "CLOSED_INTAKE_AUDITED_ANALYTICAL_SNAPSHOT",
+  "build_script_sha256": "465e46840ced8df98245a540398b1884876f65fb40c53b2cefcab5608d0853fe",
+  "source_files": 18,
+  "canonical_records": 4857,
+  "issuer_label_groups": 49,
+  "physical_category_candidate_windows": 206,
+  "joint_candidate_label_groups": 29,
+  "joint_candidate_groups_with_bounded_event_search": 29,
+  "reviewed_regional_windows": 64,
+  "reviewed_joint_candidate_label_groups": 39,
+  "reviewed_provisional_evidence_pass_label_groups": 37,
+  "regional_window_or_numeric_label_count": 64,
+  "documented_WBA_frame_rows": 68,
+  "remaining_WBA_first_pass_records": 37,
+  "additional_candidate_coverage_records": 49,
+  "provisionally_admitted_groups": 37,
+  "principal_fuel_identified_groups": 33,
+  "matched_thermal_proxy_extension_groups": 4,
+  "final_verified_admitted_groups": 37,
+  "rq1_candidate_pairs": 122,
+  "rq2_linked_stage_rows": 4,
+  "checks": {
+    "regression_Dominion_200MW_not_monetary": true,
+    "regression_Dominion_62MW_not_monetary": true,
+    "regression_valid_USD_allocation_is_monetary": true,
+    "regression_project_count_not_monetary": true,
+    "all_linked_finance_has_monetary_unit": true,
+    "all_reviewed_finance_has_monetary_unit": true,
+    "unique_record_ids": true,
+    "unique_window_ids": true,
+    "physical_pairs_same_unit": true,
+    "no_window_end_after_2024": true,
+    "no_zero_fill": true,
+    "no_currency_conversion_or_pooling": true,
+    "raw_input_hashes_unchanged": true
+  },
+  "interpretation": "Category window rows are not independent groups or aggregate fossil windows. Closed-intake independent group and boundary audit supports the reported tier counts. Qualified scopes and question-specific exclusions persist; not a submission-readiness assessment."
+}
+{
+  "unique_group_row_check": true,
+  "selected_group_rows": 37,
+  "group_rows_eligible_broad_matched": 37,
+  "principal_group_rows": 33,
+  "matched_proxy_extension_group_rows": 4,
+  "broad_matched_group_rows": 37,
+  "canonical_admission_status_is_not_recomputed": true,
+  "missing_fossil_aggregate_groups": [],
+  "missing_same_window_RE_aggregate_groups": [
+    "esb"
+  ],
+  "strict_storage_exclusion_confirmed_groups": [
+    "aes_corporation",
+    "colbun_s_a",
+    "constellation_energy",
+    "dte_energy",
+    "jsw_energy",
+    "nextera_energy",
+    "ratch_group",
+    "taipower"
+  ],
+  "source_reported_RE_only_groups": [
+    "ameren",
+    "american_electric_power",
+    "cfe",
+    "china_huaneng",
+    "chn_energy",
+    "clp",
+    "duke_energy",
+    "edf",
+    "edp",
+    "eletrobras",
+    "enbw",
+    "enel",
+    "engie",
+    "genesis_energy_limited",
+    "global_power_synergy_gpsc",
+    "iberdrola",
+    "j_power_electric_power_development",
+    "kansai_electric_power",
+    "naturgy",
+    "ontario_power_generation",
+    "pampa_energ_a",
+    "rwe",
+    "shikoku_electric_power",
+    "sse",
+    "statkraft",
+    "tohoku_electric_power",
+    "vattenfall",
+    "wec_energy_group"
+  ],
+  "fuel_identified_sensitivity_group_rows": 33,
+  "boundary_audit_missing_groups": [],
+  "no_inferential_statistics": true,
+  "no_zero_filling": true,
+  "no_capacity_generation_substitution": true,
+  "no_cross_group_MW_sum": true,
+  "no_independent_count_of_components_events_or_robustness_windows": true,
+  "input_changes_during_build": []
+}
+{
+  "status": "PASS",
+  "checks": 1986,
+  "failed_checks": 0,
+  "endpoint_source_arithmetic_recomputations": 158,
+  "issues": [],
+  "scope": "Derived CSV arithmetic, units, within-group window identity, source-link presence, timing bounds and leave-one-out denominators. Original document extraction and parent admissions remain independently auditable."
+}
+{
+  "figures": [
+    "Figure_1_Global_Capacity_Directions",
+    "Figure_2_Materiality_Sensitivity",
+    "Figure_3_Allocation_Associated_Operation"
+  ],
+  "qa": {
+    "broader_matched_groups": 37,
+    "principal_fuel_identified_groups": 33,
+    "matched_thermal_proxy_groups": 4,
+    "source_precision_directions": "{('decrease', 'decrease'): 2, ('decrease', 'unchanged_at_reported_precision'): 1, ('increase', 'decrease'): 19, ('increase', 'increase'): 10, ('increase', 'unchanged_at_reported_precision'): 2, ('unchanged_at_reported_precision', 'decrease'): 1, ('unchanged_at_reported_precision', 'unchanged_at_reported_precision'): 1, ('unresolved', 'increase'): 1}",
+    "storage_excluded_RE_groups": 8,
+    "paired_denominators": {
+      "fuel_identified_comparator_subset": 32,
+      "reported_source_boundary": 36,
+      "strict_storage_excluded_subset": 8,
+      "clean_wind_solar_components": 11
+    },
+    "one_row_per_selected_group": true,
+    "sign_bands_recomputed_and_match": true,
+    "counts_reconcile_to_denominators": true,
+    "stage_shares_recomputed": true,
+    "sse_milestones_match_classification": true,
+    "no_pooled_mw": true,
+    "no_image_titles": true,
+    "all_visible_text_inside_image_bounds": true,
+    "automatic_checks_passed": true,
+    "visual_QA": "Pending human-readable rendered image inspection; see visual_qa.json when complete."
+  }
+}
+{
+  "status": "pass",
+  "input_hashes_unchanged": true,
+  "one_group_per_window": true,
+  "band_counts_independently_reconciled": true,
+  "no_proxy_in_principal_or_clean_subsets": true,
+  "stage_percentages_independently_reconciled": true,
+  "broader_groups": 37,
+  "principal_groups": 33,
+  "PNG_dimensions": {
+    "Figure_1_Global_Capacity_Directions": {
+      "pixels": [
+        1950,
+        2308
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    "Figure_2_Materiality_Sensitivity": {
+      "pixels": [
+        1950,
+        2130
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    "Figure_3_Allocation_Associated_Operation": {
+      "pixels": [
+        1950,
+        1470
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    }
+  },
+  "artifacts": {
+    "Figure_1_Global_Capacity_Directions.png": {
+      "sha256": "4dac084a440e072557b069f616cebfb8d912ff081d5034f08d796ce31bef8e8a",
+      "bytes": 717072
+    },
+    "Figure_1_Global_Capacity_Directions.pdf": {
+      "sha256": "36e8638c7a3e1b077f8dde00e7bb7c99b304f2f34672bf150a57b16ab5b96be8",
+      "bytes": 29392
+    },
+    "Figure_2_Materiality_Sensitivity.png": {
+      "sha256": "3a994c14684a3b2008b815f86faa82cb1b621fc6128c80936485612398bc3935",
+      "bytes": 262889
+    },
+    "Figure_2_Materiality_Sensitivity.pdf": {
+      "sha256": "76e8551db3de32ae9d2830f950dbb395c748126ccce3f2eb4eedda38cde37949",
+      "bytes": 39968
+    },
+    "Figure_3_Allocation_Associated_Operation.png": {
+      "sha256": "3225832b54a3c6f3181c4f768e587f4d3ad7a223d93537cabf7d2cf59d92f333",
+      "bytes": 214788
+    },
+    "Figure_3_Allocation_Associated_Operation.pdf": {
+      "sha256": "98f04801c4415391b2bf87cdd4367f46d996925d6b8825addc3bf34d10750c0d",
+      "bytes": 24679
+    }
+  }
+}
+
+STDERR

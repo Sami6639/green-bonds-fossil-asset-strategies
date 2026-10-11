@@ -1,0 +1,5 @@
+cutoff,project,amount_usd_m,reported_total_usd_m,net_proceeds_usd_m,weight,fully_operating_indicator,allocation_source_page,milestone_source,milestone_date,meaning
+2023-06-30,Badger Hollow II Solar,96.7,281.7,495.7,0.34327298544550944,0,1,PSC 5-UR-111 p70,2023-12-22,"Cumulative eligible disbursement from 2020-10-01; stage denominator uses disclosed allocated total, not net proceeds."
+2023-06-30,Paris Solar/Battery,185,281.7,495.7,0.6567270145544907,0,1,WEPCO 2024 Form10-K Solar and Battery Storage,2024-12 solar only; 2025 battery forecast,"Cumulative eligible disbursement from 2020-10-01; stage denominator uses disclosed allocated total, not net proceeds."
+2024-06-30,Badger Hollow II Solar,147.4,440.5,495.7,0.33461975028376845,1,1,PSC 5-UR-111 p70,2023-12-22,"Cumulative eligible disbursement from 2020-10-01; stage denominator uses disclosed allocated total, not net proceeds."
+2024-06-30,Paris Solar/Battery,293.1,440.5,495.7,0.6653802497162316,0,1,WEPCO 2024 Form10-K Solar and Battery Storage,2024-12 solar only; 2025 battery forecast,"Cumulative eligible disbursement from 2020-10-01; stage denominator uses disclosed allocated total, not net proceeds."

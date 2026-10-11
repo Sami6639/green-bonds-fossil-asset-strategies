@@ -4,6 +4,22 @@ Data and code for a source-linked, purposive archival study of utility financing
 
 The evidence supports descriptive comparisons within reported scopes. It does not establish causal financing effects, financing additionality or population-wide prevalence. Capacity changes are not equated with physical plant closures, and companies are not ranked.
 
+**Current verified version: BSE-2026-10-11-r3**
+
+The revised manuscript and Supplementary Information use this version identifier. To reproduce the complete current analysis, install [requirements.txt](requirements.txt), then run from the repository root:
+
+```text
+python run_all.py
+```
+
+The unified command runs the base panel and figure workflow, both supplementary modules, the documented interpretation correction, and the revision checks. It preserves frozen source inputs while ensuring that current derived outputs describe the unresolved Constellation USD1 million reconciliation difference without attributing an unverified rounding explanation to the issuer. Numerical results are unchanged.
+
+The [revision guide](revision_checks/README.md) records dependencies, commands, expected outputs and validation limits. Its selection, timing and economic-magnitude tables complement the main results; shorter-window examples are illustrative fossil comparisons, not a new uniform paired-sample test. The [source-coding audit](revision_checks/source_audit/targeted_source_semantic_audit.csv), [primary-copy provenance](revision_checks/source_audit/uploaded_source_provenance.json), [reference audit](revision_checks/reference_audit.csv) and [contribution comparison](revision_checks/contribution_matrix.md) document the targeted checks. Primary issuer PDFs and full-text extracts are not redistributed.
+
+**Earlier component commands**
+
+The component commands below remain available for inspection and partial reproduction. Use `run_all.py` for the current complete release, including the final interpretation corrections.
+
 **Current expanded analysis**
 
 - [Analytical panel guide](analysis_panel/README.txt): scope, eligibility, measurement boundaries and limitations.
@@ -41,4 +57,8 @@ The modules use their included frozen inputs and regenerate their comparison and
 **Earlier release and repository history**
 
 The earlier three-core Enel, Iberdrola and SSE analysis remains available in [PACKAGE_README.txt](PACKAGE_README.txt), [main_exhibits/](main_exhibits/) and [joint_strategy/](joint_strategy/). Its historical workflow uses run_analysis.py and validate_package.py. These are retained for provenance and are separate from the expanded reproduction entry point. Earlier files and documentation can also be inspected through the repository's Git history; legacy outputs should not be mixed with the current expanded results.
+
+**Use and redistribution**
+
+This update grants no new blanket licence over the code, derived records or third-party material. Public access is not a substitute for a reuse licence. Applicable rights and any existing file-specific terms remain in force; users should obtain permission where required. Corporate reports remain linked to their issuers rather than distributed under repository terms. No archival DOI or permanent release tag is claimed for this version.
 

@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "version": "BSE-2026-10-11-r3",
+  "commands": [
+    {
+      "command": "python run_reproduce.py",
+      "exit_code": 0,
+      "elapsed_seconds": 4.217,
+      "log": "revision_checks/run_reproduce.py.log"
+    },
+    {
+      "command": "python strategy_comparison/build_theory_evidence.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.401,
+      "log": "revision_checks/strategy_comparison_build_theory_evidence.py.log"
+    },
+    {
+      "command": "python decision_rationales/build_audit.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.285,
+      "log": "revision_checks/decision_rationales_build_audit.py.log"
+    },
+    {
+      "command": "python decision_rationales/build_evidence.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.268,
+      "log": "revision_checks/decision_rationales_build_evidence.py.log"
+    },
+    {
+      "command": "python revision_checks/apply_interpretation_corrections.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.077,
+      "log": "revision_checks/revision_checks_apply_interpretation_corrections.py.log"
+    },
+    {
+      "command": "python revision_checks/build_revision_checks.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.453,
+      "log": "revision_checks/revision_checks_build_revision_checks.py.log"
+    }
+  ],
+  "csv_comparison": {
+    "compared_files": 94,
+    "byte_identical_files": 94,
+    "changed_files": []
+  },
+  "note": "Final six-stage rerun after reporting-wording correction; this idempotence check starts from already-corrected output, so all 94 downstream CSVs match. Initial clean baseline and intended seven narrative changes remain documented in reproduction_log.json."
+}

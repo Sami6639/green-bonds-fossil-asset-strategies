@@ -1,0 +1,19 @@
+{
+  "file": "Green_Bond_Financing_and_Fossil_Asset_Strategies.docx",
+  "sha256": "70e000ae44d7a9c0543f94056a34ecddf6c817ed6a498554b23674c5221feba5",
+  "checked_on": "2026-10-11",
+  "reference_count": 32,
+  "references_cited": 32,
+  "uncited_references": [],
+  "duplicate_references": 0,
+  "duplicate_dois": 0,
+  "manual_in_text_to_reference_check": "All author-year citations match one bibliography record; author spellings and years agree. No year-suffix collision. Organizational ICMA abbreviation and multi-author narrative citations manually reconciled.",
+  "style_note": "Issue metadata verified separately; not inserted because BSE style omits issues unless pagination restarts at page1.",
+  "checked_at_utc": "2026-10-11T13:17:00Z",
+  "supplementary_check": {
+    "file": "Supplementary_Information.docx",
+    "sha256": "f80e998e52acb35b9b27d5b3fdda4b129514761e7d263c767862d7cbbd8c35e3",
+    "methodological_reference_count": 3,
+    "result": "All three methodological sources (Hermundsdottir2024, Christy2024, Fatica2021) remain cited and match their verified main bibliography entries. Issue numbers intentionally omitted in BSE style."
+  }
+}

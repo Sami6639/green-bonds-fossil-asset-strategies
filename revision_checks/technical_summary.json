@@ -1,0 +1,15 @@
+{
+  "version": "BSE-2026-10-11-r3",
+  "contextual": 37,
+  "principal": 33,
+  "principal_paired": 32,
+  "selected_timing_groups": 5,
+  "selected_timing_rows": 8,
+  "economic_example_groups": 3,
+  "finance_aligned_category_rows": 142,
+  "finance_aligned_distinct_groups": 29,
+  "main_elapsed_pre_finance_groups": 24,
+  "principal_elapsed_pre_finance_groups": 20,
+  "no_new_causal_estimates": true,
+  "selection_candidate_denominator_caution": "The 68-name WBA frame and 64-ID detailed candidate register are overlapping but nonnested. No summed or global unique screened denominator is asserted."
+}

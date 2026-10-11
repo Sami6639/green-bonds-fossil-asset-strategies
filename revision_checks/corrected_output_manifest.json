@@ -1,0 +1,50 @@
+{
+  "version": "BSE-2026-10-11-r3",
+  "correction": "Constellation displayed categories sum to USD542m versus the USD541m printed total; signed residual (total minus category sum) -USD1m. Rounding is plausible but not explicitly explained in the reviewed source and remains unreconciled.",
+  "frozen_source_values_unchanged": true,
+  "corrected_outputs": [
+    {
+      "path": "analysis_panel/results/selected_window_finance_evidence.csv",
+      "replacement_count": 2,
+      "raw_provenance_notes": 0,
+      "sha256": "84c839047f89810c4507dae0ee90b64e7029e5d2fbfc46f6e3cd9522d0be14ac"
+    },
+    {
+      "path": "analysis_panel/results/contextual_window_finance_evidence.csv",
+      "replacement_count": 2,
+      "raw_provenance_notes": 0,
+      "sha256": "d376907804c88f81954bb2fb7328d8099ebba07b23e2b54d2c3617f64473d2d2"
+    },
+    {
+      "path": "analysis_panel/results/group_capacity_results.csv",
+      "replacement_count": 1,
+      "raw_provenance_notes": 0,
+      "sha256": "98b86d93a218922d919a0b9684bff25bc4fff62af81aa76711be649c0442fced"
+    },
+    {
+      "path": "analysis_panel/results/capacity_component_results.csv",
+      "replacement_count": 3,
+      "raw_provenance_notes": 0,
+      "sha256": "7848d9872ccf642ea51a4c7759c4bac03a279a4bba8cb28f73142afcf407d542"
+    },
+    {
+      "path": "figures/figure_1_plot_data.csv",
+      "replacement_count": 1,
+      "raw_provenance_notes": 0,
+      "sha256": "347ac29743fbca221e359ba6d5d7cc58e2fffee9ca42863c8152009e64292538"
+    },
+    {
+      "path": "strategy_comparison/seven_history_comparison.csv",
+      "replacement_count": 2,
+      "raw_provenance_notes": 0,
+      "sha256": "e835878ba7112d75d26bc556618be5b535c59ddaf70ffbe0a3c3bfc583bcc97a"
+    },
+    {
+      "path": "decision_rationales/seven_history_rationale_coverage.csv",
+      "replacement_count": 2,
+      "raw_provenance_notes": 0,
+      "sha256": "ce22b4f588adacf74c400e572ef7e780de6895a5b5e61af215cbdc0dbc028b9a"
+    }
+  ],
+  "interpretation": "Historical source manifests validate the pre-correction scientific baseline; this manifest validates the derived semantic revision. Quoted raw provenance is preserved; the separate dated correction register records the revised interpretation."
+}

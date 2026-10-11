@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "broad_groups": 37,
+  "principal_groups": 33,
+  "proxy_extension_groups": 4,
+  "seven_histories": 7,
+  "event_families": 8,
+  "presence_rows": 264,
+  "event_evidence_rows": 97,
+  "all_source_hashes_unchanged": true,
+  "zero_states_are_unknown_not_absence": true
+}
+               fossil_direction  commissioning_or_uprating  existing_asset_acquisition  operational_cessation_or_reserve  ownership_exit_or_dispatch_right_exit  reported_physical_closure_or_retirement
+                       decrease                          6                           3                                 4                                      8                                       11
+                       increase                          5                           3                                 1                                      0                                        0
+unchanged_at_reported_precision                          0                           0                                 0                                      0                                        0
+
+STDERR

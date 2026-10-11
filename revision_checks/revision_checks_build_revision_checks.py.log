@@ -1,0 +1,26 @@
+{
+  "version": "BSE-2026-10-11-r3",
+  "contextual": 37,
+  "principal": 33,
+  "principal_paired": 32,
+  "selected_timing_groups": 5,
+  "selected_timing_rows": 8,
+  "economic_example_groups": 3,
+  "finance_aligned_category_rows": 142,
+  "finance_aligned_distinct_groups": 29,
+  "main_elapsed_pre_finance_groups": 24,
+  "principal_elapsed_pre_finance_groups": 20,
+  "no_new_causal_estimates": true,
+  "selection_candidate_denominator_caution": "The 68-name WBA frame and 64-ID detailed candidate register are overlapping but nonnested. No summed or global unique screened denominator is asserted."
+}
+                issuer  main_delta_mw short_start  short_end  short_delta_mw                                                          finance_date_bounds
+                Ameren        -1212.0  2020-12-31 2021-12-31             0.0                                                     2021-06-30 to 2021-06-30
+      WEC Energy Group         -133.0  2022-12-31 2023-12-31           364.0                           2023-06-30 to 2023-06-30; 2023-09-30 to 2023-09-30
+      WEC Energy Group         -133.0  2023-12-31 2024-12-31          -497.0                                                     2024-06-30 to 2024-06-30
+Shikoku Electric Power         -106.0  2023-03-31 2024-03-31            50.0                                                     2023-09-25 to 2023-09-25
+       AES Corporation        -2355.0  2022-12-31 2023-12-31         -1524.0                           2023-05-17 to 2023-05-17; 2023-12-31 to 2023-12-31
+       AES Corporation        -2355.0  2023-12-31 2024-12-31         -1029.0                                                     2024-12-31 to 2024-12-31
+        NextEra Energy         -441.0  2022-12-31 2023-12-31            18.0 2022-12-31 to 2022-12-31; 2023-06-30 to 2023-06-30; 2023-12-31 to 2023-12-31
+        NextEra Energy         -441.0  2023-12-31 2024-12-31          -459.0 2023-12-31 to 2023-12-31; 2024-06-30 to 2024-06-30; 2024-12-31 to 2024-12-31
+
+STDERR

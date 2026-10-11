@@ -1,0 +1,1649 @@
+{
+  "source_commit": "484d3b801fcd1441d6e2070a7889d733b43cc326",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "remote_sha": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "match": true
+    },
+    {
+      "path": "README.txt",
+      "sha": "c6049a9127547083309b92aa929e7ec660e34d90",
+      "remote_sha": "c6049a9127547083309b92aa929e7ec660e34d90",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/README.txt",
+      "sha": "f5ba33c0800def0fd1f9b057e2ae2e491b5ba605",
+      "remote_sha": "f5ba33c0800def0fd1f9b057e2ae2e491b5ba605",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/build_panel.py",
+      "sha": "3ff95c2ae756b162a3b05decc7bc7b9f905c8748",
+      "remote_sha": "3ff95c2ae756b162a3b05decc7bc7b9f905c8748",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/candidate_adjudication_queue.csv",
+      "sha": "e7a5b0c06eaba67c959f9e5c92b9c6030cc449aa",
+      "remote_sha": "e7a5b0c06eaba67c959f9e5c92b9c6030cc449aa",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/canonical_candidate_windows.csv",
+      "sha": "10803c079faf0096193889bf8098e52657c463f5",
+      "remote_sha": "10803c079faf0096193889bf8098e52657c463f5",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/canonical_capacity.csv",
+      "sha": "ec8f622e84a48b989812e63ef3af4b8cbbdd3af8",
+      "remote_sha": "ec8f622e84a48b989812e63ef3af4b8cbbdd3af8",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/canonical_events.csv",
+      "sha": "af37a930d5a4f29691262877479780b7d1422a97",
+      "remote_sha": "af37a930d5a4f29691262877479780b7d1422a97",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/canonical_finance.csv",
+      "sha": "b4a64ce8c2ffafa869a6d5df53cae37b349813b0",
+      "remote_sha": "b4a64ce8c2ffafa869a6d5df53cae37b349813b0",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/canonical_observations.csv",
+      "sha": "07ac39f8b06d0261437bda8b2c707de6664195d3",
+      "remote_sha": "07ac39f8b06d0261437bda8b2c707de6664195d3",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/canonical_project_stage_auxiliary.csv",
+      "sha": "85c44d776b00233cb4dd2016952c77467338253a",
+      "remote_sha": "85c44d776b00233cb4dd2016952c77467338253a",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/executed_protocol.json",
+      "sha": "b4752189f2747754f05b415d7860d03e472f8cdc",
+      "remote_sha": "b4752189f2747754f05b415d7860d03e472f8cdc",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/finance_identity_overrides.csv",
+      "sha": "3c7a4fac390c67bea62dd8f2608134a32980f2f1",
+      "remote_sha": "3c7a4fac390c67bea62dd8f2608134a32980f2f1",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/full_sampling_frame_and_screening_evidence.csv",
+      "sha": "9e0785d5b11acabf8bfc08ef40365b3582b84fea",
+      "remote_sha": "9e0785d5b11acabf8bfc08ef40365b3582b84fea",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/group_and_search_evidence_register.csv",
+      "sha": "e1e7bd7b0371b6c8ec8ad8d7249f0a1892097d3c",
+      "remote_sha": "e1e7bd7b0371b6c8ec8ad8d7249f0a1892097d3c",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/group_mapping_review.csv",
+      "sha": "f820f0fde5a3f7f9b33c08460bf11e216254956e",
+      "remote_sha": "f820f0fde5a3f7f9b33c08460bf11e216254956e",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/integration_evidence_annotations.csv",
+      "sha": "ae4149954a635a04b85b5bd62ec3b80e7e72fd8c",
+      "remote_sha": "ae4149954a635a04b85b5bd62ec3b80e7e72fd8c",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/latest_joint_candidate_display.csv",
+      "sha": "fa546e58ca1b460b914586db5243c5cb78010b18",
+      "remote_sha": "fa546e58ca1b460b914586db5243c5cb78010b18",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/longest_reviewed_window_display.csv",
+      "sha": "e584c6312e38cefdcc08fa34c30a3fac1fa6d777",
+      "remote_sha": "e584c6312e38cefdcc08fa34c30a3fac1fa6d777",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/new_nested_continuity_evidence.csv",
+      "sha": "5d3f19ab22d80997d887f2a71337f2a756f6204b",
+      "remote_sha": "5d3f19ab22d80997d887f2a71337f2a756f6204b",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/portable_replay_qa.json",
+      "sha": "7009e249a2f27d561e6ac3b547d962eab5707580",
+      "remote_sha": "7009e249a2f27d561e6ac3b547d962eab5707580",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/qa_summary.json",
+      "sha": "96b62e928e3b6d8d7fa5ed31d37e9dfa8ece0e5d",
+      "remote_sha": "96b62e928e3b6d8d7fa5ed31d37e9dfa8ece0e5d",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/question_specific_cohort.csv",
+      "sha": "f5ee6a55609479868a63370dada0f9497adcca70",
+      "remote_sha": "f5ee6a55609479868a63370dada0f9497adcca70",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/regional_descriptive_envelopes.csv",
+      "sha": "c3083864b706d8be434973f6961ef5c9756f886a",
+      "remote_sha": "c3083864b706d8be434973f6961ef5c9756f886a",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/release_portable_qa.json",
+      "sha": "72765f01c4d9604f6a5e3aae44d56f761621045e",
+      "remote_sha": "72765f01c4d9604f6a5e3aae44d56f761621045e",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/README.txt",
+      "sha": "3f40a6ea97751f23a4ca83679b6292e6dc38cd9d",
+      "remote_sha": "3f40a6ea97751f23a4ca83679b6292e6dc38cd9d",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/additional_boundary_sensitivities.csv",
+      "sha": "4f633165589089260a80e3673abb9f281bf6d7a0",
+      "remote_sha": "4f633165589089260a80e3673abb9f281bf6d7a0",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/automatic_adjacent_category_robustness.csv",
+      "sha": "10803c079faf0096193889bf8098e52657c463f5",
+      "remote_sha": "10803c079faf0096193889bf8098e52657c463f5",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/build_capacity_results.py",
+      "sha": "930f2e18da633c945f01996e6ef3edd0b989c897",
+      "remote_sha": "930f2e18da633c945f01996e6ef3edd0b989c897",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/capacity_component_results.csv",
+      "sha": "ded93caeeeeba3d66cc193909b46f752a751cbbd",
+      "remote_sha": "ded93caeeeeba3d66cc193909b46f752a751cbbd",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/capacity_direction_pair_summary.csv",
+      "sha": "e5d58b467b89944b16ad52cffcce2c2563be4c10",
+      "remote_sha": "e5d58b467b89944b16ad52cffcce2c2563be4c10",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/capacity_endpoint_provenance.csv",
+      "sha": "3c2dc4cf5e8e89c8bb06379b2cb6df21570846f0",
+      "remote_sha": "3c2dc4cf5e8e89c8bb06379b2cb6df21570846f0",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/capacity_scatter_plot_data.csv",
+      "sha": "ee1616c7ce2a475c165c8fa9138d0b05317df7d1",
+      "remote_sha": "ee1616c7ce2a475c165c8fa9138d0b05317df7d1",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/clean_wind_solar_coverage_summary.csv",
+      "sha": "62fa83d079e80e6b48fb2f3664b67cf06c1559ea",
+      "remote_sha": "62fa83d079e80e6b48fb2f3664b67cf06c1559ea",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/clean_wind_solar_sensitivity.csv",
+      "sha": "eac747be638575368f40fe5716f33a6cc08a96c4",
+      "remote_sha": "eac747be638575368f40fe5716f33a6cc08a96c4",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/clean_wind_solar_tier_coverage_summary.csv",
+      "sha": "d6bd2159c5b2a31fb2bcefa18a744df8142299bf",
+      "remote_sha": "d6bd2159c5b2a31fb2bcefa18a744df8142299bf",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/contextual_window_finance_evidence.csv",
+      "sha": "7634df287bb4ac0c4b0de2eb3666ff9fda452069",
+      "remote_sha": "7634df287bb4ac0c4b0de2eb3666ff9fda452069",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/descriptive_capacity_summary.csv",
+      "sha": "69b0b884fd046413b5a7c4b044774809e905b26c",
+      "remote_sha": "69b0b884fd046413b5a7c4b044774809e905b26c",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/deterministic_window_selection.csv",
+      "sha": "d401c8878c787217976e60c325da60dbd9aff3aa",
+      "remote_sha": "d401c8878c787217976e60c325da60dbd9aff3aa",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/event_type_presence_by_group.csv",
+      "sha": "c47c4c7b8f8505413ebc6a716e6838c978351bb4",
+      "remote_sha": "c47c4c7b8f8505413ebc6a716e6838c978351bb4",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/event_type_presence_summary.csv",
+      "sha": "58e55aa5db222f13f37cfaf285542d10d80970a0",
+      "remote_sha": "58e55aa5db222f13f37cfaf285542d10d80970a0",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/finance_aligned_adjacent_robustness.csv",
+      "sha": "d412dea5bab500e79c128adb8ca5ab839cc0ee9c",
+      "remote_sha": "d412dea5bab500e79c128adb8ca5ab839cc0ee9c",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/finance_class_breakdown.csv",
+      "sha": "c9cf239d045661822761fe808eb85e04a2913e91",
+      "remote_sha": "c9cf239d045661822761fe808eb85e04a2913e91",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/finance_timing_coverage.csv",
+      "sha": "d1c42f9fbbc9f2b2dfd206389838dbd9da7701f8",
+      "remote_sha": "d1c42f9fbbc9f2b2dfd206389838dbd9da7701f8",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/fossil_boundary_review.csv",
+      "sha": "e0b466c021cb40fac947de93a0de1ae894d0f82f",
+      "remote_sha": "e0b466c021cb40fac947de93a0de1ae894d0f82f",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/group_capacity_results.csv",
+      "sha": "768241823ea18871a951654807f9fe0a14963711",
+      "remote_sha": "768241823ea18871a951654807f9fe0a14963711",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/group_sign_band_sensitivity.csv",
+      "sha": "150054ae554672da8116f27481127b6d7d3ecb13",
+      "remote_sha": "150054ae554672da8116f27481127b6d7d3ecb13",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/independent_results_validation.json",
+      "sha": "ad98c4cf92a1ff17af19a2e56356ebb03b394bbf",
+      "remote_sha": "ad98c4cf92a1ff17af19a2e56356ebb03b394bbf",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/independent_validation_checks.json",
+      "sha": "0179ed53acf640775547e57df6e9a5a473f45853",
+      "remote_sha": "0179ed53acf640775547e57df6e9a5a473f45853",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/leave_one_group_out_descriptive_counts.csv",
+      "sha": "61d7e57873544a4c17436529a4bf028e05fc4d5d",
+      "remote_sha": "61d7e57873544a4c17436529a4bf028e05fc4d5d",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/results_build_manifest.json",
+      "sha": "e064e9f9b2dedd55a37c3f9f3ea658ad24b04c68",
+      "remote_sha": "e064e9f9b2dedd55a37c3f9f3ea658ad24b04c68",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/results_qa.json",
+      "sha": "b0fbdc3f82f6228e11b8102b960522f5179f0858",
+      "remote_sha": "b0fbdc3f82f6228e11b8102b960522f5179f0858",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/reviewed_adjacent_window_robustness.csv",
+      "sha": "30897cc0d16620d6a3d832341fb2028f7a7a81e0",
+      "remote_sha": "30897cc0d16620d6a3d832341fb2028f7a7a81e0",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/selected_window_event_evidence.csv",
+      "sha": "7ef1b22152cc29da6181e5456c2a0ef7e11ada9b",
+      "remote_sha": "7ef1b22152cc29da6181e5456c2a0ef7e11ada9b",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/selected_window_finance_evidence.csv",
+      "sha": "2dbd22b74833a012451ef47874c6c74d5983d8fe",
+      "remote_sha": "2dbd22b74833a012451ef47874c6c74d5983d8fe",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/sign_band_direction_summary.csv",
+      "sha": "a70b3e298e69b2fda312022d7bf172e9b0e44e60",
+      "remote_sha": "a70b3e298e69b2fda312022d7bf172e9b0e44e60",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/table_capacity_window_summary.csv",
+      "sha": "7054fd1feb0254870d43a03076922cc95e8457b1",
+      "remote_sha": "7054fd1feb0254870d43a03076922cc95e8457b1",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/table_finance_event_presence.csv",
+      "sha": "362cdd9c59a8e9d21fcae9dcccd1506a2f71ffed",
+      "remote_sha": "362cdd9c59a8e9d21fcae9dcccd1506a2f71ffed",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/results/validate_capacity_results.py",
+      "sha": "5341691818fe2eca2ea524e6c5c1f5f9d21994cd",
+      "remote_sha": "5341691818fe2eca2ea524e6c5c1f5f9d21994cd",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/reviewed_regional_window_panel.csv",
+      "sha": "f339fcc63158f6b6bbd34cae08fd7eca788a7ba8",
+      "remote_sha": "f339fcc63158f6b6bbd34cae08fd7eca788a7ba8",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/rq1_repeated_finance_candidates.csv",
+      "sha": "79f91b3e716abcf9ef62cf138d6d7d7c21335889",
+      "remote_sha": "79f91b3e716abcf9ef62cf138d6d7d7c21335889",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/rq2_project_stage_gate.csv",
+      "sha": "a9b168d6eb3bebad6782396082356a4b899638c8",
+      "remote_sha": "a9b168d6eb3bebad6782396082356a4b899638c8",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/screened_candidate_register.csv",
+      "sha": "ce810895975f2fad9e8a79783f841657c5a2e595",
+      "remote_sha": "ce810895975f2fad9e8a79783f841657c5a2e595",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/source_manifest.csv",
+      "sha": "d7f344c58c5b7dc3f0e8f681b6d72bf25bbb1492",
+      "remote_sha": "d7f344c58c5b7dc3f0e8f681b6d72bf25bbb1492",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/source_stage_summary_auxiliary.csv",
+      "sha": "45605570ab7778245b6896ade61a09159e7f6247",
+      "remote_sha": "45605570ab7778245b6896ade61a09159e7f6247",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/window_event_links.csv",
+      "sha": "13b90631e3a816b25c7171d56c9ef84ed9d1fb1f",
+      "remote_sha": "13b90631e3a816b25c7171d56c9ef84ed9d1fb1f",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/window_finance_links.csv",
+      "sha": "93f39cd109964cc44e189fba032ba8ebe450ea90",
+      "remote_sha": "93f39cd109964cc44e189fba032ba8ebe450ea90",
+      "match": true
+    },
+    {
+      "path": "analysis_panel/window_gate_ledger.csv",
+      "sha": "dd017d38772b0901ea895230ad2df99315e84c13",
+      "remote_sha": "dd017d38772b0901ea895230ad2df99315e84c13",
+      "match": true
+    },
+    {
+      "path": "figures/Figure_1_Global_Capacity_Directions.pdf",
+      "sha": "d77faedb49dbf246f4463f070a36d49aed508f18",
+      "remote_sha": "d77faedb49dbf246f4463f070a36d49aed508f18",
+      "match": true
+    },
+    {
+      "path": "figures/Figure_1_Global_Capacity_Directions.png",
+      "sha": "31520c36b8e1d2ff9688712c85bc3d596f0d663d",
+      "remote_sha": "31520c36b8e1d2ff9688712c85bc3d596f0d663d",
+      "match": true
+    },
+    {
+      "path": "figures/Figure_2_Materiality_Sensitivity.pdf",
+      "sha": "79c1993fa508b32fed64fb7439afbc26e9156ba8",
+      "remote_sha": "79c1993fa508b32fed64fb7439afbc26e9156ba8",
+      "match": true
+    },
+    {
+      "path": "figures/Figure_2_Materiality_Sensitivity.png",
+      "sha": "15326fec4acc951b4929a09f232adfb2dc8fa543",
+      "remote_sha": "15326fec4acc951b4929a09f232adfb2dc8fa543",
+      "match": true
+    },
+    {
+      "path": "figures/Figure_3_Allocation_Associated_Operation.pdf",
+      "sha": "2a8655d49ddd3fc9dccb0ccefbe8a7cc231b0a69",
+      "remote_sha": "2a8655d49ddd3fc9dccb0ccefbe8a7cc231b0a69",
+      "match": true
+    },
+    {
+      "path": "figures/Figure_3_Allocation_Associated_Operation.png",
+      "sha": "66ca8bc0462c4cc95859d8d5745491568afd457e",
+      "remote_sha": "66ca8bc0462c4cc95859d8d5745491568afd457e",
+      "match": true
+    },
+    {
+      "path": "figures/README.txt",
+      "sha": "4f0ab7fc58cb97bc71775a3276ea3186c64763b3",
+      "remote_sha": "4f0ab7fc58cb97bc71775a3276ea3186c64763b3",
+      "match": true
+    },
+    {
+      "path": "figures/build_manuscript_figures.py",
+      "sha": "e40ffad770cbbb36faaed12be5cc60edc73afdc4",
+      "remote_sha": "e40ffad770cbbb36faaed12be5cc60edc73afdc4",
+      "match": true
+    },
+    {
+      "path": "figures/figure_1_plot_data.csv",
+      "sha": "db72871db1028d652f3856000d41f2a6f4c3f309",
+      "remote_sha": "db72871db1028d652f3856000d41f2a6f4c3f309",
+      "match": true
+    },
+    {
+      "path": "figures/figure_2_counts.csv",
+      "sha": "241aa083ca7e848e6a548668531e96f5ae9c54b3",
+      "remote_sha": "241aa083ca7e848e6a548668531e96f5ae9c54b3",
+      "match": true
+    },
+    {
+      "path": "figures/figure_2_group_band_data.csv",
+      "sha": "f2573a025be51ce02a3c59b141fbdf9657e87d37",
+      "remote_sha": "f2573a025be51ce02a3c59b141fbdf9657e87d37",
+      "match": true
+    },
+    {
+      "path": "figures/figure_3_plot_data.csv",
+      "sha": "195f71ee3ba2409c5f88ec0a9ff688b19c185f39",
+      "remote_sha": "195f71ee3ba2409c5f88ec0a9ff688b19c185f39",
+      "match": true
+    },
+    {
+      "path": "figures/figure_captions.txt",
+      "sha": "2804c5bf505f14fbd2f70974e13b5e0de78aa6ac",
+      "remote_sha": "2804c5bf505f14fbd2f70974e13b5e0de78aa6ac",
+      "match": true
+    },
+    {
+      "path": "figures/figure_manifest.json",
+      "sha": "03701270dc67a6f414ca66e1b01f90ed2390f24c",
+      "remote_sha": "03701270dc67a6f414ca66e1b01f90ed2390f24c",
+      "match": true
+    },
+    {
+      "path": "figures/figure_provenance_manifest.json",
+      "sha": "2f4b7df4054a0ddefdf808543d937ff066c274c8",
+      "remote_sha": "2f4b7df4054a0ddefdf808543d937ff066c274c8",
+      "match": true
+    },
+    {
+      "path": "figures/figure_validation.json",
+      "sha": "07d03924bc1a5185d1dce45ccca518f7eb3154c6",
+      "remote_sha": "07d03924bc1a5185d1dce45ccca518f7eb3154c6",
+      "match": true
+    },
+    {
+      "path": "figures/independent_artifact_validation.json",
+      "sha": "efaa20f8c92aed35dc2faa7e5364b1abd4a3a868",
+      "remote_sha": "efaa20f8c92aed35dc2faa7e5364b1abd4a3a868",
+      "match": true
+    },
+    {
+      "path": "figures/portable_replay_validation.json",
+      "sha": "18e49b88c9d05e9c38d4bc632d2d1d1e66052dc6",
+      "remote_sha": "18e49b88c9d05e9c38d4bc632d2d1d1e66052dc6",
+      "match": true
+    },
+    {
+      "path": "figures/source_data/archive_import_provenance.json",
+      "sha": "9a52be72b2a1339e64df1a35253a483f6ec47fa8",
+      "remote_sha": "9a52be72b2a1339e64df1a35253a483f6ec47fa8",
+      "match": true
+    },
+    {
+      "path": "figures/source_data/sse_actual_milestones.csv",
+      "sha": "b9f5992fb5f9a6b954bad131d84119170f77eff6",
+      "remote_sha": "b9f5992fb5f9a6b954bad131d84119170f77eff6",
+      "match": true
+    },
+    {
+      "path": "figures/source_data/sse_gb5_maturity_project_weights.csv",
+      "sha": "cfd1512c413d97ee596fc8ebc8158a44ef5b3132",
+      "remote_sha": "cfd1512c413d97ee596fc8ebc8158a44ef5b3132",
+      "match": true
+    },
+    {
+      "path": "figures/source_data/wec_project_stage_panel.csv",
+      "sha": "4abe3caa03a569eeb19ef38fcb8729c14f47fc14",
+      "remote_sha": "4abe3caa03a569eeb19ef38fcb8729c14f47fc14",
+      "match": true
+    },
+    {
+      "path": "figures/validate_figure_artifacts.py",
+      "sha": "cab110ae7b86104e03a9f0cd587b20cb27ddc755",
+      "remote_sha": "cab110ae7b86104e03a9f0cd587b20cb27ddc755",
+      "match": true
+    },
+    {
+      "path": "figures/visual_qa.json",
+      "sha": "dae1e33ca44955485b7ad4a6694b95ea3d396ebf",
+      "remote_sha": "dae1e33ca44955485b7ad4a6694b95ea3d396ebf",
+      "match": true
+    },
+    {
+      "path": "inputs/05600d59e8f9_existing_eight_group_independence_map.csv",
+      "sha": "4701b48f4fdb71835391a2895dc4b2c109f4b75c",
+      "remote_sha": "4701b48f4fdb71835391a2895dc4b2c109f4b75c",
+      "match": true
+    },
+    {
+      "path": "inputs/0a564747efae_aes_event_ledger.csv",
+      "sha": "777693b861d14d635106b844719e76c96cfd27cc",
+      "remote_sha": "777693b861d14d635106b844719e76c96cfd27cc",
+      "match": true
+    },
+    {
+      "path": "inputs/0d7a202e4532_nextera_utility_actual_data.csv",
+      "sha": "f0e24e1871cd1d5bd34fb8a316070d1511a2409a",
+      "remote_sha": "f0e24e1871cd1d5bd34fb8a316070d1511a2409a",
+      "match": true
+    },
+    {
+      "path": "inputs/0dac39446216_analytical_window_candidates.csv",
+      "sha": "06bf95b4e8ac54e8b55ec5c43fbecff2f5613b42",
+      "remote_sha": "06bf95b4e8ac54e8b55ec5c43fbecff2f5613b42",
+      "match": true
+    },
+    {
+      "path": "inputs/12870fc960fa_jsw_observations_long.csv",
+      "sha": "f7a975d62724f204f99edd4ab6f975037e61cd4a",
+      "remote_sha": "f7a975d62724f204f99edd4ab6f975037e61cd4a",
+      "match": true
+    },
+    {
+      "path": "inputs/1d8814fdac5b_china_event_search_coverage.csv",
+      "sha": "8ea04e556e584ec8b475f56bd5ea3b69a8c8b91a",
+      "remote_sha": "8ea04e556e584ec8b475f56bd5ea3b69a8c8b91a",
+      "match": true
+    },
+    {
+      "path": "inputs/1fea337ff2ad_jsw_event_search_coverage.csv",
+      "sha": "4405822ac9e9dcb13b8dbfe5f6418161fc9e8412",
+      "remote_sha": "4405822ac9e9dcb13b8dbfe5f6418161fc9e8412",
+      "match": true
+    },
+    {
+      "path": "inputs/21fc25170c69_constellation_event_ledger.csv",
+      "sha": "69ee9a142bfecec039bdf6e47661a78b94c7ca71",
+      "remote_sha": "69ee9a142bfecec039bdf6e47661a78b94c7ca71",
+      "match": true
+    },
+    {
+      "path": "inputs/25037bd32be1_independent_group_admission_audit.csv",
+      "sha": "b51993bc97e573c5df961c24387eed4c37b0d51e",
+      "remote_sha": "b51993bc97e573c5df961c24387eed4c37b0d51e",
+      "match": true
+    },
+    {
+      "path": "inputs/251bb695bf46_analytical_window_candidates.csv",
+      "sha": "4d99c2fea38082edca244506f4d2c1921e5719db",
+      "remote_sha": "4d99c2fea38082edca244506f4d2c1921e5719db",
+      "match": true
+    },
+    {
+      "path": "inputs/2f1543b53deb_integration_evidence_annotations.csv",
+      "sha": "ae4149954a635a04b85b5bd62ec3b80e7e72fd8c",
+      "remote_sha": "ae4149954a635a04b85b5bd62ec3b80e7e72fd8c",
+      "match": true
+    },
+    {
+      "path": "inputs/2f476531eb51_jsw_group_mapping.csv",
+      "sha": "711873b479b6219a41bd51730a4b304277fb1356",
+      "remote_sha": "711873b479b6219a41bd51730a4b304277fb1356",
+      "match": true
+    },
+    {
+      "path": "inputs/2ff06cfacc05_rwe_group_mapping.csv",
+      "sha": "0ddfbd097ed2976b4ae0e441acb96b98461399a1",
+      "remote_sha": "0ddfbd097ed2976b4ae0e441acb96b98461399a1",
+      "match": true
+    },
+    {
+      "path": "inputs/3c8653243e81_southern_analytical_window_candidates.csv",
+      "sha": "ee9ae448942ca3f52d606941871d2e41642eba49",
+      "remote_sha": "ee9ae448942ca3f52d606941871d2e41642eba49",
+      "match": true
+    },
+    {
+      "path": "inputs/43873310834c_asia_utility_actual_data.csv",
+      "sha": "0c5fe89073e504147abb28e93a005c6d81e9bb7f",
+      "remote_sha": "0c5fe89073e504147abb28e93a005c6d81e9bb7f",
+      "match": true
+    },
+    {
+      "path": "inputs/4f9e308497ef_analytical_window_candidates.csv",
+      "sha": "26b1def3cd2536e22cd7e2d1eb790d10cce3aac6",
+      "remote_sha": "26b1def3cd2536e22cd7e2d1eb790d10cce3aac6",
+      "match": true
+    },
+    {
+      "path": "inputs/4fc120b8e02c_china_group_mapping.csv",
+      "sha": "a0ab7ab7f6dd7af6cfbdd098442d6781397732e4",
+      "remote_sha": "a0ab7ab7f6dd7af6cfbdd098442d6781397732e4",
+      "match": true
+    },
+    {
+      "path": "inputs/50c3840c2e1e_rwe_operating_observations_long.csv",
+      "sha": "5d39ff423b9ae368fb3fcf8983629829b119579b",
+      "remote_sha": "5d39ff423b9ae368fb3fcf8983629829b119579b",
+      "match": true
+    },
+    {
+      "path": "inputs/50f7f802b78b_china_QA_notes.json",
+      "sha": "64fcff83eed68f62a9c08b441bd5672c0c92efaa",
+      "remote_sha": "64fcff83eed68f62a9c08b441bd5672c0c92efaa",
+      "match": true
+    },
+    {
+      "path": "inputs/513a1e1f1d06_jsw_fossil_event_ledger.csv",
+      "sha": "64225bdb9b6278051ad956795c6bd7e6362f4244",
+      "remote_sha": "64225bdb9b6278051ad956795c6bd7e6362f4244",
+      "match": true
+    },
+    {
+      "path": "inputs/530894d79bf3_wba2023_candidate_frame.csv",
+      "sha": "7b0f53be5a507a372ce0d217d817bdf527c53e33",
+      "remote_sha": "7b0f53be5a507a372ce0d217d817bdf527c53e33",
+      "match": true
+    },
+    {
+      "path": "inputs/5449f5cd8ece_iberdrola_known_fuel_subset_audit.csv",
+      "sha": "62dd0cab4b0dbd85340d8c4e3655e92df423cfd8",
+      "remote_sha": "62dd0cab4b0dbd85340d8c4e3655e92df423cfd8",
+      "match": true
+    },
+    {
+      "path": "inputs/5ac2be03db30_china_event_ledger.csv",
+      "sha": "f220a54e806efdbf7905cb37d84a587f12ef476e",
+      "remote_sha": "f220a54e806efdbf7905cb37d84a587f12ef476e",
+      "match": true
+    },
+    {
+      "path": "inputs/5e61dab57437_candidate_windows.csv",
+      "sha": "d2ed0a6555b7d1fa528d7a0cfede580abbf05908",
+      "remote_sha": "d2ed0a6555b7d1fa528d7a0cfede580abbf05908",
+      "match": true
+    },
+    {
+      "path": "inputs/62cb2d754f03_aes_analytical_window_candidates.csv",
+      "sha": "3868871c6f00e8db9ffaef810052b028a7fedb2b",
+      "remote_sha": "3868871c6f00e8db9ffaef810052b028a7fedb2b",
+      "match": true
+    },
+    {
+      "path": "inputs/63e25a30b069_latam_financing_observations_long.csv",
+      "sha": "dafe607d6ef0b271732b75fe21ffbf2b91f60851",
+      "remote_sha": "dafe607d6ef0b271732b75fe21ffbf2b91f60851",
+      "match": true
+    },
+    {
+      "path": "inputs/641ef3340bc6_duke_analytical_window_candidates.csv",
+      "sha": "0df27e1ed0a44f06556a12731630a3f5b7e1b05a",
+      "remote_sha": "0df27e1ed0a44f06556a12731630a3f5b7e1b05a",
+      "match": true
+    },
+    {
+      "path": "inputs/65fb8b48e3d4_global_additional_candidate_coverage.csv",
+      "sha": "7f1810e84f44c766d0938fd0b9e576793a74896d",
+      "remote_sha": "7f1810e84f44c766d0938fd0b9e576793a74896d",
+      "match": true
+    },
+    {
+      "path": "inputs/671c25087349_asia_analytical_window_candidates.csv",
+      "sha": "7819181673578081caafa5c0ebe619a999535f22",
+      "remote_sha": "7819181673578081caafa5c0ebe619a999535f22",
+      "match": true
+    },
+    {
+      "path": "inputs/67fdf69f5f55_remaining_wba_screen.csv",
+      "sha": "cc6e1fbb7b439f537401d0c5183f0fd2a86412aa",
+      "remote_sha": "cc6e1fbb7b439f537401d0c5183f0fd2a86412aa",
+      "match": true
+    },
+    {
+      "path": "inputs/69b02019be30_southern_utility_actual_data.csv",
+      "sha": "8e3a41fc1cbfa09e54b9e15382a1ec9c306f2dd1",
+      "remote_sha": "8e3a41fc1cbfa09e54b9e15382a1ec9c306f2dd1",
+      "match": true
+    },
+    {
+      "path": "inputs/70cb7c5577c0_wec_project_stage_panel.csv",
+      "sha": "4abe3caa03a569eeb19ef38fcb8729c14f47fc14",
+      "remote_sha": "4abe3caa03a569eeb19ef38fcb8729c14f47fc14",
+      "match": true
+    },
+    {
+      "path": "inputs/75380e1a7efb_aes_utility_actual_data.csv",
+      "sha": "81a61a67d3d800c0c3843f6a7114713660b22b58",
+      "remote_sha": "81a61a67d3d800c0c3843f6a7114713660b22b58",
+      "match": true
+    },
+    {
+      "path": "inputs/772bad69f905_rwe_finance_observations.csv",
+      "sha": "ea0786c157f64109a74c8afa6c56de2cef9401c0",
+      "remote_sha": "ea0786c157f64109a74c8afa6c56de2cef9401c0",
+      "match": true
+    },
+    {
+      "path": "inputs/78f71c52ddee_executed_protocol.json",
+      "sha": "b4752189f2747754f05b415d7860d03e472f8cdc",
+      "remote_sha": "b4752189f2747754f05b415d7860d03e472f8cdc",
+      "match": true
+    },
+    {
+      "path": "inputs/86c29963ce8c_asia_fossil_asset_events.csv",
+      "sha": "39ec52328bfa6c1ba852ceda8b8505e5fb6d91f1",
+      "remote_sha": "39ec52328bfa6c1ba852ceda8b8505e5fb6d91f1",
+      "match": true
+    },
+    {
+      "path": "inputs/87c437b37676_wec_stage_outputs.csv",
+      "sha": "a5771abe628a75d9c22db976a724bb3bb433aa25",
+      "remote_sha": "a5771abe628a75d9c22db976a724bb3bb433aa25",
+      "match": true
+    },
+    {
+      "path": "inputs/90bb98d00e1d_dominion_utility_actual_data.csv",
+      "sha": "efa4564b8e18b287625cf46efb0786d18fb36543",
+      "remote_sha": "efa4564b8e18b287625cf46efb0786d18fb36543",
+      "match": true
+    },
+    {
+      "path": "inputs/9401f22b1109_north_america_event_ledger.csv",
+      "sha": "44f0c32d8ffdc79824c89a48a4ee5b3f49874d8e",
+      "remote_sha": "44f0c32d8ffdc79824c89a48a4ee5b3f49874d8e",
+      "match": true
+    },
+    {
+      "path": "inputs/9ab604641caa_north_america_analytical_window_candidates.csv",
+      "sha": "d5f88e5c8d4040adfc5905ed007a0262bdeeff93",
+      "remote_sha": "d5f88e5c8d4040adfc5905ed007a0262bdeeff93",
+      "match": true
+    },
+    {
+      "path": "inputs/9fdb341bbdec_rwe_instrument_register.csv",
+      "sha": "135ac1c50d864b1d449db81f767dae0e22390759",
+      "remote_sha": "135ac1c50d864b1d449db81f767dae0e22390759",
+      "match": true
+    },
+    {
+      "path": "inputs/a15da671f07f_duke_utility_actual_data.csv",
+      "sha": "1deec015399d35345912046c23a7fc2f6ef4039c",
+      "remote_sha": "1deec015399d35345912046c23a7fc2f6ef4039c",
+      "match": true
+    },
+    {
+      "path": "inputs/a564fb53d3d7_north_america_utility_actual_data.csv",
+      "sha": "f1b4819c15180acac5cab2b7044ec356d8c69243",
+      "remote_sha": "f1b4819c15180acac5cab2b7044ec356d8c69243",
+      "match": true
+    },
+    {
+      "path": "inputs/a5c66134803d_china_analytical_window_candidates.csv",
+      "sha": "0be1e9ffaa1036de6d64c1dc3b89b5f788dc292a",
+      "remote_sha": "0be1e9ffaa1036de6d64c1dc3b89b5f788dc292a",
+      "match": true
+    },
+    {
+      "path": "inputs/a6fed0a76c27_china_observations_long.csv",
+      "sha": "21a619e643439f14c4c9c34d160351ec6f696c03",
+      "remote_sha": "21a619e643439f14c4c9c34d160351ec6f696c03",
+      "match": true
+    },
+    {
+      "path": "inputs/a9c11cd6b3a5_taipower_tohoku_observations_long.csv",
+      "sha": "0161f209c23bcd591d082675be2e506f63674385",
+      "remote_sha": "0161f209c23bcd591d082675be2e506f63674385",
+      "match": true
+    },
+    {
+      "path": "inputs/acf4e40612d2_existing_nine_current_long.csv",
+      "sha": "f8f6fbcfcd32ac7c72186a29070a2039b9946dff",
+      "remote_sha": "f8f6fbcfcd32ac7c72186a29070a2039b9946dff",
+      "match": true
+    },
+    {
+      "path": "inputs/b2ff4528ea39_nextera_analytical_window_candidates.csv",
+      "sha": "ef794a114996d464fa174e8b610ba5f8276fbb5e",
+      "remote_sha": "ef794a114996d464fa174e8b610ba5f8276fbb5e",
+      "match": true
+    },
+    {
+      "path": "inputs/b949b93d33dd_dominion_analytical_window_candidates.csv",
+      "sha": "2b5bd16c85664d0924d3d8295cc2ff0db7f4d670",
+      "remote_sha": "2b5bd16c85664d0924d3d8295cc2ff0db7f4d670",
+      "match": true
+    },
+    {
+      "path": "inputs/b968fb67e0ec_latam_event_ledger.csv",
+      "sha": "25c1cc358c7cfece6ada35be8c2105de6eec9b91",
+      "remote_sha": "25c1cc358c7cfece6ada35be8c2105de6eec9b91",
+      "match": true
+    },
+    {
+      "path": "inputs/bd408cad6684_existing_eight_event_search_coverage.csv",
+      "sha": "c4093c9b6a48a55f6d4d178889853f8d0e9a9af7",
+      "remote_sha": "c4093c9b6a48a55f6d4d178889853f8d0e9a9af7",
+      "match": true
+    },
+    {
+      "path": "inputs/c05d71f41553_bounded_fossil_event_scan.csv",
+      "sha": "9c520b8e7786f45a023a3e67b76e2e19f69e6e5e",
+      "remote_sha": "9c520b8e7786f45a023a3e67b76e2e19f69e6e5e",
+      "match": true
+    },
+    {
+      "path": "inputs/c1058493a91d_fossil_asset_event_ledger.csv",
+      "sha": "e5f37b788326d077d1b3a0a0fe29939d3d1a7969",
+      "remote_sha": "e5f37b788326d077d1b3a0a0fe29939d3d1a7969",
+      "match": true
+    },
+    {
+      "path": "inputs/c564256c45cc_rwe_fossil_event_ledger.csv",
+      "sha": "20b8f6aeaf83e51bd54899d1b4210b4ffb8ddb2b",
+      "remote_sha": "20b8f6aeaf83e51bd54899d1b4210b4ffb8ddb2b",
+      "match": true
+    },
+    {
+      "path": "inputs/c6564f850b71_constellation_analytical_window_candidates.csv",
+      "sha": "5387c9cc70a228499ff2e9c09864a9358611f224",
+      "remote_sha": "5387c9cc70a228499ff2e9c09864a9358611f224",
+      "match": true
+    },
+    {
+      "path": "inputs/c6f76621d003_europe_additional_observations_long.csv",
+      "sha": "0a9beab4150eeb0a96d3fd012b928f6d492ce1b8",
+      "remote_sha": "0a9beab4150eeb0a96d3fd012b928f6d492ce1b8",
+      "match": true
+    },
+    {
+      "path": "inputs/c71ee06a837b_southern_utility_eligibility_event_ledger.csv",
+      "sha": "47ab430da130dc48ac3bdabf710662c0c8531945",
+      "remote_sha": "47ab430da130dc48ac3bdabf710662c0c8531945",
+      "match": true
+    },
+    {
+      "path": "inputs/c9ce135addf4_existing_eight_bounded_event_ledger.csv",
+      "sha": "3556eaa56a4866f23c736dd1d9351696fab25f49",
+      "remote_sha": "3556eaa56a4866f23c736dd1d9351696fab25f49",
+      "match": true
+    },
+    {
+      "path": "inputs/ce2b7e57ba51_nextera_event_ledger.csv",
+      "sha": "1dc2550679fef873647cff98c9be245742be06ee",
+      "remote_sha": "1dc2550679fef873647cff98c9be245742be06ee",
+      "match": true
+    },
+    {
+      "path": "inputs/cf76d3371e6b_duke_event_ledger.csv",
+      "sha": "32a8b263e36eaeba7238872364745433087adae7",
+      "remote_sha": "32a8b263e36eaeba7238872364745433087adae7",
+      "match": true
+    },
+    {
+      "path": "inputs/cfc27e7349e1_dominion_event_ledger.csv",
+      "sha": "354d0040a3af135248a56fe5b9d2a9cf3822b863",
+      "remote_sha": "354d0040a3af135248a56fe5b9d2a9cf3822b863",
+      "match": true
+    },
+    {
+      "path": "inputs/cfda4c899aa6_constellation_utility_actual_data.csv",
+      "sha": "e5c9cae26e2a0e67d836410c2327bd834add0279",
+      "remote_sha": "e5c9cae26e2a0e67d836410c2327bd834add0279",
+      "match": true
+    },
+    {
+      "path": "inputs/d022ac51d76b_finance_identity_overrides.csv",
+      "sha": "3c7a4fac390c67bea62dd8f2608134a32980f2f1",
+      "remote_sha": "3c7a4fac390c67bea62dd8f2608134a32980f2f1",
+      "match": true
+    },
+    {
+      "path": "inputs/d035e22db37b_fossil_boundary_consistency_audit.csv",
+      "sha": "e0b466c021cb40fac947de93a0de1ae894d0f82f",
+      "remote_sha": "e0b466c021cb40fac947de93a0de1ae894d0f82f",
+      "match": true
+    },
+    {
+      "path": "inputs/ddd5db3ed563_latam_analytical_window_candidates.csv",
+      "sha": "7673891b430a4c0766b89c0b94af53993aeacf9b",
+      "remote_sha": "7673891b430a4c0766b89c0b94af53993aeacf9b",
+      "match": true
+    },
+    {
+      "path": "inputs/df136cae23ab_analytical_window_candidates.csv",
+      "sha": "2e31fceb76a6fd2599e01c65b70c783cee459ec7",
+      "remote_sha": "2e31fceb76a6fd2599e01c65b70c783cee459ec7",
+      "match": true
+    },
+    {
+      "path": "inputs/f9f3185bfd12_latam_operating_observations_long.csv",
+      "sha": "6cce34fa4c8a10c2e4d977598b11ee8d1ccc53fe",
+      "remote_sha": "6cce34fa4c8a10c2e4d977598b11ee8d1ccc53fe",
+      "match": true
+    },
+    {
+      "path": "inputs/fbcc69e44350_proposed_cohort_window_gate_spec.json",
+      "sha": "d6bbf4052c759adae945c8db7115cbe7f0ab313f",
+      "remote_sha": "d6bbf4052c759adae945c8db7115cbe7f0ab313f",
+      "match": true
+    },
+    {
+      "path": "inputs/fbd1bfea03a5_root_measurement_checks.csv",
+      "sha": "d99f8df96547857f5a1e3d39a40cd5b72f8e0dea",
+      "remote_sha": "d99f8df96547857f5a1e3d39a40cd5b72f8e0dea",
+      "match": true
+    },
+    {
+      "path": "inputs/snapshot_manifest.json",
+      "sha": "ac709f3839f763f2f01fc22e8c8ced01a7c9e9f7",
+      "remote_sha": "ac709f3839f763f2f01fc22e8c8ced01a7c9e9f7",
+      "match": true
+    },
+    {
+      "path": "nested_histories/README.txt",
+      "sha": "7bfc3fd6360f93417d06ca308a9565c789db0a8a",
+      "remote_sha": "7bfc3fd6360f93417d06ca308a9565c789db0a8a",
+      "match": true
+    },
+    {
+      "path": "nested_histories/expanded_cases/na_nested_project_facts.csv",
+      "sha": "b32990aea818ac9ee225aece52106cc20581227b",
+      "remote_sha": "b32990aea818ac9ee225aece52106cc20581227b",
+      "match": true
+    },
+    {
+      "path": "nested_histories/expanded_cases/new_nested_continuity_evidence.csv",
+      "sha": "5d3f19ab22d80997d887f2a71337f2a756f6204b",
+      "remote_sha": "5d3f19ab22d80997d887f2a71337f2a756f6204b",
+      "match": true
+    },
+    {
+      "path": "nested_histories/expanded_cases/wec_project_stage_panel.csv",
+      "sha": "4abe3caa03a569eeb19ef38fcb8729c14f47fc14",
+      "remote_sha": "4abe3caa03a569eeb19ef38fcb8729c14f47fc14",
+      "match": true
+    },
+    {
+      "path": "nested_histories/expanded_cases/wec_stage_outputs.csv",
+      "sha": "a5771abe628a75d9c22db976a724bb3bb433aa25",
+      "remote_sha": "a5771abe628a75d9c22db976a724bb3bb433aa25",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/coal_bridge_validation.csv",
+      "sha": "e3e9aa616419f2c9183e4455d7485c4493134577",
+      "remote_sha": "e3e9aa616419f2c9183e4455d7485c4493134577",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/coal_capacity_regional_bridge_2019_2024.csv",
+      "sha": "4a6d7e8dc24b6ecfa2b3f70b21c7b53c0e2de33f",
+      "remote_sha": "4a6d7e8dc24b6ecfa2b3f70b21c7b53c0e2de33f",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/coal_decision_event_dossier.csv",
+      "sha": "21665351dfd2be1bd6f99aa685d0f389a682db33",
+      "remote_sha": "21665351dfd2be1bd6f99aa685d0f389a682db33",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/fossil_asset_events_seed.csv",
+      "sha": "538f1023dd571a49e1e06619166bdba5a2669ca3",
+      "remote_sha": "538f1023dd571a49e1e06619166bdba5a2669ca3",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/green_2019_issue_annual_summary.csv",
+      "sha": "fd51cf2d967ebedae76dca437e45ec233a2672ae",
+      "remote_sha": "fd51cf2d967ebedae76dca437e45ec233a2672ae",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/green_2019_issue_full_annual_panel.csv",
+      "sha": "40bb0aa99607e6f257ced403e92397a83164f4c3",
+      "remote_sha": "40bb0aa99607e6f257ced403e92397a83164f4c3",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/green_2019_issue_pool_continuity.csv",
+      "sha": "84093592b207751a3a5695d10ddd71923cadc837",
+      "remote_sha": "84093592b207751a3a5695d10ddd71923cadc837",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/green_2019_issue_project_vintages.csv",
+      "sha": "bf189468200599fe0d82053e61763177563232fd",
+      "remote_sha": "bf189468200599fe0d82053e61763177563232fd",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/green_2019_issue_reassignment_disclosures.csv",
+      "sha": "04c2df398c8f2066defc268a3d479923c6435e9b",
+      "remote_sha": "04c2df398c8f2066defc268a3d479923c6435e9b",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/green_allocations_by_issue_vintage.csv",
+      "sha": "774dd0d6c73f19fe2429fad153b5c9a33170dde9",
+      "remote_sha": "774dd0d6c73f19fe2429fad153b5c9a33170dde9",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/green_reallocations_2023.csv",
+      "sha": "53249a6bd44a93993493effec429192af96b63b0",
+      "remote_sha": "53249a6bd44a93993493effec429192af96b63b0",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/issuer_fuel_year_2019_2024.csv",
+      "sha": "ed0eed010890397c8872d4c584d78e76ee293598",
+      "remote_sha": "ed0eed010890397c8872d4c584d78e76ee293598",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/project_generation_selected_2019_2024.csv",
+      "sha": "43ae50b3b5b190fff44e5f36e40c1f34970ceaf1",
+      "remote_sha": "43ae50b3b5b190fff44e5f36e40c1f34970ceaf1",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/source_cells_fuel_rows.csv",
+      "sha": "820f83cbc69e14bd397062397f1e7790187a002a",
+      "remote_sha": "820f83cbc69e14bd397062397f1e7790187a002a",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/source_manifest.csv",
+      "sha": "a77d8926899aa8fa6b8e4cf68aec21a998ee1f09",
+      "remote_sha": "a77d8926899aa8fa6b8e4cf68aec21a998ee1f09",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/enel/validation_checks.csv",
+      "sha": "6e07fdf8ffd0d244c242ddf438d8e314583e9506",
+      "remote_sha": "6e07fdf8ffd0d244c242ddf438d8e314583e9506",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/ccgt_capacity_bridge_2023_2024.csv",
+      "sha": "38a589a4613473b8f94d6518912098d7f02d8d4c",
+      "remote_sha": "38a589a4613473b8f94d6518912098d7f02d8d4c",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/comparative_revision_audit.csv",
+      "sha": "e94caa716d50dcff3030cd9fafb25a6a678eb05d",
+      "remote_sha": "e94caa716d50dcff3030cd9fafb25a6a678eb05d",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/descriptive_metrics.csv",
+      "sha": "e1df8cbde32a38686a758093f47f4550df1fe07f",
+      "remote_sha": "e1df8cbde32a38686a758093f47f4550df1fe07f",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/green_bond_instrument_facts.csv",
+      "sha": "02461bb633192d5f8c1b3676fce01e1f5c09cf91",
+      "remote_sha": "02461bb633192d5f8c1b3676fce01e1f5c09cf91",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/green_bond_project_allocations.csv",
+      "sha": "879d6ee4ef8eb517b6eb4ae05d045339094e3324",
+      "remote_sha": "879d6ee4ef8eb517b6eb4ae05d045339094e3324",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/annual_capacity_bridges_2020_2024.csv",
+      "sha": "ae58a34a668e97becd50c4aa37c4e080a04a5503",
+      "remote_sha": "ae58a34a668e97becd50c4aa37c4e080a04a5503",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/capacity_by_fossil_technology_2019_2024.csv",
+      "sha": "3debc1b381375c040fa0a3f3c41547375f3b79ce",
+      "remote_sha": "3debc1b381375c040fa0a3f3c41547375f3b79ce",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/capacity_reporting_revision.csv",
+      "sha": "d9c77ee74cde26e0b5c541a77f7dfe8daee92fd6",
+      "remote_sha": "d9c77ee74cde26e0b5c541a77f7dfe8daee92fd6",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/fossil_capacity_event_ledger.csv",
+      "sha": "aed34d3dfc0d3c471d08acfe45ae795253265e5a",
+      "remote_sha": "aed34d3dfc0d3c471d08acfe45ae795253265e5a",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/matched_green_hybrid_2019_2024.csv",
+      "sha": "eb1d8a467d4d9c3666b43821580c468b295e8af2",
+      "remote_sha": "eb1d8a467d4d9c3666b43821580c468b295e8af2",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/matched_green_hybrid_projects_2019_2024.csv",
+      "sha": "878c645f8c03ab3785b87242bcfa70ef814a4c72",
+      "remote_sha": "878c645f8c03ab3785b87242bcfa70ef814a4c72",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/matched_project_delivery_evidence.csv",
+      "sha": "cfa3e807d55f6469e28b4428f2f9b8836e750fec",
+      "remote_sha": "cfa3e807d55f6469e28b4428f2f9b8836e750fec",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/primary_capacity_summary.csv",
+      "sha": "37b856a56ecdb5f5dd14688f464519975f56df3d",
+      "remote_sha": "37b856a56ecdb5f5dd14688f464519975f56df3d",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/prior_strategy_evidence.csv",
+      "sha": "f625574688385e257e13fb378c710dba90254cb6",
+      "remote_sha": "f625574688385e257e13fb378c710dba90254cb6",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/history_2019_2024/source_manifest.csv",
+      "sha": "5c8947c874eedb2b79a6c86a88272361166c81dd",
+      "remote_sha": "5c8947c874eedb2b79a6c86a88272361166c81dd",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/issuer_year_technology_facts.csv",
+      "sha": "afa6be2a5ba72e9276f005fc554596fdfc718e56",
+      "remote_sha": "afa6be2a5ba72e9276f005fc554596fdfc718e56",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/ownership_events.csv",
+      "sha": "1b1f3668640515356a01d25ac9cf9aa68619a02a",
+      "remote_sha": "1b1f3668640515356a01d25ac9cf9aa68619a02a",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/quality_issues.csv",
+      "sha": "1ac06217c995ca893ea5ce2a3655a1a367b80325",
+      "remote_sha": "1ac06217c995ca893ea5ce2a3655a1a367b80325",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/source_manifest.csv",
+      "sha": "61f767a745070b3a22c11f7214906c462f56ccf0",
+      "remote_sha": "61f767a745070b3a22c11f7214906c462f56ccf0",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/iberdrola/validation_checks.csv",
+      "sha": "69b6a140f0c6533cde518970e4e736a8164ab2aa",
+      "remote_sha": "69b6a140f0c6533cde518970e4e736a8164ab2aa",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/asset_event_ledger.csv",
+      "sha": "6b4019cfa44e0afe409bc61f5fe6233aefa41945",
+      "remote_sha": "6b4019cfa44e0afe409bc61f5fe6233aefa41945",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/bond_project_cell_provenance.csv",
+      "sha": "72dcd3ae417c08fcf1ea7f5a4d21d9dd000ef096",
+      "remote_sha": "72dcd3ae417c08fcf1ea7f5a4d21d9dd000ef096",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/bond_project_rows_2024.csv",
+      "sha": "333b31521da6bca434089ed4470a0fc87464b71c",
+      "remote_sha": "333b31521da6bca434089ed4470a0fc87464b71c",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/bond_register_2024.csv",
+      "sha": "11a9b00e7d8a7c62be19e7ec2815cce309c62810",
+      "remote_sha": "11a9b00e7d8a7c62be19e7ec2815cce309c62810",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/boundary_additional_source_cells.csv",
+      "sha": "dbc55428afef58158ff3dd8107ab5ffebf2b9f20",
+      "remote_sha": "dbc55428afef58158ff3dd8107ab5ffebf2b9f20",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/boundary_classification_ledger.csv",
+      "sha": "b5b168cfc54ed9ee7ccce50dab9715e1b0628918",
+      "remote_sha": "b5b168cfc54ed9ee7ccce50dab9715e1b0628918",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/capacity_2019_2024_bridges.csv",
+      "sha": "34816f32a5e5f691463d76147f79222b8982f5f9",
+      "remote_sha": "34816f32a5e5f691463d76147f79222b8982f5f9",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/capacity_2019_2024_event_contributions.csv",
+      "sha": "ee1390c5f1ba1dfbe24d3709add10a66a4c63c20",
+      "remote_sha": "ee1390c5f1ba1dfbe24d3709add10a66a4c63c20",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/capacity_2019_2024_fuel_stratified.csv",
+      "sha": "36d3deabd375218b846cf64b100fa1e37b39e23b",
+      "remote_sha": "36d3deabd375218b846cf64b100fa1e37b39e23b",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/capacity_2019_2024_source_cells.csv",
+      "sha": "87034aa0a0304a5d359b7e6b1bea36e200368da3",
+      "remote_sha": "87034aa0a0304a5d359b7e6b1bea36e200368da3",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/capacity_prior_decisions_and_dates.csv",
+      "sha": "483378dd5521040ec3553156a1f1b16666ad8f4e",
+      "remote_sha": "483378dd5521040ec3553156a1f1b16666ad8f4e",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/derived_comparable_generation.csv",
+      "sha": "3f4a86dcd22ef97b5b7eedc446dfa0855f5cc745",
+      "remote_sha": "3f4a86dcd22ef97b5b7eedc446dfa0855f5cc745",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/fixed_cohort_actual_milestones.csv",
+      "sha": "b9f5992fb5f9a6b954bad131d84119170f77eff6",
+      "remote_sha": "b9f5992fb5f9a6b954bad131d84119170f77eff6",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/fixed_cohort_annual_disclosure_snapshots.csv",
+      "sha": "6b73c08b42a25e3e2cdab2ed76d6171790eb3f77",
+      "remote_sha": "6b73c08b42a25e3e2cdab2ed76d6171790eb3f77",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/fixed_cohort_bond_project_links.csv",
+      "sha": "8b17835e6ed128238056f23a38d2d0d30a35d773",
+      "remote_sha": "8b17835e6ed128238056f23a38d2d0d30a35d773",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/fixed_cohort_project_master.csv",
+      "sha": "f1686cd9479e601c4be0913b95fd1e21c25a1704",
+      "remote_sha": "f1686cd9479e601c4be0913b95fd1e21c25a1704",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/green_uop_2019_2024_coverage.csv",
+      "sha": "f86983dd4461f9f09dcf3f1fd51bd6bb21dcc7c0",
+      "remote_sha": "f86983dd4461f9f09dcf3f1fd51bd6bb21dcc7c0",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/green_uop_2023_gb5_project_rows.csv",
+      "sha": "fd71da71ac3072085e38dacea0150aa4afa7e184",
+      "remote_sha": "fd71da71ac3072085e38dacea0150aa4afa7e184",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/issuer_year_cells.csv",
+      "sha": "18d20ef05797285aa45ce1eab6c2d0b47f4e473d",
+      "remote_sha": "18d20ef05797285aa45ce1eab6c2d0b47f4e473d",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/thermal_capacity_bridge_2023_2024.csv",
+      "sha": "ecda30ef3cf65891276e00b63426ffc8670b4c2d",
+      "remote_sha": "ecda30ef3cf65891276e00b63426ffc8670b4c2d",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/triton_counterparty_corroboration.csv",
+      "sha": "a79849bcd56f7a9397a2c06c92e2fa0d15eaa816",
+      "remote_sha": "a79849bcd56f7a9397a2c06c92e2fa0d15eaa816",
+      "match": true
+    },
+    {
+      "path": "nested_histories/original_three/sse/whole_company_boundary_status.csv",
+      "sha": "01ced57d9d5b39af1dee6959c8363106b4b9cf16",
+      "remote_sha": "01ced57d9d5b39af1dee6959c8363106b4b9cf16",
+      "match": true
+    },
+    {
+      "path": "nested_histories/seven_case_evidence_index.csv",
+      "sha": "3f6541b2a2256c383106e7520e4b8f3a7e4ab127",
+      "remote_sha": "3f6541b2a2256c383106e7520e4b8f3a7e4ab127",
+      "match": true
+    },
+    {
+      "path": "nested_histories/source_manifest.json",
+      "sha": "8b1773b15ace89c9aa1783ebd3df40ae5e899abd",
+      "remote_sha": "8b1773b15ace89c9aa1783ebd3df40ae5e899abd",
+      "match": true
+    },
+    {
+      "path": "package_sha256.json",
+      "sha": "ce34248ae54cc7e19cc835328aab96c26594f346",
+      "remote_sha": "ce34248ae54cc7e19cc835328aab96c26594f346",
+      "match": true
+    },
+    {
+      "path": "requirements.txt",
+      "sha": "f49d71cc20507e60b7e66d5d41fcb56ea9d7fad9",
+      "remote_sha": "f49d71cc20507e60b7e66d5d41fcb56ea9d7fad9",
+      "match": true
+    },
+    {
+      "path": "run_reproduce.py",
+      "sha": "5d4c667ccf0400b2938edaffc895a486324fddd5",
+      "remote_sha": "5d4c667ccf0400b2938edaffc895a486324fddd5",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/README.txt",
+      "sha": "5bfc4e5edb4d39c57460781470fbeb1862d356ce",
+      "remote_sha": "5bfc4e5edb4d39c57460781470fbeb1862d356ce",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/build_theory_evidence.py",
+      "sha": "8c9979dd62694faaa21323294174c5d5d03df94e",
+      "remote_sha": "8c9979dd62694faaa21323294174c5d5d03df94e",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/event_family_fuel_scope_audit.csv",
+      "sha": "aeeaadc9dfa6ae2447c0203403f499a6c1d5d1ca",
+      "remote_sha": "aeeaadc9dfa6ae2447c0203403f499a6c1d5d1ca",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/analysis_panel/results/selected_window_event_evidence.csv",
+      "sha": "7ef1b22152cc29da6181e5456c2a0ef7e11ada9b",
+      "remote_sha": "7ef1b22152cc29da6181e5456c2a0ef7e11ada9b",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/figures/figure_1_plot_data.csv",
+      "sha": "db72871db1028d652f3856000d41f2a6f4c3f309",
+      "remote_sha": "db72871db1028d652f3856000d41f2a6f4c3f309",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/expanded_cases/na_nested_project_facts.csv",
+      "sha": "b32990aea818ac9ee225aece52106cc20581227b",
+      "remote_sha": "b32990aea818ac9ee225aece52106cc20581227b",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/expanded_cases/new_nested_continuity_evidence.csv",
+      "sha": "5d3f19ab22d80997d887f2a71337f2a756f6204b",
+      "remote_sha": "5d3f19ab22d80997d887f2a71337f2a756f6204b",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/expanded_cases/wec_project_stage_panel.csv",
+      "sha": "4abe3caa03a569eeb19ef38fcb8729c14f47fc14",
+      "remote_sha": "4abe3caa03a569eeb19ef38fcb8729c14f47fc14",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/expanded_cases/wec_stage_outputs.csv",
+      "sha": "a5771abe628a75d9c22db976a724bb3bb433aa25",
+      "remote_sha": "a5771abe628a75d9c22db976a724bb3bb433aa25",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/enel/green_2019_issue_full_annual_panel.csv",
+      "sha": "40bb0aa99607e6f257ced403e92397a83164f4c3",
+      "remote_sha": "40bb0aa99607e6f257ced403e92397a83164f4c3",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/enel/green_2019_issue_pool_continuity.csv",
+      "sha": "84093592b207751a3a5695d10ddd71923cadc837",
+      "remote_sha": "84093592b207751a3a5695d10ddd71923cadc837",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/enel/green_2019_issue_reassignment_disclosures.csv",
+      "sha": "04c2df398c8f2066defc268a3d479923c6435e9b",
+      "remote_sha": "04c2df398c8f2066defc268a3d479923c6435e9b",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/enel/green_reallocations_2023.csv",
+      "sha": "53249a6bd44a93993493effec429192af96b63b0",
+      "remote_sha": "53249a6bd44a93993493effec429192af96b63b0",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/iberdrola/history_2019_2024/matched_green_hybrid_2019_2024.csv",
+      "sha": "eb1d8a467d4d9c3666b43821580c468b295e8af2",
+      "remote_sha": "eb1d8a467d4d9c3666b43821580c468b295e8af2",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/iberdrola/history_2019_2024/matched_green_hybrid_projects_2019_2024.csv",
+      "sha": "878c645f8c03ab3785b87242bcfa70ef814a4c72",
+      "remote_sha": "878c645f8c03ab3785b87242bcfa70ef814a4c72",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/iberdrola/history_2019_2024/matched_project_delivery_evidence.csv",
+      "sha": "cfa3e807d55f6469e28b4428f2f9b8836e750fec",
+      "remote_sha": "cfa3e807d55f6469e28b4428f2f9b8836e750fec",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/sse/bond_project_rows_2024.csv",
+      "sha": "333b31521da6bca434089ed4470a0fc87464b71c",
+      "remote_sha": "333b31521da6bca434089ed4470a0fc87464b71c",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/sse/fixed_cohort_actual_milestones.csv",
+      "sha": "b9f5992fb5f9a6b954bad131d84119170f77eff6",
+      "remote_sha": "b9f5992fb5f9a6b954bad131d84119170f77eff6",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/sse/fixed_cohort_project_master.csv",
+      "sha": "f1686cd9479e601c4be0913b95fd1e21c25a1704",
+      "remote_sha": "f1686cd9479e601c4be0913b95fd1e21c25a1704",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/frozen_inputs/nested_histories/original_three/sse/green_uop_2023_gb5_project_rows.csv",
+      "sha": "fd71da71ac3072085e38dacea0150aa4afa7e184",
+      "remote_sha": "fd71da71ac3072085e38dacea0150aa4afa7e184",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/principal33_direction_event_compact.csv",
+      "sha": "76df1735886de3838ef7d4b675afda3d5e9c3df0",
+      "remote_sha": "76df1735886de3838ef7d4b675afda3d5e9c3df0",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/principal33_direction_event_crosstab.csv",
+      "sha": "ebe67265c384fb8c51a2b0cb386c9e266a01cf4c",
+      "remote_sha": "ebe67265c384fb8c51a2b0cb386c9e266a01cf4c",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/principal33_direction_event_presence_long.csv",
+      "sha": "881e23d42ee253266b98c105d23970a2153b9b88",
+      "remote_sha": "881e23d42ee253266b98c105d23970a2153b9b88",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/principal33_selected_window_event_evidence.csv",
+      "sha": "a3cbc69fcce1bed35434cb45df7e0b6e533b65d1",
+      "remote_sha": "a3cbc69fcce1bed35434cb45df7e0b6e533b65d1",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/recomputed_allocation_stage_comparison.csv",
+      "sha": "fc044e0ee5e37f8ad8434caac92a83e4af67f6e7",
+      "remote_sha": "fc044e0ee5e37f8ad8434caac92a83e4af67f6e7",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/seven_history_comparison.csv",
+      "sha": "e6c15e5ea9be99d83b7a55be097f896050cb65d6",
+      "remote_sha": "e6c15e5ea9be99d83b7a55be097f896050cb65d6",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/seven_history_handcoding.csv",
+      "sha": "e5f41aabb2af0f248961f23b8cec8362bd68dc17",
+      "remote_sha": "e5f41aabb2af0f248961f23b8cec8362bd68dc17",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/seven_history_row_provenance.csv",
+      "sha": "59a0a794c07e62e42e80eebf377672709db64a20",
+      "remote_sha": "59a0a794c07e62e42e80eebf377672709db64a20",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/supplemental_enel_ownership_sources.csv",
+      "sha": "55d20fc04d99aa6bbb0567b0fa76aa1f401f7f6f",
+      "remote_sha": "55d20fc04d99aa6bbb0567b0fa76aa1f401f7f6f",
+      "match": true
+    },
+    {
+      "path": "strategy_comparison/validation_and_provenance.json",
+      "sha": "157b463c36be0683ade7432d58aa8e66be305256",
+      "remote_sha": "157b463c36be0683ade7432d58aa8e66be305256",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/README.txt",
+      "sha": "aaccf7a842b3b0210c7f4ff4601d2a8690477cb5",
+      "remote_sha": "aaccf7a842b3b0210c7f4ff4601d2a8690477cb5",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/all33_group_coverage.csv",
+      "sha": "d22f10e7d9900479e0cb361303ca49f56badf06e",
+      "remote_sha": "d22f10e7d9900479e0cb361303ca49f56badf06e",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/all97_archive_field_audit.csv",
+      "sha": "96698310cc36a3e4a0357f4a4a2a859a046e0078",
+      "remote_sha": "96698310cc36a3e4a0357f4a4a2a859a046e0078",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/audit_summary.json",
+      "sha": "16b9de375e8eac75210dbb19fcf3de03f9f40874",
+      "remote_sha": "16b9de375e8eac75210dbb19fcf3de03f9f40874",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/build_audit.py",
+      "sha": "ff325144cbe3ab516d893c90ee50b30f4f2b8c67",
+      "remote_sha": "ff325144cbe3ab516d893c90ee50b30f4f2b8c67",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/build_evidence.py",
+      "sha": "7d77c6cd9a4bc4eddf84ec6eb458cf5642bbb7a9",
+      "remote_sha": "7d77c6cd9a4bc4eddf84ec6eb458cf5642bbb7a9",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/decision_rationale_evidence.csv",
+      "sha": "e5035b5118f374e62b0a93f3e9bdd8c157dce839",
+      "remote_sha": "e5035b5118f374e62b0a93f3e9bdd8c157dce839",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/evidence_summary.json",
+      "sha": "8ed8ef7a6bf938a4238515c3ec507535458f58e4",
+      "remote_sha": "8ed8ef7a6bf938a4238515c3ec507535458f58e4",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/file_checksums.json",
+      "sha": "0b113bc0db82023e701b12f279eac82179a85589",
+      "remote_sha": "0b113bc0db82023e701b12f279eac82179a85589",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/frozen_inputs/principal33_direction_event_presence_long.csv",
+      "sha": "881e23d42ee253266b98c105d23970a2153b9b88",
+      "remote_sha": "881e23d42ee253266b98c105d23970a2153b9b88",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/frozen_inputs/principal33_selected_window_event_evidence.csv",
+      "sha": "a3cbc69fcce1bed35434cb45df7e0b6e533b65d1",
+      "remote_sha": "a3cbc69fcce1bed35434cb45df7e0b6e533b65d1",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/frozen_inputs/seven_history_handcoding.csv",
+      "sha": "e5f41aabb2af0f248961f23b8cec8362bd68dc17",
+      "remote_sha": "e5f41aabb2af0f248961f23b8cec8362bd68dc17",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/seven_history_rationale_coverage.csv",
+      "sha": "c61c49351b15a261412b50c12fdb27eb78a93ff8",
+      "remote_sha": "c61c49351b15a261412b50c12fdb27eb78a93ff8",
+      "match": true
+    },
+    {
+      "path": "decision_rationales/validation.json",
+      "sha": "ac8520680376a3891606e5243c1d860d443338b2",
+      "remote_sha": "ac8520680376a3891606e5243c1d860d443338b2",
+      "match": true
+    }
+  ]
+}

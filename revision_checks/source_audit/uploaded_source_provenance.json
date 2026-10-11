@@ -1,0 +1,40 @@
+[
+  {
+    "filename": "wepco-4-75-green-bonds-management-assertion-2023.pdf",
+    "sha256": "f82af0bbc08422f2ef5d43c66f1c499c9dfff756f101b2ebd3e0df9fa971b502",
+    "bytes": 575347,
+    "source": "Author-supplied primary issuer PDF",
+    "report_cutoff": "2023-06-30",
+    "review_date": "2026-10-11",
+    "pages": 1,
+    "pages_text_read": [
+      1
+    ],
+    "pages_image_inspected": [
+      1
+    ],
+    "graphics_review": "Issuer logos on assertions; 2024 accountant logo and signature on page2; no analytical chart or additional numeric figure. Tables inspected visually.",
+    "remote_retrieval_status": "Earlier remote requests inaccessible/HTTP451; no byte-equivalence to remote copy established",
+    "distribution": "Do not redistribute primary PDFs, extracted full text, or page images; publish derived observations and this provenance only."
+  },
+  {
+    "filename": "wepco-green-bonds-management-assertion-deloitte-attestation.pdf",
+    "sha256": "0a0afb18bf99fe0574104ac2b9da011934c2492707679be800b025ec89efd648",
+    "bytes": 296335,
+    "source": "Author-supplied primary issuer PDF",
+    "report_cutoff": "2024-06-30",
+    "review_date": "2026-10-11",
+    "pages": 2,
+    "pages_text_read": [
+      1,
+      2
+    ],
+    "pages_image_inspected": [
+      1,
+      2
+    ],
+    "graphics_review": "Issuer logos on assertions; 2024 accountant logo and signature on page2; no analytical chart or additional numeric figure. Tables inspected visually.",
+    "remote_retrieval_status": "Earlier remote requests inaccessible/HTTP451; no byte-equivalence to remote copy established",
+    "distribution": "Do not redistribute primary PDFs, extracted full text, or page images; publish derived observations and this provenance only."
+  }
+]

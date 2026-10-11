@@ -1,0 +1,195 @@
+{
+  "version": "BSE-2026-10-11-r3",
+  "release_date": "2026-10-11",
+  "source_baseline_commit": "484d3b801fcd1441d6e2070a7889d733b43cc326",
+  "associated_documents": [
+    {
+      "role": "main",
+      "filename": "Green_Bond_Financing_and_Fossil_Asset_Strategies.docx",
+      "sha256": "70e000ae44d7a9c0543f94056a34ecddf6c817ed6a498554b23674c5221feba5",
+      "distributed_with_repository": false
+    },
+    {
+      "role": "supplementary",
+      "filename": "Supplementary_Information.docx",
+      "sha256": "f80e998e52acb35b9b27d5b3fdda4b129514761e7d263c767862d7cbbd8c35e3",
+      "distributed_with_repository": false
+    }
+  ],
+  "revised_repository_files": [
+    {
+      "path": "README.md",
+      "sha256": "b496bfd859eb30dde602491c21e46191b90391be782f81b89e4d7245100d021e"
+    },
+    {
+      "path": "analysis_panel/results/capacity_component_results.csv",
+      "sha256": "7848d9872ccf642ea51a4c7759c4bac03a279a4bba8cb28f73142afcf407d542"
+    },
+    {
+      "path": "analysis_panel/results/contextual_window_finance_evidence.csv",
+      "sha256": "d376907804c88f81954bb2fb7328d8099ebba07b23e2b54d2c3617f64473d2d2"
+    },
+    {
+      "path": "analysis_panel/results/group_capacity_results.csv",
+      "sha256": "98b86d93a218922d919a0b9684bff25bc4fff62af81aa76711be649c0442fced"
+    },
+    {
+      "path": "analysis_panel/results/selected_window_finance_evidence.csv",
+      "sha256": "84c839047f89810c4507dae0ee90b64e7029e5d2fbfc46f6e3cd9522d0be14ac"
+    },
+    {
+      "path": "decision_rationales/seven_history_rationale_coverage.csv",
+      "sha256": "ce22b4f588adacf74c400e572ef7e780de6895a5b5e61af215cbdc0dbc028b9a"
+    },
+    {
+      "path": "figures/figure_1_plot_data.csv",
+      "sha256": "347ac29743fbca221e359ba6d5d7cc58e2fffee9ca42863c8152009e64292538"
+    },
+    {
+      "path": "revision_checks/README.md",
+      "sha256": "59e340a2467d1f86b47fad9e21518ec41ade52b77103387aab7a4f775e0e0808"
+    },
+    {
+      "path": "revision_checks/apply_interpretation_corrections.py",
+      "sha256": "889446fff13c1b456465b7b8d00398f8a9d081d9b413b8079d77de0ff3d52ff7"
+    },
+    {
+      "path": "revision_checks/build_revision_checks.py",
+      "sha256": "99c47912d6a26459c6addffb077afec133c775a5a226567125e6ad24989131b0"
+    },
+    {
+      "path": "revision_checks/contribution_matrix.md",
+      "sha256": "cdd371e823bfa9ea2a1376ad884666b36b49e1348ed9a994897d5c13f863704a"
+    },
+    {
+      "path": "revision_checks/corrected_numeric_equivalence.json",
+      "sha256": "0b817afc64eaf138d64c9696a34ac5372c857da4ca043b11cf7319743e3efd35"
+    },
+    {
+      "path": "revision_checks/corrected_output_manifest.json",
+      "sha256": "d0653fb12d0ec4e27ef55436c3b8548dff2371f86a713b7d6ae4c662608379a6"
+    },
+    {
+      "path": "revision_checks/decision_rationales_build_audit.py.log",
+      "sha256": "e50364d59ccff7d1864ef86c6c8e25dcbd64443241ea6186ac91dd6b594e8945"
+    },
+    {
+      "path": "revision_checks/decision_rationales_build_evidence.py.log",
+      "sha256": "13818b998e07c8f9858845f069b567088aa09367f75ff24f5769b95501670d01"
+    },
+    {
+      "path": "revision_checks/economic_magnitude_examples.csv",
+      "sha256": "578a199e7f5bd297be0ba23a059c56f5c909e2407fabe696b4f87a60908bdb0a"
+    },
+    {
+      "path": "revision_checks/economic_magnitude_provenance.csv",
+      "sha256": "02b30baccd2ddb77ce862861e75321acc94a00d89112c0c2de682f0c54d2a530"
+    },
+    {
+      "path": "revision_checks/final_citation_check.json",
+      "sha256": "3136836b7ebc3ec11a9ac89c8da4992a52e20cd9a4ed1be9f1be1338f19f04c5"
+    },
+    {
+      "path": "revision_checks/final_code_validation.json",
+      "sha256": "3e7c9e0ebe9b27d476ee22d7c37332f8499864a968e03a9d702e3f43d78d7644"
+    },
+    {
+      "path": "revision_checks/invariant_checks.json",
+      "sha256": "5dd1c9cdd6a8985f73d8d23ed5e0251bfbd25748667b97e390a501cb93910738"
+    },
+    {
+      "path": "revision_checks/reference_audit.csv",
+      "sha256": "38ff222b2f1490f81cb62527242a806c2dddef2ad1aa0769b49c9b90ef5688ed"
+    },
+    {
+      "path": "revision_checks/reference_audit_summary.md",
+      "sha256": "3d6d1d37a6c5404c56e60b5bdca8fe7721d9af0f03e7613aff1231aeae3bf472"
+    },
+    {
+      "path": "revision_checks/reproduction_log.json",
+      "sha256": "bfb604f9c40ce1ecda12194cd509ac26e3aa3b02a06a03c9a132da301dfd63b2"
+    },
+    {
+      "path": "revision_checks/revision_checks_apply_interpretation_corrections.py.log",
+      "sha256": "3829f816bba4725cb6ed1aaf9cf74d2253bee6c6bae16ba92a20d2b5484ffd89"
+    },
+    {
+      "path": "revision_checks/revision_checks_build_revision_checks.py.log",
+      "sha256": "37023bec7d11a0a75e03b53aea52c70ef490aea46f62db4bb267c2644438a273"
+    },
+    {
+      "path": "revision_checks/revision_file_manifest.json",
+      "sha256": "7a4a7a199ce5804cf3824d77ef69aa516274c0cf522ec2541dc503a2d33cf044"
+    },
+    {
+      "path": "revision_checks/run_reproduce.py.log",
+      "sha256": "109f1a35b32726dcd5bc2bd38e243464d1feae36095e32bd2bd80aa628f6ab5b"
+    },
+    {
+      "path": "revision_checks/selection_flow.csv",
+      "sha256": "f35fd454ca9c1bad4051325982073e1e7afb7de6783e0ec5577575dfdd2d8cf6"
+    },
+    {
+      "path": "revision_checks/selection_reconciliation.csv",
+      "sha256": "ba85f4925315f71a3786367436efa69fa2630876e3c2b609732238c303c4ce4f"
+    },
+    {
+      "path": "revision_checks/source_audit/audited_calculations.json",
+      "sha256": "eab123d94b017d4d90aa771495f80c89c2ee369a6b58db0761fa871bd90ad25c"
+    },
+    {
+      "path": "revision_checks/source_audit/data_definitions.csv",
+      "sha256": "d65a12d71d78bcaa5fe87638a853157b70a90efe8fedbd22f432ae00f9dd4c6a"
+    },
+    {
+      "path": "revision_checks/source_audit/targeted_source_semantic_audit.csv",
+      "sha256": "6858a71e8b52e73c634126b771428c69ecf36d021b970a5fde93f57f142fb896"
+    },
+    {
+      "path": "revision_checks/source_audit/uploaded_source_provenance.json",
+      "sha256": "bc86850e3da795e399f8d0086730fac651b1b54c7d3358ee1b641c1b227c4eb7"
+    },
+    {
+      "path": "revision_checks/source_audit/wec_primary_verified_observations.csv",
+      "sha256": "d22e3801716dab1b387eacf3bb0526f7638951f058d9040110a32543269c59a9"
+    },
+    {
+      "path": "revision_checks/source_file_comparison.json",
+      "sha256": "2401d273e2e1892843fc8ed862ef5aa79f925f561ed3df9a8beebcd8eec6fd58"
+    },
+    {
+      "path": "revision_checks/source_interpretation_corrections.csv",
+      "sha256": "4e83e3c76d3edb67846883ce0389a331c7db3bc4ca64ffab4936e4a1f40193e3"
+    },
+    {
+      "path": "revision_checks/strategy_comparison_build_theory_evidence.py.log",
+      "sha256": "e1aa813677b628f7bcca0067d3ddc19c8ecc0e71688bf4ad1e1ff8ddf2c0fb26"
+    },
+    {
+      "path": "revision_checks/technical_summary.json",
+      "sha256": "4d91d93a91a6d28c1965f31a8a46933335b1b2fddb7874f7bb090c95494069ea"
+    },
+    {
+      "path": "revision_checks/timing_capacity_provenance.csv",
+      "sha256": "4594351a43af63ea585f166656c7e2499f7e8d714b31bdd064e8b7321f9df9a5"
+    },
+    {
+      "path": "revision_checks/timing_comparison.csv",
+      "sha256": "cd2584a7cf9c0eec9866c5923da6adf152fe50c2f27cbe13c1ff570dbe995aa6"
+    },
+    {
+      "path": "revision_checks/timing_finance_provenance.csv",
+      "sha256": "c21e33bd0f1b4c416a5b9522d6a5be300e94addaf7a81bd15f5c6bba63109487"
+    },
+    {
+      "path": "run_all.py",
+      "sha256": "ba5d3176676cb689f98ff49f748423613aef1163e3b19b645376612515ece8de"
+    },
+    {
+      "path": "strategy_comparison/seven_history_comparison.csv",
+      "sha256": "e835878ba7112d75d26bc556618be5b535c59ddaf70ffbe0a3c3bfc583bcc97a"
+    }
+  ],
+  "scope": "Reproducibility and verification materials. Manuscript files and original issuer reports are not redistributed here.",
+  "licensing": "No new licence granted by this revision."
+}

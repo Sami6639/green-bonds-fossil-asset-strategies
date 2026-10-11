@@ -1,0 +1,28 @@
+{
+  "event_records": 97,
+  "groups_with_event_records": 28,
+  "principal_groups": 33,
+  "groups_without_event_records": [
+    "American Electric Power",
+    "DTE Energy",
+    "J-POWER (Electric Power Development)",
+    "Naturgy",
+    "Ontario Power Generation"
+  ],
+  "rows_with_nonempty_decision_date_field": 11,
+  "rows_with_decision_source_url": 8,
+  "rows_with_dedicated_rationale_field": 0,
+  "rows_with_finance_connection_field": 3,
+  "finance_connection_values": [
+    "not_established; hydro-secured green notes at subsidiary coexist with parent thermal strategy",
+    "not_established_by_this_source",
+    "not_established_by_this_source"
+  ],
+  "input_sha256": {
+    "seven_history_handcoding.csv": "360785356fb035768dc0b3799eccbfa629b9e88d65e5c995b886cedfe59ccd2d",
+    "principal33_direction_event_presence_long.csv": "ec04538967000dbc99c506c9184ab733867415e9d8372c1d78280420418fc28e",
+    "principal33_selected_window_event_evidence.csv": "7f359fc3e12ab59399081d32da43d8466e78ad850ac8e3979a4ca15035ad9532"
+  }
+}
+
+STDERR

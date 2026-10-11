@@ -1,0 +1,15 @@
+{
+  "SSE_2023_pct": 6.8394925537782685,
+  "SSE_2024_pct": 69.47968376539805,
+  "WEC_2023_badger_weight_pct": 34.32729854455094,
+  "WEC_2024_pct": 33.46197502837684,
+  "SSE_alloc_residual_GBP_m": 0.0,
+  "WEC_2023_residual_USD_m": 0.0,
+  "WEC_2024_residual_USD_m": 0.0,
+  "Enel2019_reallocation_EUR_m": 156.86,
+  "Enel_all_reallocation_EUR_m": 229.60000000000002,
+  "Dominion_report_delta_USD_m": 250.0,
+  "Dominion_prior_plus_interval_USD_m": 250.0,
+  "Enel2023_display_residual_EUR_m": 1,
+  "Constellation_display_residual_USD_m": -1
+}

@@ -1,0 +1,17 @@
+{
+  "baseline_commit": "484d3b801fcd1441d6e2070a7889d733b43cc326",
+  "compared_csv_files": 223,
+  "numeric_cells_checked": 74281,
+  "numeric_or_row_count_errors": [],
+  "changed_csv_files": [
+    "analysis_panel/results/capacity_component_results.csv",
+    "analysis_panel/results/contextual_window_finance_evidence.csv",
+    "analysis_panel/results/group_capacity_results.csv",
+    "analysis_panel/results/selected_window_finance_evidence.csv",
+    "figures/figure_1_plot_data.csv",
+    "strategy_comparison/seven_history_comparison.csv",
+    "decision_rationales/seven_history_rationale_coverage.csv"
+  ],
+  "passed": true,
+  "note": "Only derived narrative interpretation changes; no source numerical data changed."
+}

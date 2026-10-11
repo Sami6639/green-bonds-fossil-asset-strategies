@@ -1,0 +1,109 @@
+{
+  "version": "BSE-2026-10-11-r3",
+  "passed": true,
+  "checks": [
+    {
+      "check": "contextual groups",
+      "actual": 37,
+      "expected": 37,
+      "passed": true
+    },
+    {
+      "check": "principal groups",
+      "actual": 33,
+      "expected": 33,
+      "passed": true
+    },
+    {
+      "check": "principal pairs",
+      "actual": 32,
+      "expected": 32,
+      "passed": true
+    },
+    {
+      "check": "Dominion excluded from main panel",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "band 0: renewable increase / fossil decrease",
+      "actual": 18,
+      "expected": 18,
+      "passed": true
+    },
+    {
+      "check": "band 0: renewable increase / fossil increase",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "band 0.5: renewable increase / fossil decrease",
+      "actual": 13,
+      "expected": 13,
+      "passed": true
+    },
+    {
+      "check": "band 0.5: renewable increase / fossil increase",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "band 1: renewable increase / fossil decrease",
+      "actual": 13,
+      "expected": 13,
+      "passed": true
+    },
+    {
+      "check": "band 1: renewable increase / fossil increase",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "SSE operating share 2023-03-31",
+      "actual": 6.84,
+      "expected": 6.84,
+      "passed": true
+    },
+    {
+      "check": "SSE operating share 2024-03-31",
+      "actual": 69.48,
+      "expected": 69.48,
+      "passed": true
+    },
+    {
+      "check": "WEC operating share 2024-06-30",
+      "actual": 33.46,
+      "expected": 33.46,
+      "passed": true
+    },
+    {
+      "check": "Enel 2019 bond reassignment EUR million",
+      "actual": 156.86,
+      "expected": 156.86,
+      "passed": true
+    },
+    {
+      "check": "Enel all-issue reassignment EUR million",
+      "actual": 229.6,
+      "expected": 229.6,
+      "passed": true
+    },
+    {
+      "check": "all detailed candidates accounted",
+      "actual": 64,
+      "expected": 64,
+      "passed": true
+    },
+    {
+      "check": "nonadmitted detailed candidates",
+      "actual": 27,
+      "expected": 27,
+      "passed": true
+    }
+  ],
+  "limits": "Computational and recorded-source consistency checks. Not independent verification of all original reports or causal inference."
+}

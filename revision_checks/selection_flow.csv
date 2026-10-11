@@ -1,0 +1,11 @@
+stage,recorded_count,interpretation
+WBA 2023 candidate frame,68,Published company labels; historical 2019–2024 observations assessed retrospectively. Not a global population.
+Remaining WBA screening records,37,Overlapping first-pass records; not 37 additional candidates.
+Additional coverage records,49,Contains WBA and supplementary names; not 49 additional independent groups.
+Detailed candidate register,64,Distinct canonical candidate IDs; different coverage from the 68-name frame.
+Detailed candidate IDs with numeric records,49,Includes 37 admitted groups and 12 not admitted.
+Detailed candidate IDs without numeric snapshot,15,No numeric extraction does not prove ineligibility.
+Not admitted from detailed register,27,12 with numeric records + 15 without; reasons include unresolved records and explicit exclusions.
+Admitted contextual groups,37,33 fuel-identified principal scopes + 4 unsplit-thermal proxies.
+Principal groups,33,Includes ESB coal-plus-gas subset; ESB same-window renewable aggregate unresolved.
+Principal paired groups,32,33 minus ESB; missing renewable capacity remains missing.

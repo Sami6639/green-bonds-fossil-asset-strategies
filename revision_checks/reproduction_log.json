@@ -1,0 +1,81 @@
+{
+  "version": "BSE-2026-10-11-r3",
+  "started_utc": "2026-10-11T13:13:37.440220+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "dependencies": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "Pillow": "12.3.0"
+  },
+  "commands": [
+    {
+      "command": "python run_reproduce.py",
+      "exit_code": 0,
+      "elapsed_seconds": 4.346,
+      "log": "revision_checks/run_reproduce.py.log"
+    },
+    {
+      "command": "python strategy_comparison/build_theory_evidence.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.398,
+      "log": "revision_checks/strategy_comparison_build_theory_evidence.py.log"
+    },
+    {
+      "command": "python decision_rationales/build_audit.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.301,
+      "log": "revision_checks/decision_rationales_build_audit.py.log"
+    },
+    {
+      "command": "python decision_rationales/build_evidence.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.305,
+      "log": "revision_checks/decision_rationales_build_evidence.py.log"
+    },
+    {
+      "command": "python revision_checks/apply_interpretation_corrections.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.081,
+      "log": "revision_checks/revision_checks_apply_interpretation_corrections.py.log"
+    },
+    {
+      "command": "python revision_checks/build_revision_checks.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.452,
+      "log": "revision_checks/revision_checks_build_revision_checks.py.log"
+    }
+  ],
+  "scope": "Clean-copy computational reproduction; no original-report semantic re-verification implied.",
+  "csv_comparison": {
+    "compared_files": 94,
+    "byte_identical_files": 87,
+    "changed_files": [
+      "analysis_panel/results/selected_window_finance_evidence.csv",
+      "analysis_panel/results/contextual_window_finance_evidence.csv",
+      "analysis_panel/results/group_capacity_results.csv",
+      "analysis_panel/results/capacity_component_results.csv",
+      "figures/figure_1_plot_data.csv",
+      "strategy_comparison/seven_history_comparison.csv",
+      "decision_rationales/seven_history_rationale_coverage.csv"
+    ]
+  },
+  "passed": true,
+  "completed_utc": "2026-10-11T13:13:43.392581+00:00",
+  "baseline_source_commit": "484d3b801fcd1441d6e2070a7889d733b43cc326",
+  "input_snapshot_entries": 69,
+  "nested_manifest_entries": 62,
+  "initial_four_command_clean_copy_comparison": {
+    "all_csv_files": 223,
+    "byte_identical_csv_files": 223,
+    "analysis_results_csv_files": 27,
+    "byte_identical_analysis_results_csv_files": 27,
+    "note": "Original four-command numerical baseline reproduced before the additive narrative correction."
+  },
+  "corrected_numerical_equivalence": {
+    "numeric_cells_checked": 74281,
+    "errors": 0,
+    "source": "revision_checks/corrected_numeric_equivalence.json"
+  }
+}
