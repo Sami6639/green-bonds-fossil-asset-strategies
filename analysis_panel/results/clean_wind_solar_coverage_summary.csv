@@ -1,0 +1,2 @@
+selected_group_rows,actual_component_coverage_groups,component_and_fossil_pair_groups,covered_group_ids,caveat
+37,13,13,aes_corporation;ameren;american_electric_power;cfe;china_huaneng;clp;dte_energy;edp;enel;jsw_energy;statkraft;tohoku_electric_power;vattenfall,"Observed two-component coverage, not a cohort-admission or total-RE denominator. No absent=zero, compound Solar & Other, or cross-scope mixing."

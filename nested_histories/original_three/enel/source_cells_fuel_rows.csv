@@ -1,0 +1,45 @@
+source_id,pdf_page,page_line,raw_table_row
+sustainability_2021,228,14,Enel’s commitment to the path towards decarbonization                              CCGT (+19% compared to the previous year).
+sustainability_2021,375,17,"Thermal net capacity                                         (MW)       33,664      35,623        38,897       -1,959     -5.5                  Enel"
+sustainability_2021,375,18,"Coal                                                         (MW)        6,910       8,903         11,695      -1,993    -22.4                  Enel"
+sustainability_2021,375,19,"CCGT                                                         (MW)       15,039      15,009        14,991          30       0.2                  Enel"
+sustainability_2021,375,20,"Oil/Gas                                                      (MW)        11,715      11,711        12,211           4        -                  Enel"
+sustainability_2021,375,22,"Renewable net capacity                                       (MW)       50,066      45,016        42,134        5,050     11.2                  Enel"
+sustainability_2021,375,28,"Total net electrical capacity                                (MW)       87,058      83,967        84,349        3,091      3.7                  Enel"
+sustainability_2021,375,48,"Total net electrical capacity                                (MW)       87,058      83,967        84,349        3,091      3.7                  Enel"
+sustainability_2021,375,51,Coal plants                                                   (no.)           8          10            12          -2    -20.0                  Enel
+sustainability_2021,375,52,CCGT plants                                                   (no.)         23          23            23            -        -                  Enel
+sustainability_2021,375,53,Oil/Gas plants                                                (no.)         48          48            49            -        -                  Enel
+sustainability_2021,376,9,"Thermal net production                      (GWh)      88,285     75,909      103,459       12,376      16.3            Enel"
+sustainability_2021,376,10,"Coal                                        (GWh)      13,858     13,155       37,592         703        5.3            Enel"
+sustainability_2021,376,11,"CCGT                                        (GWh)       51,718    43,353       44,980       8,365       19.3            Enel"
+sustainability_2021,376,12,"Oil/Gas                                     (GWh)      22,709     19,401       20,887       3,308       17.1            Enel"
+sustainability_2021,376,14,"Renewable net production                    (GWh)     108,817    105,360       99,391       3,457        3.3            Enel"
+sustainability_2021,376,20,"Total net production                        (GWh)     222,605    207,108      229,129       15,497       7.5            Enel"
+sustainability_2021,376,39,"Total net production                        (GWh)     222,605    207,108      229,129      15,497        7.5            Enel"
+sustainability_2022,197,33,"• complete fossil fuels phase-out;                                                tilla in León (closed in June 2020), Carboneras in Al-"
+sustainability_2023,109,35,"Coal-fired plants, no.                  19         17            16          16          12          10             8           7           5"
+sustainability_2023,373,19,"Thermal net capacity:                             (MW)          22,553       27,689        33,664        -5,136    -18.5               Enel"
+sustainability_2023,373,20,"Carbone                                           (MW)            4,627       6,590         6,910        -1,963   -29.8                Enel"
+sustainability_2023,373,21,"CCGT                                              (MW)           11,983       13,894       15,039        -1,911    -13.8               Enel"
+sustainability_2023,373,22,"Olio/gas                                          (MW)            5,942        7,204        11,715       -1,262    -17.5               Enel"
+sustainability_2023,373,24,"Renewable net capacity:                           (MW)          55,536       53,561        50,066         1,975      3.7               Enel"
+sustainability_2023,373,30,"Total net electrical capacity                     (MW)           81,417      84,578        87,058        -3,161     -3.7               Enel"
+sustainability_2023,373,49,"Total net electrical capacity                     (MW)           81,417      84,578        87,058        -3,161     -3.7               Enel"
+sustainability_2023,373,52,Coal plants                                       (no.)               5            7            8            -2   -28.6                Enel
+sustainability_2023,373,53,CCGT plants                                       (no.)              17           20           23            -3    -15.0               Enel
+sustainability_2023,374,7,"Thermal net production                    (GWh)      55,480      88,811      88,285     -33,331    -37.5              Enel"
+sustainability_2023,374,8,"Coal                                      (GWh)       10,755      19,722      13,858     -8,967    -45.5              Enel"
+sustainability_2023,374,9,"CCGT                                      (GWh)      36,705      54,436       51,718     -17,731   -32.6              Enel"
+sustainability_2023,374,10,"Oil/natural gas                           (GWh)        8,021      14,652      22,709     -6,631    -45.3              Enel"
+sustainability_2023,374,12,"Renewable net production:                 (GWh)     126,985     112,448      108,817     14,537     12.9              Enel"
+sustainability_2023,374,18,"Total net production                      (GWh)     207,330      227,767    222,605     -20,437     -9.0              Enel"
+sustainability_2023,374,36,"Total net production                      (GWh)     207,330      227,767    222,605     -20,437     -9.0              Enel"
+annual_2024,97,46,Coal-fired
+annual_2024,177,21,"Coal-fired plants                                                      2,377                    10,755                 (8,378)                  -77.9%"
+annual_2024,177,22,"Fuel-oil and turbo-gas plants                                         5,606                      8,021                 (2,415)                  -30.1%"
+annual_2024,177,23,"Combined-cycle plants                                                26,410                     36,705               (10,295)                   -28.0%"
+annual_2024,178,3,"Coal-fired plants                                                      4,627                  4,627                      -                      -"
+annual_2024,178,4,"Fuel-oil and turbo-gas plants                                          4,766                 5,942                  (1,176)               -19.8%"
+annual_2024,178,5,"Combined-cycle plants                                                 11,622                11,983                   (361)                 -3.0%"
+annual_2024,184,15,"Total net efficient installed capacity                    56,608                  55,537                  1,071                   1.9%"

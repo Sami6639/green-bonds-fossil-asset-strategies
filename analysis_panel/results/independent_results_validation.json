@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "checks": 1986,
+  "failed_checks": 0,
+  "endpoint_source_arithmetic_recomputations": 158,
+  "issues": [],
+  "scope": "Derived CSV arithmetic, units, within-group window identity, source-link presence, timing bounds and leave-one-out denominators. Original document extraction and parent admissions remain independently auditable."
+}

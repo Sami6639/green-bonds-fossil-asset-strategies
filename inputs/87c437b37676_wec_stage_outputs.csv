@@ -1,0 +1,3 @@
+issuer,instrument_id,cutoff,allocated_usd_million,named_entries,fully_operating_allocation_share,unresolved_stage_share,interpretation
+WEC Energy Group,WEPCO_20220922_4_75_due2032,2023-06-30,281.7,2,0.0,0,"Source-linked full-operation classification, not measured production or emissions; two reporting entries persist."
+WEC Energy Group,WEPCO_20220922_4_75_due2032,2024-06-30,440.5,2,0.33461975028376845,0,"Source-linked full-operation classification, not measured production or emissions; two reporting entries persist."

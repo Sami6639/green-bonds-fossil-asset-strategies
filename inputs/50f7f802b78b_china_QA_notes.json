@@ -1,0 +1,23 @@
+{
+  "observations": 70,
+  "schema_columns": 28,
+  "unique_ids": 70,
+  "proxy_windows": 3,
+  "strict_core_windows": 0,
+  "notices": [
+    "SPIC2022/23 exact split is supplemental:2022 CPEM issuer-attributed reprint,2023 authored CSR mirrored PDF. Rounded2022–24 official exchange table preferred for proxy comparison.",
+    "SPIC thermal includes biomass; coal+gas2022=80429.3MW;2023=80694.3MW. Coal decline750MW is NOT closure evidence.",
+    "CHN2023 incorrect source table unit corrected using same-page narrative;2024 table rounded and component sum354000 vs reported355000MW.",
+    "Huaneng all three capacity tables reconcile; thermal not silently relabeled coal; nuclear UoP kept distinct from renewable.",
+    "No pooledMW across companies, ownership bases, or finance/refinancing rounds.",
+    "Bond instrument terms precise issue vs registration/interest dates retained.",
+    "2025 SPIC preference shares are NOT counted as2019–24 green bonds; prospectus used only for historical capacity/events.",
+    "No negative event claims or event completeness inferred from absence.",
+    "No allocation continuity established for any window."
+  ],
+  "visual_QA": [
+    "SPIC exchange capacityp142 andCSR printedpp11–12 visually verified",
+    "CHN primary-authored2025 prospectusp56 unit anomaly visually confirmed;2026prospectusp37 historical2024 thermal value and fuel categories visually confirmed",
+    "Huaneng2024green disclosurep136 visually verified; capacityp59 narrative verified; next-page capacity table saved"
+  ]
+}

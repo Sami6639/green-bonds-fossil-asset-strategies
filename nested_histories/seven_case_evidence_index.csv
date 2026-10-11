@@ -1,0 +1,8 @@
+case,source_derived_files,interpretation
+Iberdrola,original_three/iberdrola/history_2019_2024/matched_green_hybrid_2019_2024.csv;original_three/iberdrola/history_2019_2024/matched_green_hybrid_projects_2019_2024.csv;original_three/iberdrola/history_2019_2024/matched_project_delivery_evidence.csv,Instrument/project histories; old physical perimeter not reused
+Enel,original_three/enel/green_2019_issue_pool_continuity.csv;original_three/enel/green_2019_issue_project_vintages.csv;original_three/enel/green_reallocations_2023.csv,2019 green issue pool; project reassignment distinct from closure
+SSE,original_three/sse/green_uop_2023_gb5_project_rows.csv;original_three/sse/bond_project_rows_2024.csv;original_three/sse/fixed_cohort_project_master.csv;original_three/sse/fixed_cohort_bond_project_links.csv,Same fixed project cohort; source stages and dates retained
+WEC,expanded_cases/wec_project_stage_panel.csv;expanded_cases/wec_stage_outputs.csv,"Two persistent allocation entries, stage source facts"
+Dominion,expanded_cases/na_nested_project_facts.csv,Same-bond membership and dated stage facts; allocation change not all new spending
+Eletrobras,expanded_cases/new_nested_continuity_evidence.csv,Same CGT series allocated stocks only; no project-stage panel claimed
+Constellation,expanded_cases/na_nested_project_facts.csv,Allocation category composition and actual stages; nuclear fuel distinct from generation construction

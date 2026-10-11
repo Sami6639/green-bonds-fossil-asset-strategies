@@ -1,0 +1,841 @@
+{
+  "pass": true,
+  "returncode": 0,
+  "csv_compared": 189,
+  "checks": [
+    {
+      "file": "nested_histories/seven_case_evidence_index.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/4f9e308497ef_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/fbd1bfea03a5_root_measurement_checks.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/b949b93d33dd_dominion_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/62cb2d754f03_aes_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/0dac39446216_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/3c8653243e81_southern_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/a564fb53d3d7_north_america_utility_actual_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/df136cae23ab_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/c6f76621d003_europe_additional_observations_long.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/cfda4c899aa6_constellation_utility_actual_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/b968fb67e0ec_latam_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/c9ce135addf4_existing_eight_bounded_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/5e61dab57437_candidate_windows.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/1d8814fdac5b_china_event_search_coverage.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/d035e22db37b_fossil_boundary_consistency_audit.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/0a564747efae_aes_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/90bb98d00e1d_dominion_utility_actual_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/f9f3185bfd12_latam_operating_observations_long.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/a6fed0a76c27_china_observations_long.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/c6564f850b71_constellation_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/513a1e1f1d06_jsw_fossil_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/b2ff4528ea39_nextera_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/87c437b37676_wec_stage_outputs.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/21fc25170c69_constellation_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/69b02019be30_southern_utility_actual_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/4fc120b8e02c_china_group_mapping.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/cfc27e7349e1_dominion_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/9401f22b1109_north_america_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/65fb8b48e3d4_global_additional_candidate_coverage.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/cf76d3371e6b_duke_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/641ef3340bc6_duke_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/63e25a30b069_latam_financing_observations_long.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/c05d71f41553_bounded_fossil_event_scan.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/530894d79bf3_wba2023_candidate_frame.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/acf4e40612d2_existing_nine_current_long.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/2f1543b53deb_integration_evidence_annotations.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/251bb695bf46_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/671c25087349_asia_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/86c29963ce8c_asia_fossil_asset_events.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/a9c11cd6b3a5_taipower_tohoku_observations_long.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/c71ee06a837b_southern_utility_eligibility_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/12870fc960fa_jsw_observations_long.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/a15da671f07f_duke_utility_actual_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/a5c66134803d_china_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/d022ac51d76b_finance_identity_overrides.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/bd408cad6684_existing_eight_event_search_coverage.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/9ab604641caa_north_america_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/1fea337ff2ad_jsw_event_search_coverage.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/67fdf69f5f55_remaining_wba_screen.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/25037bd32be1_independent_group_admission_audit.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/75380e1a7efb_aes_utility_actual_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/9fdb341bbdec_rwe_instrument_register.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/5ac2be03db30_china_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/ce2b7e57ba51_nextera_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/0d7a202e4532_nextera_utility_actual_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/c564256c45cc_rwe_fossil_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/5449f5cd8ece_iberdrola_known_fuel_subset_audit.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/70cb7c5577c0_wec_project_stage_panel.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/2f476531eb51_jsw_group_mapping.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/ddd5db3ed563_latam_analytical_window_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/50c3840c2e1e_rwe_operating_observations_long.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/2ff06cfacc05_rwe_group_mapping.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/772bad69f905_rwe_finance_observations.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/05600d59e8f9_existing_eight_group_independence_map.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/c1058493a91d_fossil_asset_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "inputs/43873310834c_asia_utility_actual_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "figures/figure_1_plot_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "figures/figure_2_group_band_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "figures/figure_2_counts.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "figures/figure_3_plot_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/canonical_project_stage_auxiliary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/latest_joint_candidate_display.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/question_specific_cohort.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/rq2_project_stage_gate.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/window_finance_links.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/group_and_search_evidence_register.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/new_nested_continuity_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/rq1_repeated_finance_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/longest_reviewed_window_display.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/regional_descriptive_envelopes.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/integration_evidence_annotations.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/window_event_links.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/canonical_capacity.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/canonical_observations.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/candidate_adjudication_queue.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/full_sampling_frame_and_screening_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/canonical_candidate_windows.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/screened_candidate_register.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/source_stage_summary_auxiliary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/window_gate_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/group_mapping_review.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/reviewed_regional_window_panel.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/canonical_finance.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/canonical_events.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/finance_identity_overrides.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/source_manifest.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/expanded_cases/na_nested_project_facts.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/expanded_cases/wec_stage_outputs.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/expanded_cases/wec_project_stage_panel.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/expanded_cases/new_nested_continuity_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/quality_issues.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/comparative_revision_audit.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/green_bond_project_allocations.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/descriptive_metrics.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/issuer_year_technology_facts.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/green_bond_instrument_facts.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/validation_checks.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/ccgt_capacity_bridge_2023_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/ownership_events.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/source_manifest.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/project_generation_selected_2019_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/green_2019_issue_pool_continuity.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/green_2019_issue_annual_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/green_2019_issue_full_annual_panel.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/issuer_fuel_year_2019_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/green_2019_issue_project_vintages.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/green_reallocations_2023.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/green_2019_issue_reassignment_disclosures.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/coal_bridge_validation.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/validation_checks.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/coal_capacity_regional_bridge_2019_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/source_cells_fuel_rows.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/green_allocations_by_issue_vintage.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/coal_decision_event_dossier.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/fossil_asset_events_seed.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/enel/source_manifest.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/bond_project_cell_provenance.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/green_uop_2019_2024_coverage.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/fixed_cohort_actual_milestones.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/derived_comparable_generation.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/thermal_capacity_bridge_2023_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/capacity_2019_2024_fuel_stratified.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/boundary_additional_source_cells.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/capacity_2019_2024_event_contributions.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/bond_project_rows_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/boundary_classification_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/fixed_cohort_project_master.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/bond_register_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/fixed_cohort_annual_disclosure_snapshots.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/issuer_year_cells.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/whole_company_boundary_status.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/capacity_prior_decisions_and_dates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/green_uop_2023_gb5_project_rows.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/asset_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/triton_counterparty_corroboration.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/capacity_2019_2024_bridges.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/capacity_2019_2024_source_cells.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/sse/fixed_cohort_bond_project_links.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/matched_green_hybrid_projects_2019_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/matched_green_hybrid_2019_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/fossil_capacity_event_ledger.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/prior_strategy_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/capacity_by_fossil_technology_2019_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/capacity_reporting_revision.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/annual_capacity_bridges_2020_2024.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/matched_project_delivery_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/primary_capacity_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "nested_histories/original_three/iberdrola/history_2019_2024/source_manifest.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "figures/source_data/sse_gb5_maturity_project_weights.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "figures/source_data/wec_project_stage_panel.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "figures/source_data/sse_actual_milestones.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/group_sign_band_sensitivity.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/table_capacity_window_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/sign_band_direction_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/clean_wind_solar_coverage_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/finance_timing_coverage.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/contextual_window_finance_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/finance_aligned_adjacent_robustness.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/selected_window_event_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/descriptive_capacity_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/reviewed_adjacent_window_robustness.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/event_type_presence_by_group.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/additional_boundary_sensitivities.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/automatic_adjacent_category_robustness.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/table_finance_event_presence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/deterministic_window_selection.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/capacity_scatter_plot_data.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/fossil_boundary_review.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/finance_class_breakdown.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/selected_window_finance_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/capacity_endpoint_provenance.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/clean_wind_solar_sensitivity.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/leave_one_group_out_descriptive_counts.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/clean_wind_solar_tier_coverage_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/capacity_direction_pair_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/group_capacity_results.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/event_type_presence_summary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_panel/results/capacity_component_results.csv",
+      "byte_identical": true
+    }
+  ],
+  "relocated_directory": "/tmp/bse_release_final_n4z1j0yn/release",
+  "workspace_reads": "denied",
+  "network": "denied",
+  "original_reports_required": false,
+  "stderr": "",
+  "figure_validation": {
+    "status": "pass",
+    "input_hashes_unchanged": true,
+    "one_group_per_window": true,
+    "band_counts_independently_reconciled": true,
+    "no_proxy_in_principal_or_clean_subsets": true,
+    "stage_percentages_independently_reconciled": true,
+    "broader_groups": 37,
+    "principal_groups": 33,
+    "PNG_dimensions": {
+      "Figure_1_Global_Capacity_Directions": {
+        "pixels": [
+          1950,
+          2308
+        ],
+        "dpi": [
+          299.9994,
+          299.9994
+        ]
+      },
+      "Figure_2_Materiality_Sensitivity": {
+        "pixels": [
+          1950,
+          2130
+        ],
+        "dpi": [
+          299.9994,
+          299.9994
+        ]
+      },
+      "Figure_3_Allocation_Associated_Operation": {
+        "pixels": [
+          1950,
+          1470
+        ],
+        "dpi": [
+          299.9994,
+          299.9994
+        ]
+      }
+    },
+    "artifacts": {
+      "Figure_1_Global_Capacity_Directions.png": {
+        "sha256": "4dac084a440e072557b069f616cebfb8d912ff081d5034f08d796ce31bef8e8a",
+        "bytes": 717072
+      },
+      "Figure_1_Global_Capacity_Directions.pdf": {
+        "sha256": "2521f8da2a7c8e3ce420adcb15b0143954c295675e3cb8868e0483e1e154b06a",
+        "bytes": 29392
+      },
+      "Figure_2_Materiality_Sensitivity.png": {
+        "sha256": "3a994c14684a3b2008b815f86faa82cb1b621fc6128c80936485612398bc3935",
+        "bytes": 262889
+      },
+      "Figure_2_Materiality_Sensitivity.pdf": {
+        "sha256": "f030c07ffb7cc7ec940ac0128465b257839aa26da5b19c7742f5e9fd9e4c3175",
+        "bytes": 39968
+      },
+      "Figure_3_Allocation_Associated_Operation.png": {
+        "sha256": "3225832b54a3c6f3181c4f768e587f4d3ad7a223d93537cabf7d2cf59d92f333",
+        "bytes": 214788
+      },
+      "Figure_3_Allocation_Associated_Operation.pdf": {
+        "sha256": "058151a69a29c0908d68f7ee654fcac4110bef33d631a2caea32b29afd943fe9",
+        "bytes": 24679
+      }
+    }
+  },
+  "PNG_byte_identical": {
+    "Figure_3_Allocation_Associated_Operation.png": true,
+    "Figure_1_Global_Capacity_Directions.png": true,
+    "Figure_2_Materiality_Sensitivity.png": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "reviewed_utc": "2026-10-10T19:18:09.075120+00:00",
+  "status": "pass",
+  "scope": "Author-generated figure PNGs and PDF round-trip images; grayscale previews. Final manuscript page placement remains the manuscript builder\u2019s responsibility.",
+  "figures": [
+    "Figure_1_Global_Capacity_Directions",
+    "Figure_2_Materiality_Sensitivity",
+    "Figure_3_Allocation_Associated_Operation"
+  ],
+  "checks": {
+    "all_three_PNGs_visually_inspected": true,
+    "all_three_vector_PDFs_rendered_and_inspected": true,
+    "all_three_grayscale_previews_inspected": true,
+    "no_clipped_labels": true,
+    "no_overlapping_labels": true,
+    "direction_symbols_distinguishable_in_grayscale": true,
+    "stack_categories_distinguishable_by_hatch_and_shade": true,
+    "full_operation_percentages_and_currency_labels_readable": true,
+    "captions_external_to_images": true,
+    "300_dpi_PNG_metadata_verified": true,
+    "all_data_input_hashes_verified_after_freeze": true
+  },
+  "corrections_during_QA": [
+    "Removed a Figure 3 axis-note overlap and increased top margin.",
+    "Removed a Figure 2 shared vertical label that overlapped a panel letter.",
+    "Added redundant hatches to paired-pattern categories for grayscale readability.",
+    "Updated ESB scope label to coal + gas subset after final boundary audit."
+  ],
+  "final_artifact_sha256": {
+    "Figure_3_Allocation_Associated_Operation.png": "3225832b54a3c6f3181c4f768e587f4d3ad7a223d93537cabf7d2cf59d92f333",
+    "Figure_2_Materiality_Sensitivity.pdf": "61fec696491d718cce2a6ec4e8d9a396d9d2174a8c988879d79d1150c90dbd4f",
+    "Figure_3_Allocation_Associated_Operation.pdf": "d652f5dd44acc69069cee48002256de24ef16da81b06a2d1d739927f33eb5a24",
+    "Figure_1_Global_Capacity_Directions.png": "4dac084a440e072557b069f616cebfb8d912ff081d5034f08d796ce31bef8e8a",
+    "Figure_2_Materiality_Sensitivity.png": "3a994c14684a3b2008b815f86faa82cb1b621fc6128c80936485612398bc3935",
+    "Figure_1_Global_Capacity_Directions.pdf": "6896e9cd3cfd7a0a7326eb32a78cb853e372d22d50a0b342e6ff1995628a657f"
+  },
+  "refresh_note": "Portable paths, archived WEC input and concise main captions added. All final PNGs remain byte-identical to the visually reviewed images."
+}

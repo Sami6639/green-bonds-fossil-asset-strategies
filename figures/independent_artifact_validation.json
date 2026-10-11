@@ -1,0 +1,68 @@
+{
+  "status": "pass",
+  "input_hashes_unchanged": true,
+  "one_group_per_window": true,
+  "band_counts_independently_reconciled": true,
+  "no_proxy_in_principal_or_clean_subsets": true,
+  "stage_percentages_independently_reconciled": true,
+  "broader_groups": 37,
+  "principal_groups": 33,
+  "PNG_dimensions": {
+    "Figure_1_Global_Capacity_Directions": {
+      "pixels": [
+        1950,
+        2308
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    "Figure_2_Materiality_Sensitivity": {
+      "pixels": [
+        1950,
+        2130
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    "Figure_3_Allocation_Associated_Operation": {
+      "pixels": [
+        1950,
+        1470
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    }
+  },
+  "artifacts": {
+    "Figure_1_Global_Capacity_Directions.png": {
+      "sha256": "4dac084a440e072557b069f616cebfb8d912ff081d5034f08d796ce31bef8e8a",
+      "bytes": 717072
+    },
+    "Figure_1_Global_Capacity_Directions.pdf": {
+      "sha256": "6896e9cd3cfd7a0a7326eb32a78cb853e372d22d50a0b342e6ff1995628a657f",
+      "bytes": 29392
+    },
+    "Figure_2_Materiality_Sensitivity.png": {
+      "sha256": "3a994c14684a3b2008b815f86faa82cb1b621fc6128c80936485612398bc3935",
+      "bytes": 262889
+    },
+    "Figure_2_Materiality_Sensitivity.pdf": {
+      "sha256": "61fec696491d718cce2a6ec4e8d9a396d9d2174a8c988879d79d1150c90dbd4f",
+      "bytes": 39968
+    },
+    "Figure_3_Allocation_Associated_Operation.png": {
+      "sha256": "3225832b54a3c6f3181c4f768e587f4d3ad7a223d93537cabf7d2cf59d92f333",
+      "bytes": 214788
+    },
+    "Figure_3_Allocation_Associated_Operation.pdf": {
+      "sha256": "d652f5dd44acc69069cee48002256de24ef16da81b06a2d1d739927f33eb5a24",
+      "bytes": 24679
+    }
+  }
+}

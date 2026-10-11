@@ -1,0 +1,5 @@
+Global utility financing–capacity analysis. Run: python run_reproduce.py
+Python 3; analysis uses standard library, figures require numpy, pandas, matplotlib and Pillow. No network or original PDF required. Inputs are frozen source-derived observations, window/event extracts, scope classifications and methodological verification records. Original paths are provenance metadata only.
+33 principal fuel-identified utility-group scopes plus 4 matched thermal proxies; 37 broad matched groups. Named subsets and ownership bases remain explicit. See analysis_panel/README.txt and executed_protocol.json for limitations.
+This package is prepared for manual upload/review. No publication or original-report redistribution is implied.
+To add to an existing repository, copy this whole versioned folder into it as a new directory, preserving all previous files and Git history. Do not replace or delete the older release. Run the entrypoint from the new folder; review outputs and commit the addition normally. This package does not publish or push anything.

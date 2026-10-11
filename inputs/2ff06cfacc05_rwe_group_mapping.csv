@@ -1,0 +1,2 @@
+analytical_group_id,group_name,legal_issuer,relation,period_start,period_end,mapping_source_url,source_locator,status,independent_counting_note
+RWE,RWE Group,RWE AG,Parent issuer to reported consolidated utility group,2019-01-01,2024-12-31,https://www.rwe.com/en/rwe-annual-report-2023,printed p19 bond table; pp43–45 group operating tables; parent RWE AG financial statements referenced p58,public_primary_source_mapping,One analytical group; RWE subsidiaries and acquired assets are not additional company counts. No claim that proceeds flowed to fossil assets.

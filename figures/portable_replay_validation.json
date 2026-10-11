@@ -1,0 +1,29 @@
+{
+  "status": "pass",
+  "tested_utc": "2026-10-10T19:21:39.119172+00:00",
+  "python_version": "3.12.14",
+  "copied_minimal_layout": true,
+  "called_from_unrelated_working_directory": true,
+  "all_manifest_input_paths_relative": true,
+  "rebuild_and_independent_validator_pass": true,
+  "byte_identical_PNG_and_plot_data": {
+    "Figure_3_Allocation_Associated_Operation.png": true,
+    "Figure_1_Global_Capacity_Directions.png": true,
+    "Figure_2_Materiality_Sensitivity.png": true,
+    "figure_1_plot_data.csv": true,
+    "figure_3_plot_data.csv": true,
+    "figure_2_group_band_data.csv": true,
+    "figure_2_counts.csv": true
+  },
+  "input_paths": [
+    "../analysis_panel/results/results_build_manifest.json",
+    "../analysis_panel/results/group_capacity_results.csv",
+    "../analysis_panel/results/group_sign_band_sensitivity.csv",
+    "../analysis_panel/results/clean_wind_solar_sensitivity.csv",
+    "source_data/sse_gb5_maturity_project_weights.csv",
+    "source_data/sse_actual_milestones.csv",
+    "source_data/wec_project_stage_panel.csv"
+  ],
+  "no_network_or_original_absolute_source_path_required": true,
+  "raw_source_PDFs_required": false
+}

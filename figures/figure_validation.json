@@ -1,0 +1,23 @@
+{
+  "broader_matched_groups": 37,
+  "principal_fuel_identified_groups": 33,
+  "matched_thermal_proxy_groups": 4,
+  "source_precision_directions": "{('decrease', 'decrease'): 2, ('decrease', 'unchanged_at_reported_precision'): 1, ('increase', 'decrease'): 19, ('increase', 'increase'): 10, ('increase', 'unchanged_at_reported_precision'): 2, ('unchanged_at_reported_precision', 'decrease'): 1, ('unchanged_at_reported_precision', 'unchanged_at_reported_precision'): 1, ('unresolved', 'increase'): 1}",
+  "storage_excluded_RE_groups": 8,
+  "paired_denominators": {
+    "fuel_identified_comparator_subset": 32,
+    "reported_source_boundary": 36,
+    "strict_storage_excluded_subset": 8,
+    "clean_wind_solar_components": 11
+  },
+  "one_row_per_selected_group": true,
+  "sign_bands_recomputed_and_match": true,
+  "counts_reconcile_to_denominators": true,
+  "stage_shares_recomputed": true,
+  "sse_milestones_match_classification": true,
+  "no_pooled_mw": true,
+  "no_image_titles": true,
+  "all_visible_text_inside_image_bounds": true,
+  "automatic_checks_passed": true,
+  "visual_QA": "Passed: final PNGs byte-identical to visually reviewed PNG/PDF/grayscale images. See visual_qa.json."
+}

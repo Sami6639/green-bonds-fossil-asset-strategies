@@ -1,0 +1,7 @@
+flow_year,opening_group_coal_MW,closing_group_coal_MW,reported_group_change_MW,sum_regional_changes_MW,regional_reconciliation_residual_MW,plant_mechanism_status
+2019,15828,11695,-4133,-4133,0,Reftinskaya3623MW net disposal directly attributed; other510MW not fully asset-resolved
+2020,11695,8903,-2792,-2792,0,Named closures corroborated; regions612Italy/2061Iberia/119LatAm; individual netMW/timing require boundary discipline
+2021,8903,6910,-1993,-1993,0,Named installed closures1983MW; group netdecrease1993MW;10MW unresolved difference
+2022,6910,6590,-320,-320,0,BocaminaII closure corroborated; LatinAmerica netchange320MW; no gross-net conversion asserted
+2023,6590,4627,-1963,-1963,0,Fusina andAsPontes closures corroborated; Italy560MW/Iberia1403MW regional changes; source plant capacities rounded
+2024,4627,4627,0,,,No change atgroup level; regional cells not extracted for2024; generation decline not retirement

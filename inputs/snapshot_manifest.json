@@ -1,0 +1,416 @@
+[
+  {
+    "original_path": "/workspace/shared/north_america_utility_actual_data.csv",
+    "frozen_path": "a564fb53d3d7_north_america_utility_actual_data.csv",
+    "sha256": "a564fb53d3d718b4b1be029c530a3158428b2a3a9558f49de1a59b2bcef78e8d",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/asia_utility_actual_data.csv",
+    "frozen_path": "43873310834c_asia_utility_actual_data.csv",
+    "sha256": "43873310834c2e3556385655050bfea369359a65937a85af28606189a460f4cb",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/southern_utility_actual_data.csv",
+    "frozen_path": "69b02019be30_southern_utility_actual_data.csv",
+    "sha256": "69b02019be30073f49f8c4f63a0e341a2fef2051e4412f923e07d57c4b1cf918",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/aes_utility_actual_data.csv",
+    "frozen_path": "75380e1a7efb_aes_utility_actual_data.csv",
+    "sha256": "75380e1a7efbba0a8c4983b7b198906948dc51d16e6aa24a2524f8279f3470a2",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/nextera_utility_actual_data.csv",
+    "frozen_path": "0d7a202e4532_nextera_utility_actual_data.csv",
+    "sha256": "0d7a202e45327ed06094f3a8b1da8a1ac12a97b76f71bc93fd3672dbfdee4366",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/duke_utility_actual_data.csv",
+    "frozen_path": "a15da671f07f_duke_utility_actual_data.csv",
+    "sha256": "a15da671f07f588547857e9fe2c9b928c83f909a4dbbde644390fec6c6e491d8",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/dominion_utility_actual_data.csv",
+    "frozen_path": "90bb98d00e1d_dominion_utility_actual_data.csv",
+    "sha256": "90bb98d00e1d41e024a9db87aa21d4f8b5315969de9a16fe6553e748454a7379",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/constellation_utility_actual_data.csv",
+    "frozen_path": "cfda4c899aa6_constellation_utility_actual_data.csv",
+    "sha256": "cfda4c899aa6a9fb68329198b43959fc35399210e9cbe61fda2b0a5ebd7a1246",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/europe_new/europe_additional_observations_long.csv",
+    "frozen_path": "c6f76621d003_europe_additional_observations_long.csv",
+    "sha256": "c6f76621d003faa922ccc92c900b52454ed03b62423607a972fc7bd7c55ee974",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/existing_nine/existing_nine_current_long.csv",
+    "frozen_path": "acf4e40612d2_existing_nine_current_long.csv",
+    "sha256": "acf4e40612d2881be7ec81ee83e004cb533189b301aa705591a93bf5546c4666",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/rwe/rwe_operating_observations_long.csv",
+    "frozen_path": "50c3840c2e1e_rwe_operating_observations_long.csv",
+    "sha256": "50c3840c2e1ee472a5b1913d3d127595fa8a0f6de7fc2a4190685ce0e04255eb",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/rwe/rwe_finance_observations.csv",
+    "frozen_path": "772bad69f905_rwe_finance_observations.csv",
+    "sha256": "772bad69f9057b331e93457959e3145591f89d5eb80b494b79e03eb476c00f9b",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/rwe/rwe_instrument_register.csv",
+    "frozen_path": "9fdb341bbdec_rwe_instrument_register.csv",
+    "sha256": "9fdb341bbdec6f9f0ebad6aa957edd2352a0ae4583764215533bb8705d378778",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/jsw/jsw_observations_long.csv",
+    "frozen_path": "12870fc960fa_jsw_observations_long.csv",
+    "sha256": "12870fc960fae02edf87f8b82df679a53ce6c2566824be659215736d44fd8ebc",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/latam_operating_observations_long.csv",
+    "frozen_path": "f9f3185bfd12_latam_operating_observations_long.csv",
+    "sha256": "f9f3185bfd122f0d06a2986a50af1a2efa6d6dd353433b3ecb00b26fc4ab2e15",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/latam_financing_observations_long.csv",
+    "frozen_path": "63e25a30b069_latam_financing_observations_long.csv",
+    "sha256": "63e25a30b0694b60dbe6d2305965c36db7e4e508d58cfdc88e8a3b768e509329",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/taipower_tohoku/taipower_tohoku_observations_long.csv",
+    "frozen_path": "a9c11cd6b3a5_taipower_tohoku_observations_long.csv",
+    "sha256": "a9c11cd6b3a5a8564151cdc6759b843c202803917badb79e125eeb19e4895865",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/china_utilities/china_observations_long.csv",
+    "frozen_path": "a6fed0a76c27_china_observations_long.csv",
+    "sha256": "a6fed0a76c274a05721763c2367b87fa9b97d7b2f48ab5058f384c999158e3a8",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/china_utilities/china_event_ledger.csv",
+    "frozen_path": "5ac2be03db30_china_event_ledger.csv",
+    "sha256": "5ac2be03db30dc3f01d0f8ed4d8d43cd3f1eba62276850fd8622bea8432e356f",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/constellation_event_ledger.csv",
+    "frozen_path": "21fc25170c69_constellation_event_ledger.csv",
+    "sha256": "21fc25170c69150fdb74c8b36e73c903787cacbf44205f53ee229f3dd61a4352",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/dominion_event_ledger.csv",
+    "frozen_path": "cfc27e7349e1_dominion_event_ledger.csv",
+    "sha256": "cfc27e7349e14e43085e326364257969bf8c002deb8f6459d1a28e0363ea4c19",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/latam_event_ledger.csv",
+    "frozen_path": "b968fb67e0ec_latam_event_ledger.csv",
+    "sha256": "b968fb67e0ec69f265e92206e436b69185c3fecbb4338883a0b921ae050d7078",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/taipower_tohoku/bounded_fossil_event_scan.csv",
+    "frozen_path": "c05d71f41553_bounded_fossil_event_scan.csv",
+    "sha256": "c05d71f41553971140bc777242d05038bea9f61a25c2723ce22905281829b322",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/duke_event_ledger.csv",
+    "frozen_path": "cf76d3371e6b_duke_event_ledger.csv",
+    "sha256": "cf76d3371e6b1e5ce490c7d1fa8ccec4d6a7f18026f5b2bcd90d2048f69fefa6",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/nextera_event_ledger.csv",
+    "frozen_path": "ce2b7e57ba51_nextera_event_ledger.csv",
+    "sha256": "ce2b7e57ba515fb465e1f93df15d203ebd9bbd4eede789b64bfd854ee2578bbc",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/jsw/jsw_fossil_event_ledger.csv",
+    "frozen_path": "513a1e1f1d06_jsw_fossil_event_ledger.csv",
+    "sha256": "513a1e1f1d06a4887aa4c1a8e3afbfdf2e30ed96d1cabc4e5416c58258de1faf",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/aes_event_ledger.csv",
+    "frozen_path": "0a564747efae_aes_event_ledger.csv",
+    "sha256": "0a564747efae9240b0740d53a1860ca81e17f93d83fec6b6ea7141fee49eba0e",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/asia_fossil_asset_events.csv",
+    "frozen_path": "86c29963ce8c_asia_fossil_asset_events.csv",
+    "sha256": "86c29963ce8c94d689e55aaf27dc52da0474e8bc9fdc4ad1fa924bb8ac2d9f91",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/southern_utility_eligibility_event_ledger.csv",
+    "frozen_path": "c71ee06a837b_southern_utility_eligibility_event_ledger.csv",
+    "sha256": "c71ee06a837b3d7be003a15abb23039835c6caf95776cee7bbe1206cda6bedfb",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/north_america_event_ledger.csv",
+    "frozen_path": "9401f22b1109_north_america_event_ledger.csv",
+    "sha256": "9401f22b1109f6388d6f996b12df74c25c0f7033500b8723ec17dbec66371780",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/rwe/rwe_fossil_event_ledger.csv",
+    "frozen_path": "c564256c45cc_rwe_fossil_event_ledger.csv",
+    "sha256": "c564256c45cc1f193cd7b8af1ba583e6770081c7c444dc328982383906ca2eeb",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/europe_new/fossil_asset_event_ledger.csv",
+    "frozen_path": "c1058493a91d_fossil_asset_event_ledger.csv",
+    "sha256": "c1058493a91daab5764a19b5797bb91746650631b3dacfb2fdc95133127e78c5",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/existing_nine/existing_eight_bounded_event_ledger.csv",
+    "frozen_path": "c9ce135addf4_existing_eight_bounded_event_ledger.csv",
+    "sha256": "c9ce135addf48f6519d6b1947b9f0f44df4bd2d3fe6fc8cc43497da4c65300de",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/china_utilities/china_analytical_window_candidates.csv",
+    "frozen_path": "a5c66134803d_china_analytical_window_candidates.csv",
+    "sha256": "a5c66134803dcb00b60a62eaf54c6c0e45ee5f4e1e11c691694b7813918e3bcb",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/constellation_analytical_window_candidates.csv",
+    "frozen_path": "c6564f850b71_constellation_analytical_window_candidates.csv",
+    "sha256": "c6564f850b7147729d29642b0e95d67cdf0cfa2b7754fc93b848a10c7a3418fb",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/dominion_analytical_window_candidates.csv",
+    "frozen_path": "b949b93d33dd_dominion_analytical_window_candidates.csv",
+    "sha256": "b949b93d33dd2d68c943d9df04814bd8a52f9350c527fcfbb0601cc3d92059c6",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/latam_analytical_window_candidates.csv",
+    "frozen_path": "ddd5db3ed563_latam_analytical_window_candidates.csv",
+    "sha256": "ddd5db3ed563026a3549db173842b9996bce51ec07f45928fea9f237a39eadcf",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/taipower_tohoku/candidate_windows.csv",
+    "frozen_path": "5e61dab57437_candidate_windows.csv",
+    "sha256": "5e61dab5743726f1f6b8d51bd737b753080d2cf2ff89226d8d7bfeeb6d80cfc8",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/duke_analytical_window_candidates.csv",
+    "frozen_path": "641ef3340bc6_duke_analytical_window_candidates.csv",
+    "sha256": "641ef3340bc64b0443ff6cef11281fb791d9f38c8dea32695c315dd4ed05b4ea",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/nextera_analytical_window_candidates.csv",
+    "frozen_path": "b2ff4528ea39_nextera_analytical_window_candidates.csv",
+    "sha256": "b2ff4528ea399a37c9aa64d86e5a82b3262f2d26706e4286d1878a5a37388c85",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/jsw/analytical_window_candidates.csv",
+    "frozen_path": "251bb695bf46_analytical_window_candidates.csv",
+    "sha256": "251bb695bf4606fea76ebbf5ff827a9f67070f6287b836823966d6b39febef40",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/aes_analytical_window_candidates.csv",
+    "frozen_path": "62cb2d754f03_aes_analytical_window_candidates.csv",
+    "sha256": "62cb2d754f0343bafc87c5f4008297e3857e16d01e1fa907ae260ddf84fb007c",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/asia_analytical_window_candidates.csv",
+    "frozen_path": "671c25087349_asia_analytical_window_candidates.csv",
+    "sha256": "671c2508734908cd26466adf26efd1cb1443b6895b2e5b9d89e0fea87a001382",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/southern_analytical_window_candidates.csv",
+    "frozen_path": "3c8653243e81_southern_analytical_window_candidates.csv",
+    "sha256": "3c8653243e81dd6b5444e7955d53c3958bdaf4a0bfc4896cdd8f2520edac0884",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/north_america_analytical_window_candidates.csv",
+    "frozen_path": "9ab604641caa_north_america_analytical_window_candidates.csv",
+    "sha256": "9ab604641caa6074402edb47d55192ef4ddf19c7d62c0d40cc8c76cc89966471",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/rwe/analytical_window_candidates.csv",
+    "frozen_path": "0dac39446216_analytical_window_candidates.csv",
+    "sha256": "0dac39446216db4f35c863657e94e0188550ca455e1b53079ba8c67c3b3f9c33",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/existing_nine/analytical_window_candidates.csv",
+    "frozen_path": "df136cae23ab_analytical_window_candidates.csv",
+    "sha256": "df136cae23ab3e387ebedbbddeb04fd2d0e93548f157a81933ee7a12c5947c9e",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/europe_new/analytical_window_candidates.csv",
+    "frozen_path": "4f9e308497ef_analytical_window_candidates.csv",
+    "sha256": "4f9e308497efc1cfe62d658b828b5921d1fb916ed3cfe136b71c5c48ffd87a09",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/integration/group_audit/fossil_boundary_consistency_audit.csv",
+    "frozen_path": "d035e22db37b_fossil_boundary_consistency_audit.csv",
+    "sha256": "d035e22db37b23ae053750bc7c109fd32492d08c861b6f210cb9a668337d3cbf",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/integration/group_audit/iberdrola_known_fuel_subset_audit.csv",
+    "frozen_path": "5449f5cd8ece_iberdrola_known_fuel_subset_audit.csv",
+    "sha256": "5449f5cd8ece80ec7a37ec334cc28244d5a97388589817bf2e59931de4dc9300",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/china_utilities/china_group_mapping.csv",
+    "frozen_path": "4fc120b8e02c_china_group_mapping.csv",
+    "sha256": "4fc120b8e02cde1e4bbd27e6f868e670435289dab644288d7f3024e0355fee18",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/china_utilities/china_event_search_coverage.csv",
+    "frozen_path": "1d8814fdac5b_china_event_search_coverage.csv",
+    "sha256": "1d8814fdac5baa907722784f4d69466d050452b1ec2145613973aad9b37db871",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/integration/group_audit/independent_group_admission_audit.csv",
+    "frozen_path": "25037bd32be1_independent_group_admission_audit.csv",
+    "sha256": "25037bd32be194d68d293b3cce2be3fc794aa7762ebf3d362d5a9076d27bad45",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/integration/group_audit/root_measurement_checks.csv",
+    "frozen_path": "fbd1bfea03a5_root_measurement_checks.csv",
+    "sha256": "fbd1bfea03a503640de8d40c374a8775d5ccda40a7aefc84254952493233c30b",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/integration/analysis_panel/finance_identity_overrides.csv",
+    "frozen_path": "d022ac51d76b_finance_identity_overrides.csv",
+    "sha256": "d022ac51d76bf3e20ea10676d955ce302f373f3d7da074faee700161bf2506b3",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/jsw/jsw_group_mapping.csv",
+    "frozen_path": "2f476531eb51_jsw_group_mapping.csv",
+    "sha256": "2f476531eb51366c3536cb0c550790c1a30dac764748266b47549cbeaed6d93e",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/jsw/jsw_event_search_coverage.csv",
+    "frozen_path": "1fea337ff2ad_jsw_event_search_coverage.csv",
+    "sha256": "1fea337ff2ad62134b66c91421c81b76d0d4db62ecc6efeec1902fd967d7f01a",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/integration/analysis_panel/integration_evidence_annotations.csv",
+    "frozen_path": "2f1543b53deb_integration_evidence_annotations.csv",
+    "sha256": "2f1543b53debe4bdc25e685ddc15bcf8c4f8108e39391cff391a03ddd29f72a2",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/existing_nine/existing_eight_group_independence_map.csv",
+    "frozen_path": "05600d59e8f9_existing_eight_group_independence_map.csv",
+    "sha256": "05600d59e8f94d5ea3263f359e1f340db54aebf3d25f15d36e44ac60841406b3",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/existing_nine/existing_eight_event_search_coverage.csv",
+    "frozen_path": "bd408cad6684_existing_eight_event_search_coverage.csv",
+    "sha256": "bd408cad668453f381ece122dfb4a61d30ced63538ebd866afbfa7d786682262",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/rwe/rwe_group_mapping.csv",
+    "frozen_path": "2ff06cfacc05_rwe_group_mapping.csv",
+    "sha256": "2ff06cfacc05ba11429952fc49768fd389933ef45dba75d250c245f4965fc169",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/wec_project_stage/wec_project_stage_panel.csv",
+    "frozen_path": "70cb7c5577c0_wec_project_stage_panel.csv",
+    "sha256": "70cb7c5577c0b7a8693adaf14ba88b06cbf381b6381a3ec0d7fbd8478b86ab1e",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/wec_project_stage/wec_stage_outputs.csv",
+    "frozen_path": "87c437b37676_wec_stage_outputs.csv",
+    "sha256": "87c437b3767665938b872a4efabdd33c00c5eebe3d23e7451555029082473f3d",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/china_utilities/china_QA_notes.json",
+    "frozen_path": "50f7f802b78b_china_QA_notes.json",
+    "sha256": "50f7f802b78bd92d3d2b61621a19a86feac6441995ce0a3e53f54e7333342025",
+    "artifact_type": "local_protocol_json"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/integration/proposed_cohort_window_gate_spec.json",
+    "frozen_path": "fbcc69e44350_proposed_cohort_window_gate_spec.json",
+    "sha256": "fbcc69e443503604c03a7e11f2f119473d40f8aa6ad35df5e7c8ebabc3041431",
+    "artifact_type": "local_protocol_json"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/integration/analysis_panel/executed_protocol.json",
+    "frozen_path": "78f71c52ddee_executed_protocol.json",
+    "sha256": "78f71c52ddee158ebcc47bd762e5da6761feb2ca5ae5d36e34274f907a6f2415",
+    "artifact_type": "local_protocol_json"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/wba2023_candidate_frame.csv",
+    "frozen_path": "530894d79bf3_wba2023_candidate_frame.csv",
+    "sha256": "530894d79bf31b7a72d3c44d44cdc032388530e7c19558920ae6d784a7e2fd04",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/remaining_wba_screen.csv",
+    "frozen_path": "67fdf69f5f55_remaining_wba_screen.csv",
+    "sha256": "67fdf69f5f55c5a6d584650fdcd1f39c555af2f0110ad3a9cdc923eab7458d0f",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  },
+  {
+    "original_path": "/workspace/shared/bse_global_expansion_20261010/global_additional_candidate_coverage.csv",
+    "frozen_path": "65fb8b48e3d4_global_additional_candidate_coverage.csv",
+    "sha256": "65fb8b48e3d4b29f154f795763bd804958a40bdd8b3b218a0ae77cbefd660b6b",
+    "artifact_type": "local_extracted_csv_not_original_pdf"
+  }
+]

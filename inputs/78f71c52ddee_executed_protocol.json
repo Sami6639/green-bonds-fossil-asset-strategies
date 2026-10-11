@@ -1,0 +1,35 @@
+{
+  "status": "CLOSED_INTAKE_AUDITED_ANALYTICAL_SNAPSHOT",
+  "base_spec": "../proposed_cohort_window_gate_spec.json",
+  "amendments": {
+    "unit": "Independent analytical electric-utility group. Record sovereign/diversified owner without automatically consolidating every utility controlled by it. Prevent actual parent/subsidiary duplicate counts.",
+    "rq3_finance": "Actual issuance, actual allocated stock, or contemporaneously verified identified outstanding green liability. Historical maturity schedule alone is not contemporaneous confirmation. Preserve all three evidence classes. Source-confirmed annual allocation flows are a fourth separate class only when the entire reporting period lies within the physical window.",
+    "main_window": "Longest fully comparable source-supported period within 2019\u20132024. Ties: latest endpoint, then stronger finance-date resolution. Multiple category/scope rows are retained and never treated as independent groups.",
+    "adjacent_windows": "Retained as robustness; missing intermediate-year capacity does not by itself invalidate comparable nonannual endpoints.",
+    "admission": "Closed-intake independent group and boundary audit supports33 principal plus4 matched proxy groups; retain question-specific limitations, no submission-readiness claim.",
+    "outstanding_measurement": "Use outstanding_identified_bond_liability; value basis remains principal, carrying value, or source lower bound as separately reported. No uniform principal interpretation or amount pooling.",
+    "evidence_tiers": "Uniform source-boundary audit separates principal fuel-identified complete or named-subset scope from matched unsplit thermal proxies. Principal 33; proxy extension 4; broad matched 37 in current closed intake. No geographic differentiation.",
+    "stock_boundary_timing": "Contextual stock coverage uses [opening,closing]. Admission IDs require a later within-window record; opening-only stock is explicitly conditional, never extrapolated. Issuance uses (opening,closing]; full annual flow periods must fall within the physical interval.",
+    "iberdrola": "Principal coal+CCGT subset excludes fuel-unspecified cogeneration; original cogeneration-inclusive source vectors retained as sensitivity."
+  },
+  "forbidden": [
+    "green-label-only admission",
+    "zero-filling unknown physical values",
+    "generation substituted for capacity",
+    "mixed-debt quantities represented as pure bonds",
+    "summing financial currencies or stocks/flows",
+    "pooling incompatible ownership bases",
+    "outcome-based selection",
+    "causal inference from coexistence"
+  ],
+  "retrospective_sensitivities": {
+    "capacity_direction_bands": [
+      "0%",
+      "0.5%",
+      "1% of opening capacity"
+    ],
+    "status": "Declared after inspecting data; not preregistered",
+    "technology": "Same-scope wind-plus-solar where both actual components exist, excluding compound Solar&Other and missing-as-zero",
+    "temporal": "Finance-aligned adjacent intervals and pre-first-observed-finance fraction of longer window; not causal post-issuance change"
+  }
+}

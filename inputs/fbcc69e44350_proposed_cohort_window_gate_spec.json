@@ -1,0 +1,190 @@
+{
+  "status": "EXECUTED_PROVISIONAL_WITH_EXPLICIT_2026_10_10_AMENDMENTS",
+  "version": "2026-10-10-2",
+  "purpose": "Question-specific eligibility for a global financing\u2013fossil-asset-strategy comparison; not a causal design.",
+  "observation_period": {
+    "start": "2019-01-01",
+    "end": "2024-12-31",
+    "rule": "Exact observed dates govern inclusion; later publication of historical observations is permitted and flagged; fiscal periods extending beyond the end are excluded from the main period."
+  },
+  "unit": {
+    "independent_count": "independent_analytical_utility_group",
+    "required_ids": [
+      "group_id",
+      "legal_issuer_id",
+      "instrument_or_pool_id",
+      "operating_scope_id"
+    ],
+    "parent_mapping": "dated_source_verified",
+    "subsidiary_parent_double_counting": "prohibited",
+    "cross_level_finance_operating_match": "permitted_only_with_explicit_scope_flag_and_no_funds_transfer_inference",
+    "owner_boundary": "Record sovereign or diversified owner without automatically collapsing distinct utility groups; prohibit actual parent/subsidiary double counting."
+  },
+  "frame": {
+    "base": "WBA2023ElectricUtilities68",
+    "additional_candidates": "Retain only with a predeclared, reproducible importance/coverage rationale; disclose all screened additions.",
+    "upper_cap": null,
+    "stop_at_target_count": false,
+    "target": "More than 20 independent groups with substantive eligible RQ3 observations; this is a requirement to establish, not an observed count.",
+    "selection_on_fossil_outcome": "prohibited"
+  },
+  "common_gates": [
+    "Verified electric-utility group and dated financing-issuer relationship.",
+    "Verified actual qualifying use-of-proceeds bond; frameworks and prospective commitments alone do not qualify.",
+    "Instrument type, financial measure type, amount/unit/currency, reporting coverage, and source URL/locator are explicit.",
+    "Observed date or bounded annual reporting period is established independently of publication date.",
+    "Physical observations identify units, technology, ownership/consolidation basis, operating scope and vintage.",
+    "Missing, unknown, contradictory, ineligible, pending extraction and source-confirmed zero have distinct codes."
+  ],
+  "financing_measure_classes": [
+    "actual_issuance_flow",
+    "outstanding_identified_bond_liability",
+    "cumulative_allocated_stock",
+    "annual_allocation_flow",
+    "eligible_asset_pool_value"
+  ],
+  "instrument_classes": {
+    "main": "green_use_of_proceeds_bond",
+    "separately_flagged": [
+      "dual_green_UoP_and_sustainability_linked_bond",
+      "separable_green_component_of_sustainability_UoP_bond"
+    ],
+    "excluded_from_pure_bond_quantities": [
+      "unseparated_mixed_bond_loan_pool",
+      "pure_sustainability_linked_debt",
+      "framework_without_actual_instrument"
+    ]
+  },
+  "window_selection": {
+    "primary_rule": "Choose the longest fully comparable source-supported physical endpoint window within the observation period; ties use latest ending date, then stronger finance-date resolution. Nonannual intervals are permitted. Preserve all supported adjacent annual intervals as robustness.",
+    "comparison_basis_rule": "Prefer common-basis same-vintage comparative tables. If they are unavailable, allow a source-supported cross-vintage restatement/scope bridge. Never silently splice.",
+    "vintage_tie_breaker": "For each candidate period use the earliest available report containing both endpoints on the same supported basis; preserve later restatements as a separate sensitivity series.",
+    "date_match_classes": [
+      "exact_cutoff",
+      "bounded_report_vintage_alignment"
+    ],
+    "unresolved_date_rule": "Do not assign an undated observation to a window; mark pending timing resolution.",
+    "one_window_display_only": "Longest calendar duration, then latest end date, then exact finance cutoff before bounded report-vintage alignment; no selection on outcome.",
+    "required_rejection_log": [
+      "candidate_window_id",
+      "group_id",
+      "rq",
+      "gate_failed",
+      "evidence_status",
+      "source_or_missing_evidence"
+    ],
+    "outcome_based_selection": false
+  },
+  "research_question_gates": {
+    "RQ1longitudinal": {
+      "estimand": "Descriptive continuity or change of observed financing assignments over time.",
+      "minimum_finance_observations": 2,
+      "requirements": [
+        "Same identified instrument/pool or an explicit supported scope bridge.",
+        "Two dated comparable allocation observations with unchanged measure definition or an evidenced reconciliation.",
+        "Allocated amount and coverage at each endpoint for monetary continuity.",
+        "Project/report-entry identities at both endpoints for membership continuity.",
+        "Comparable project weights for monetary-composition continuity; otherwise that subclaim remains unresolved."
+      ],
+      "claims_not_supported_by_single_observation": [
+        "continuity",
+        "turnover",
+        "allocation_change",
+        "persistent_project_composition"
+      ],
+      "subclaim_denominators": "Separate amount continuity, membership continuity and weighted composition."
+    },
+    "RQ2maturity": {
+      "estimand": "Allocation-stock association with achieved project implementation states at a dated cutoff, not bond-attributable output.",
+      "minimum_finance_observations_for_level": 1,
+      "minimum_finance_observations_for_change": 2,
+      "requirements": [
+        "Dated actual allocated stock for an identified instrument or pool.",
+        "Traceable project/report-entry identities and allocation weights for weighted maturity shares.",
+        "Source-supported achieved operational milestones by cutoff.",
+        "Unknown status or weights retained explicitly; unknown generation is not zero.",
+        "Unique physical-project identities prevent multiplication across financing records."
+      ],
+      "missing_weight_rule": "Permit unweighted descriptive project-status evidence only under a separate label; prohibit financial maturity shares.",
+      "change_claim_rule": "Require repeated comparable allocation coverage, weights, states and cutoff definitions."
+    },
+    "RQ3samewindowcoexistence": {
+      "estimand": "Observed coexistence of a source-confirmed qualifying green financing state or activity and fossil-asset decisions within a comparable dated operating window.",
+      "minimum_finance_observations": 1,
+      "requirements": [
+        "At least one dated actual issuance, actual allocation stock, contemporaneously verified identified outstanding green-bond liability, or source-confirmed annual allocation FLOW whose entire reporting period lies within the comparable physical window. Preserve the four financing classes separately; opening-only stock does not establish subsequent persistence.",
+        "An allocation stock established only before the opening cannot be assumed to persist; obtain contemporaneous confirmation.",
+        "Two comparable physical capacity endpoints on a stable or explicitly bridged ownership/technology basis.",
+        "Systematic bounded search for fossil events for the same interval, including annual operating/transaction disclosures and identified event completion records.",
+        "Maintain event types, source coverage and residual/unknown states even if no event is identified.",
+        "Distinguish issuance-supported from allocation-supported windows in every summary.",
+        "A contractual maturity schedule alone does not establish contemporaneous outstanding liability; annual flows are never recast as cumulative stock or allocation continuity."
+      ],
+      "ledger_requirement": "A completed bounded search and coded results are required; exhaustive discovery is not presumed. No event found is not no event occurred.",
+      "output_only_rule": "Keep as a separately labelled output trajectory/context analysis until capacity and event evidence support asset-strategy comparison; do not substitute generation for capacity.",
+      "allowed_claim": "Same-window coexistence at the recorded timing resolution.",
+      "prohibited_claims": [
+        "financial_continuity_without_RQ1",
+        "project_maturity_without_RQ2",
+        "causal_financing_effect",
+        "bond_proceeds_funded_fossil_assets_without_direct_evidence",
+        "capacity_decline_equals_retirement"
+      ]
+    }
+  },
+  "event_types": [
+    "new_commissioning",
+    "existing_asset_acquisition",
+    "ownership_disposal",
+    "physical_retirement",
+    "reserve_or_mothball_status",
+    "fuel_conversion",
+    "uprating_or_derating",
+    "reporting_or_perimeter_change",
+    "unresolved_change"
+  ],
+  "documentary_link_codes": [
+    "explicit_instrument_or_allocation_link",
+    "attributed_corporate_strategic_relationship",
+    "same_window_coexistence",
+    "no_link_found_in_bounded_corpus",
+    "unresolved"
+  ],
+  "analysis_rules": {
+    "denominators": "Report groups and windows separately for each RQ and each subclaim.",
+    "group_weighting": "Report group-level configurations separately from window counts; no inference treating within-group windows as independent.",
+    "configuration_types": "Nonexclusive and time-varying.",
+    "pooling": "No physical or financial pooling across incompatible scope/basis/measure classes.",
+    "missingness": "Do not replace unknown with zero or absence.",
+    "causal_claims": false,
+    "global_population_prevalence_claims": false,
+    "outstanding_value_basis": "Identified outstanding bond liability may be principal, carrying amount or lower bound; preserve source basis and do not pool monetary magnitudes."
+  },
+  "review_gates": [
+    "Reproduce frame/group deduplication and inclusion/exclusion records.",
+    "Independently audit window selection for outcome dependence.",
+    "Verify key financial and physical source tables and units.",
+    "Test amount reconciliation, identity linkage, event classification and timing.",
+    "Audit all headline counts and question-specific denominators.",
+    "Review contribution, methods/inference and measurement/reproducibility separately.",
+    "Finalize 140\u2013150-word abstract only after established sample and results."
+  ],
+  "observed_final_sample_size": null,
+  "amendment_log": [
+    {
+      "date": "2026-10-10",
+      "authority": "Study lead methodological clarifications during source integration",
+      "changes": [
+        "Distinct utility-group unit rather than automatic ultimate sovereign-owner consolidation",
+        "Longest comparable source-supported window with nonannual durations; adjacent intervals as robustness",
+        "Contemporaneously identified outstanding green liabilities and fully bounded annual allocation flows explicitly accepted as separate RQ3 classes"
+      ],
+      "reason": "Preserve actual financing evidence and legitimate endpoint windows without making unsupported persistence or stock/flow claims."
+    }
+  ],
+  "executed_boundary_and_timing_amendment_20261010": {
+    "evidence_tiers": "33 principal fuel-identified scope groups, four matched thermal proxy extensions, broad37; SPIC unmatched physical context",
+    "stock_coverage": "Inclusive opening/closing context; opening-only stock conditional absent later observation; no persistence inference",
+    "iberdrola": "Coal and CCGT principal subset; unspecified cogeneration sensitivity"
+  }
+}

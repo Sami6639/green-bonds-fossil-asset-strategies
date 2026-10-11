@@ -1,0 +1,7 @@
+issuer,fiscal_year_end,reported_thermal_total_mw,gas_oil_subtotal_mw,explicit_coal_mw,fossil_categories_capacity_mw,multifuel_separately_reported_mw,derivation,whole_company_fossil_capacity_mw,scope,source_url
+SSE,2019,6765,5221,1510,6731,34,GB gas/oil + ROI gas/oil + explicit coal,,reported thermal portfolio only;historical scope changes retained,https://www.sse.com/media/jqcamklf/sse-32693-annual-report-2020-web-1.pdf
+SSE,2020,5364,5296,0,5296,68,GB gas/oil + ROI gas/oil + explicit coal,,reported thermal portfolio only;historical scope changes retained,https://www.sse.com/media/jqcamklf/sse-32693-annual-report-2020-web-1.pdf
+SSE,2021,5284,5284,,5284,,GB gas/oil + ROI gas/oil equals reported total; no additional coal imputation,,reported thermal portfolio only;historical scope changes retained,https://www.sse.com/media/rwhbww02/sse-annual-report-2021.pdf
+SSE,2022,5267,5267,,5267,,GB gas/oil + ROI gas/oil equals reported total; no additional coal imputation,,reported thermal portfolio only;historical scope changes retained,https://www.sse.com/media/blhnuywb/sse-full-annual-report.pdf
+SSE,2023,6830,6830,,6830,,GB gas/oil + ROI gas/oil equals reported total; no additional coal imputation,,reported thermal portfolio only;historical scope changes retained,https://www.sse.com/media/dncdjrcw/sse-annual-report-2023-web-final.pdf
+SSE,2024,6210,6210,,6210,,GB gas/oil + ROI gas/oil equals reported total; no additional coal imputation,,reported thermal portfolio only;historical scope changes retained,https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf

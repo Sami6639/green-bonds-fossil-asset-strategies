@@ -1,0 +1,17 @@
+check,year,metric,residual,interpretation
+fossil_components_minus_reported_total,2019,capacity_MW,0,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2019,generation_GWh,0,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2020,capacity_MW,0,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2020,generation_GWh,0,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2021,capacity_MW,0,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2021,generation_GWh,0,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2022,capacity_MW,-1,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2022,generation_GWh,-1,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2023,capacity_MW,-1,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2023,generation_GWh,1,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2024,capacity_MW,0,retain printed rounding; not a closure bridge
+fossil_components_minus_reported_total,2024,generation_GWh,0,retain printed rounding; not a closure bridge
+cumulative_rollforward_requires_scope_reconciliation_Whitney Hill,2024,GWh,172,unexplained vintage/perimeter/period difference; not proven report error; quarantine cumulative arithmetic
+cumulative_rollforward_requires_scope_reconciliation_Aurora Wind,2024,GWh,1019,unexplained vintage/perimeter/period difference; not proven report error; quarantine cumulative arithmetic
+cumulative_rollforward_requires_scope_reconciliation_Cimarron Bend 3 phase I,2024,GWh,588,unexplained vintage/perimeter/period difference; not proven report error; quarantine cumulative arithmetic
+cumulative_rollforward_requires_scope_reconciliation_Alta Farms II,2024,GWh,582,unexplained vintage/perimeter/period difference; not proven report error; quarantine cumulative arithmetic

@@ -1,0 +1,9 @@
+project_id,event_type,event_date,date_precision,source_url,notes
+SSE_VIKING,investment_decision,2020-06-17,day_or_announcement_day,https://www.sserenewables.com/news-and-views/2020/06/viking-approval-secures-580m-green-recovery-investment-for-shetland/,Actual or dateddecision;distinct fromforecastinannualsnapshot
+SSE_VIKING,full_operation,2024-08-29,day_or_announcement_day,https://www.sserenewables.com/news-and-views/2024/08/landmark-moment-as-sse-powers-up-viking-wind-farm-on-shetland/,Actual or dateddecision;distinct fromforecastinannualsnapshot
+SSE_GORDONBUSH_EXT,investment_decision,2020-01,month,https://www.sse.com/media/jqcamklf/sse-32693-annual-report-2020-web-1.pdf,Actual or dateddecision;distinct fromforecastinannualsnapshot
+SSE_GORDONBUSH_EXT,full_operation,2021-08,month,https://www.sse.com/media/tbjlxitl/sse-green-bond-2024-v4.pdf,Actual or dateddecision;distinct fromforecastinannualsnapshot
+SSE_SEAGREEN1,investment_decision,2020-06-03,day_or_announcement_day,https://www.sserenewables.com/offshore-wind/operational-wind-farms/seagreen/,Actual or dateddecision;distinct fromforecastinannualsnapshot
+SSE_SEAGREEN1,full_operation,2023-10-17,day_or_announcement_day,https://totalenergies.com/newsroom/scotland-totalenergies-commissions-its-biggest-offshore-wind-farm/?lang=eng,Actual or dateddecision;distinct fromforecastinannualsnapshot
+SSE_VIKING,first_power,2024-06,month,https://www.sserenewables.com/news-and-views/2024/06/first-power-generated-from-viking-wind-farm/,Separate fromAugustfulloperations
+SSE_SEAGREEN1,first_power,2022-08,month,https://www.sserenewables.com/offshore-wind/operational-wind-farms/seagreen/,Separate fromOctober2023fulloperations

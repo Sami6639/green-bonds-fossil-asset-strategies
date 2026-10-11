@@ -1,0 +1,4 @@
+issuer,fiscal_year_end,metric,value,unit,status,formula,input_file,note
+SSE,2022,wind_plus_conventional_hydro_generation,8499,GWh,derived,onshore_generation + offshore_generation + hydro_generation,issuer_year_cells.csv,excludes_biomass_storage_and_constrained_off
+SSE,2023,wind_plus_conventional_hydro_generation,9296,GWh,derived,onshore_generation + offshore_generation + hydro_generation,issuer_year_cells.csv,excludes_biomass_storage_and_constrained_off
+SSE,2024,wind_plus_conventional_hydro_generation,9612,GWh,derived,onshore_generation + offshore_generation + hydro_generation,issuer_year_cells.csv,excludes_biomass_storage_and_constrained_off

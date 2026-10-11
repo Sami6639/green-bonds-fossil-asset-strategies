@@ -1,0 +1,26 @@
+[
+  {
+    "file": "sse_gb5_maturity_project_weights.csv",
+    "source_archive_relative_path": "main_exhibits/sse_gb5_maturity_project_weights.csv",
+    "source_archive": "bse_utility_final_revision_20261010/data_package",
+    "sha256": "a33ede40da1b9dd75f7d9f410bb86374bbc30bfbfebdcc524a474eee1b77ff89",
+    "source_urls_embedded": true,
+    "corporate_pdf_redistributed": false
+  },
+  {
+    "file": "sse_actual_milestones.csv",
+    "source_archive_relative_path": "sse/fixed_cohort_actual_milestones.csv",
+    "source_archive": "bse_utility_final_revision_20261010/data_package",
+    "sha256": "2d5bab828e684abc87b53f25921556ee64386a168fdee72d7f3d95117997adee",
+    "source_urls_embedded": true,
+    "corporate_pdf_redistributed": false
+  },
+  {
+    "file": "wec_project_stage_panel.csv",
+    "source_archive_relative_path": "wec_project_stage/wec_project_stage_panel.csv",
+    "source_archive": "bse_global_expansion_20261010",
+    "sha256": "70cb7c5577c0b7a8693adaf14ba88b06cbf381b6381a3ec0d7fbd8478b86ab1e",
+    "source_urls_embedded": true,
+    "corporate_pdf_redistributed": false
+  }
+]

@@ -1,0 +1,8 @@
+issuer,fiscal_year_end,metric,value,unit,value_status,source_url,source_locator,source_column,verification,retrieved
+SSE,2024,gas_oil_capacity_gb,5538,MW,reported_verified_supplement,https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf,p78 Thermal KPI,March2024,official_web_PDF_text,2026-10-10
+SSE,2024,enterprise_biomass_heat_other_output,105,GWh,reported_mixed_energy_not_fossil_electricity,https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf,p82 Enterprise KPI,March2024,official_web_PDF_text,2026-10-10
+SSE,2023,enterprise_biomass_heat_other_output,96,GWh,reported_mixed_energy_not_fossil_electricity,https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf,p82 Enterprise KPI,March2023,official_web_PDF_text,2026-10-10
+SSE,2022,enterprise_biomass_heat_other_output,104,GWh,reported_mixed_energy_not_fossil_electricity,https://www.sse.com/media/dncdjrcw/sse-annual-report-2023-web-final.pdf,p110–111 Distributed Energy KPI;PDF56,March2022,official_web_PDF_text,2026-10-10
+SSE,2024,renewable_total_sustainability_including_biomass_storage,10004,GWh,reported_alternate_definition,https://www.sse.com/media/nardc12j/sse-plc-sustainability-report-2024.pdf,p36–37 performance summary,2023/24,official_web_PDF_text,2026-10-10
+SSE,2023,renewable_total_sustainability_including_biomass_storage,9665,GWh,reported_alternate_definition,https://www.sse.com/media/nardc12j/sse-plc-sustainability-report-2024.pdf,p36–37 performance summary,2022/23,official_web_PDF_text,2026-10-10
+SSE,2022,renewable_total_sustainability_including_biomass_storage,8799,GWh,reported_alternate_definition,https://www.sse.com/media/nardc12j/sse-plc-sustainability-report-2024.pdf,p36–37 performance summary,2021/22,official_web_PDF_text,2026-10-10

@@ -1,0 +1,108 @@
+{
+  "status": "pass",
+  "relocated_directory": "/tmp/bse_panel_relocated_7abuv0sm",
+  "inputs_frozen": 69,
+  "output_csv_files": 24,
+  "original_workspace_reads": "denied_by_runtime_audit_hook",
+  "network_access": "denied_by_runtime_audit_hook",
+  "original_report_pdfs_required": false,
+  "comparisons": [
+    {
+      "file": "candidate_adjudication_queue.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "canonical_candidate_windows.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "canonical_capacity.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "canonical_events.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "canonical_finance.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "canonical_observations.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "canonical_project_stage_auxiliary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "full_sampling_frame_and_screening_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "group_and_search_evidence_register.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "group_mapping_review.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "latest_joint_candidate_display.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "longest_reviewed_window_display.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "new_nested_continuity_evidence.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "question_specific_cohort.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "regional_descriptive_envelopes.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "reviewed_regional_window_panel.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "rq1_repeated_finance_candidates.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "rq2_project_stage_gate.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "screened_candidate_register.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "source_manifest.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "source_stage_summary_auxiliary.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "window_event_links.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "window_finance_links.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "window_gate_ledger.csv",
+      "byte_identical": true
+    }
+  ],
+  "stdout": "{\n  \"status\": \"CLOSED_INTAKE_AUDITED_ANALYTICAL_SNAPSHOT\",\n  \"build_script_sha256\": \"465e46840ced8df98245a540398b1884876f65fb40c53b2cefcab5608d0853fe\",\n  \"source_files\": 18,\n  \"canonical_records\": 4857,\n  \"issuer_label_groups\": 49,\n  \"physical_category_candidate_windows\": 206,\n  \"joint_candidate_label_groups\": 29,\n  \"joint_candidate_groups_with_bounded_event_search\": 29,\n  \"reviewed_regional_windows\": 64,\n  \"reviewed_joint_candidate_label_groups\": 39,\n  \"reviewed_provisional_evidence_pass_label_groups\": 37,\n  \"regional_window_or_numeric_label_count\": 64,\n  \"documented_WBA_frame_rows\": 68,\n  \"remaining_WBA_first_pass_records\": 37,\n  \"additional_candidate_coverage_records\": 49,\n  \"provisionally_admitted_groups\": 37,\n  \"principal_fuel_identified_groups\": 33,\n  \"matched_thermal_proxy_extension_groups\": 4,\n  \"final_verified_admitted_groups\": 37,\n  \"rq1_candidate_pairs\": 122,\n  \"rq2_linked_stage_rows\": 4,\n  \"checks\": {\n    \"regression_Dominion_200MW_not_monetary\": true,\n    \"regression_Dominion_62MW_not_monetary\": true,\n    \"regression_valid_USD_allocation_is_monetary\": true,\n    \"regression_project_count_not_monetary\": true,\n    \"all_linked_finance_has_monetary_unit\": true,\n    \"all_reviewed_finance_has_monetary_unit\": true,\n    \"unique_record_ids\": true,\n    \"unique_window_ids\": true,\n    \"physical_pairs_same_unit\": true,\n    \"no_window_end_after_2024\": true,\n    \"no_zero_fill\": true,\n    \"no_currency_conversion_or_pooling\": true,\n    \"raw_input_hashes_unchanged\": true\n  },\n  \"interpretation\": \"Category window rows are not independent groups or aggregate fossil windows. Closed-intake independent group and boundary audit supports the reported tier counts. Qualified scopes and question-specific exclusions persist; not a submission-readiness assessment.\"\n}\n"
+}

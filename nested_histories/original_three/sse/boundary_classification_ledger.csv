@@ -1,0 +1,10 @@
+asset_or_component,change_type,date,source_fact,consequence,quantified_generation_adjustment_gwh,source_url,source_locator
+Marchwood,contractual_vs_ownership_boundary,all_pilot_years,50pct_equity;100pct_output_PPA,reported_thermal_output_not_equity_only,,https://www.sse.com/media/dncdjrcw/sse-annual-report-2023-web-final.pdf,p106–107 Thermal KPI note2 and contracts footnote
+Seabank,contract_expiry_and_reporting_boundary,2021-09,100pct_PPA_to50pct_equity,FY2022_spans_two_boundaries;not_retirement,,https://www.sse.com/media/dncdjrcw/sse-annual-report-2023-web-final.pdf,p106–107 Thermal KPI note2
+Triton Power,ownership_acquisition,2022-09-01,acquired_portfolio_entered_scope,FY2023_partial_year;FY2024_full_year,,https://www.sse.com/media/dncdjrcw/sse-annual-report-2023-web-final.pdf,p106–107 Thermal KPI note1
+Keadby2,physical_commissioning_and_output_exclusion,2023-03-15,1184GWh_precommissioning_excluded_FY2023,constant_physical_output_series_not_yet_recovered,,https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf,p78 Thermal KPI note4
+Tarbert,physical_closure,2023-12,620MW_old_oil_station_closed,capacity_event_not_quantified_generation_effect,,https://www.sse.com/media/ej5l4w14/sse-plc_prospectus-2024_final-version.pdf,p105
+Enterprise,unresolved_fuel_and_energy_boundary,2022–2024,biomass_heat_and_other_output_reported_separately,whole_company_fossil_generation_residual_NA,,https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf,p82
+Biomass,renewable_segment_exclusion,2022–2024,73/68/78GWh_outside_renewables_segment,FY2024_cross_report1GWh_discrepancy,,https://www.sse.com/media/0aibgke4/sse_ar24_interactive.pdf,p75 note4; sustainability2024pp36–37
+Coal,historical_physical_closure,2020,last_coal_station_closed,supports_historical_exit_but_no_numeric_coal_cell_added,,https://www.sse.com/media/vodhr2aw/sse-plc-sustainability-report-2024.pdf,pp20–21
+Emissions,operational_control_vs_equity_boundary,2022–2024,Seabank50pct_emissions_in_scope3,do_not_pair_raw_scope1_with_equity_output_without_alignment,,https://www.sse.com/media/vodhr2aw/sse-plc-sustainability-report-2024.pdf,pp20–21
